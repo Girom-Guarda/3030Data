@@ -170,7 +170,7 @@
    "Observation": 59495
  },
  {
-   "Lower Tier Local Authorities": "Bristol",
+   "Lower Tier Local Authorities": "Bristol,  City of",
    "Distance travelled to work (11 categories)": "Works mainly from home",
    "Observation": 92026
  },
@@ -660,7 +660,7 @@
    "Observation": 41654
  },
  {
-   "Lower Tier Local Authorities": "Herefordshire",
+   "Lower Tier Local Authorities": "Herefordshire, County of",
    "Distance travelled to work (11 categories)": "Works mainly from home",
    "Observation": 22618
  },
@@ -740,7 +740,7 @@
    "Observation": 14162
  },
  {
-   "Lower Tier Local Authorities": "Kingston upon Hull",
+   "Lower Tier Local Authorities": "Kingston upon Hull, City of",
    "Distance travelled to work (11 categories)": "2km to less than 5km",
    "Observation": 32635
  },
