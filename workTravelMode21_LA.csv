@@ -1,0 +1,3997 @@
+areaName,code,category,value
+Adur,E07000223,home,9266
+Adur,E07000223,metro,15
+Adur,E07000223,train,839
+Adur,E07000223,bus,925
+Adur,E07000223,taxi,70
+Adur,E07000223,motorcycle,234
+Adur,E07000223,carDriver,14254
+Adur,E07000223,carPassenger,1079
+Adur,E07000223,bicycle,892
+Adur,E07000223,foot,1938
+Adur,E07000223,other,313
+Adur,E07000223,noWork,34719
+Allerdale,E07000026,home,10757
+Allerdale,E07000026,metro,17
+Allerdale,E07000026,train,196
+Allerdale,E07000026,bus,992
+Allerdale,E07000026,taxi,92
+Allerdale,E07000026,motorcycle,129
+Allerdale,E07000026,carDriver,24859
+Allerdale,E07000026,carPassenger,2036
+Allerdale,E07000026,bicycle,407
+Allerdale,E07000026,foot,4328
+Allerdale,E07000026,other,422
+Allerdale,E07000026,noWork,51919
+Amber Valley,E07000032,home,15225
+Amber Valley,E07000032,metro,27
+Amber Valley,E07000032,train,201
+Amber Valley,E07000032,bus,1458
+Amber Valley,E07000032,taxi,153
+Amber Valley,E07000032,motorcycle,313
+Amber Valley,E07000032,carDriver,35212
+Amber Valley,E07000032,carPassenger,2430
+Amber Valley,E07000032,bicycle,543
+Amber Valley,E07000032,foot,4180
+Amber Valley,E07000032,other,429
+Amber Valley,E07000032,noWork,66035
+Arun,E07000224,home,18060
+Arun,E07000224,metro,52
+Arun,E07000224,train,1270
+Arun,E07000224,bus,1264
+Arun,E07000224,taxi,216
+Arun,E07000224,motorcycle,380
+Arun,E07000224,carDriver,39949
+Arun,E07000224,carPassenger,3823
+Arun,E07000224,bicycle,2014
+Arun,E07000224,foot,5342
+Arun,E07000224,other,820
+Arun,E07000224,noWork,91698
+Ashfield,E07000170,home,11460
+Ashfield,E07000170,metro,545
+Ashfield,E07000170,train,258
+Ashfield,E07000170,bus,1724
+Ashfield,E07000170,taxi,419
+Ashfield,E07000170,motorcycle,275
+Ashfield,E07000170,carDriver,35311
+Ashfield,E07000170,carPassenger,3005
+Ashfield,E07000170,bicycle,841
+Ashfield,E07000170,foot,4070
+Ashfield,E07000170,other,524
+Ashfield,E07000170,noWork,67870
+Ashford,E07000105,home,19120
+Ashford,E07000105,metro,83
+Ashford,E07000105,train,1575
+Ashford,E07000105,bus,1177
+Ashford,E07000105,taxi,152
+Ashford,E07000105,motorcycle,221
+Ashford,E07000105,carDriver,32389
+Ashford,E07000105,carPassenger,2552
+Ashford,E07000105,bicycle,1186
+Ashford,E07000105,foot,4533
+Ashford,E07000105,other,626
+Ashford,E07000105,noWork,69132
+Babergh,E07000200,home,13171
+Babergh,E07000200,metro,32
+Babergh,E07000200,train,347
+Babergh,E07000200,bus,282
+Babergh,E07000200,taxi,73
+Babergh,E07000200,motorcycle,184
+Babergh,E07000200,carDriver,23542
+Babergh,E07000200,carPassenger,1407
+Babergh,E07000200,bicycle,499
+Babergh,E07000200,foot,3055
+Babergh,E07000200,other,368
+Babergh,E07000200,noWork,49384
+Barking and Dagenham,E09000002,home,19572
+Barking and Dagenham,E09000002,metro,15301
+Barking and Dagenham,E09000002,train,8660
+Barking and Dagenham,E09000002,bus,9690
+Barking and Dagenham,E09000002,taxi,542
+Barking and Dagenham,E09000002,motorcycle,599
+Barking and Dagenham,E09000002,carDriver,30732
+Barking and Dagenham,E09000002,carPassenger,2392
+Barking and Dagenham,E09000002,bicycle,1218
+Barking and Dagenham,E09000002,foot,4464
+Barking and Dagenham,E09000002,other,1416
+Barking and Dagenham,E09000002,noWork,124280
+Barnet,E09000003,home,79628
+Barnet,E09000003,metro,20758
+Barnet,E09000003,train,4690
+Barnet,E09000003,bus,15090
+Barnet,E09000003,taxi,872
+Barnet,E09000003,motorcycle,1197
+Barnet,E09000003,carDriver,46797
+Barnet,E09000003,carPassenger,3169
+Barnet,E09000003,bicycle,2162
+Barnet,E09000003,foot,9361
+Barnet,E09000003,other,2451
+Barnet,E09000003,noWork,203170
+Barnsley,E08000016,home,22340
+Barnsley,E08000016,metro,37
+Barnsley,E08000016,train,904
+Barnsley,E08000016,bus,4733
+Barnsley,E08000016,taxi,699
+Barnsley,E08000016,motorcycle,432
+Barnsley,E08000016,carDriver,66305
+Barnsley,E08000016,carPassenger,6962
+Barnsley,E08000016,bicycle,738
+Barnsley,E08000016,foot,7575
+Barnsley,E08000016,other,956
+Barnsley,E08000016,noWork,132892
+Barrow-in-Furness,E07000027,home,6051
+Barrow-in-Furness,E07000027,metro,5
+Barrow-in-Furness,E07000027,train,250
+Barrow-in-Furness,E07000027,bus,937
+Barrow-in-Furness,E07000027,taxi,387
+Barrow-in-Furness,E07000027,motorcycle,366
+Barrow-in-Furness,E07000027,carDriver,15685
+Barrow-in-Furness,E07000027,carPassenger,1755
+Barrow-in-Furness,E07000027,bicycle,1030
+Barrow-in-Furness,E07000027,foot,4403
+Barrow-in-Furness,E07000027,other,313
+Barrow-in-Furness,E07000027,noWork,36224
+Basildon,E07000066,home,27225
+Basildon,E07000066,metro,707
+Basildon,E07000066,train,4967
+Basildon,E07000066,bus,1846
+Basildon,E07000066,taxi,802
+Basildon,E07000066,motorcycle,386
+Basildon,E07000066,carDriver,41731
+Basildon,E07000066,carPassenger,3818
+Basildon,E07000066,bicycle,1057
+Basildon,E07000066,foot,5498
+Basildon,E07000066,other,976
+Basildon,E07000066,noWork,98560
+Basingstoke and Deane,E07000084,home,38057
+Basingstoke and Deane,E07000084,metro,58
+Basingstoke and Deane,E07000084,train,1396
+Basingstoke and Deane,E07000084,bus,2156
+Basingstoke and Deane,E07000084,taxi,367
+Basingstoke and Deane,E07000084,motorcycle,358
+Basingstoke and Deane,E07000084,carDriver,41928
+Basingstoke and Deane,E07000084,carPassenger,3447
+Basingstoke and Deane,E07000084,bicycle,1394
+Basingstoke and Deane,E07000084,foot,7036
+Basingstoke and Deane,E07000084,other,776
+Basingstoke and Deane,E07000084,noWork,88181
+Bassetlaw,E07000171,home,10741
+Bassetlaw,E07000171,metro,25
+Bassetlaw,E07000171,train,268
+Bassetlaw,E07000171,bus,694
+Bassetlaw,E07000171,taxi,170
+Bassetlaw,E07000171,motorcycle,240
+Bassetlaw,E07000171,carDriver,33983
+Bassetlaw,E07000171,carPassenger,3148
+Bassetlaw,E07000171,bicycle,1035
+Bassetlaw,E07000171,foot,4144
+Bassetlaw,E07000171,other,468
+Bassetlaw,E07000171,noWork,62889
+Bath and North East Somerset,E06000022,home,34611
+Bath and North East Somerset,E06000022,metro,62
+Bath and North East Somerset,E06000022,train,629
+Bath and North East Somerset,E06000022,bus,3063
+Bath and North East Somerset,E06000022,taxi,235
+Bath and North East Somerset,E06000022,motorcycle,522
+Bath and North East Somerset,E06000022,carDriver,35753
+Bath and North East Somerset,E06000022,carPassenger,2637
+Bath and North East Somerset,E06000022,bicycle,1713
+Bath and North East Somerset,E06000022,foot,9848
+Bath and North East Somerset,E06000022,other,742
+Bath and North East Somerset,E06000022,noWork,103597
+Bedford,E06000055,home,28568
+Bedford,E06000055,metro,106
+Bedford,E06000055,train,1352
+Bedford,E06000055,bus,1782
+Bedford,E06000055,taxi,1102
+Bedford,E06000055,motorcycle,356
+Bedford,E06000055,carDriver,42890
+Bedford,E06000055,carPassenger,4403
+Bedford,E06000055,bicycle,2529
+Bedford,E06000055,foot,6935
+Bedford,E06000055,other,842
+Bedford,E06000055,noWork,94360
+Bexley,E09000004,home,40692
+Bexley,E09000004,metro,2838
+Bexley,E09000004,train,12164
+Bexley,E09000004,bus,7763
+Bexley,E09000004,taxi,688
+Bexley,E09000004,motorcycle,767
+Bexley,E09000004,carDriver,42503
+Bexley,E09000004,carPassenger,2919
+Bexley,E09000004,bicycle,995
+Bexley,E09000004,foot,5258
+Bexley,E09000004,other,1396
+Bexley,E09000004,noWork,128489
+Birmingham,E08000025,home,114058
+Birmingham,E08000025,metro,977
+Birmingham,E08000025,train,9220
+Birmingham,E08000025,bus,43123
+Birmingham,E08000025,taxi,6673
+Birmingham,E08000025,motorcycle,1118
+Birmingham,E08000025,carDriver,202963
+Birmingham,E08000025,carPassenger,21557
+Birmingham,E08000025,bicycle,5741
+Birmingham,E08000025,foot,31483
+Birmingham,E08000025,other,5505
+Birmingham,E08000025,noWork,702501
+Blaby,E07000129,home,15526
+Blaby,E07000129,metro,23
+Blaby,E07000129,train,134
+Blaby,E07000129,bus,998
+Blaby,E07000129,taxi,196
+Blaby,E07000129,motorcycle,185
+Blaby,E07000129,carDriver,28981
+Blaby,E07000129,carPassenger,1968
+Blaby,E07000129,bicycle,881
+Blaby,E07000129,foot,2181
+Blaby,E07000129,other,373
+Blaby,E07000129,noWork,51480
+Blackburn with Darwen,E06000008,home,12388
+Blackburn with Darwen,E06000008,metro,32
+Blackburn with Darwen,E06000008,train,522
+Blackburn with Darwen,E06000008,bus,1568
+Blackburn with Darwen,E06000008,taxi,2120
+Blackburn with Darwen,E06000008,motorcycle,196
+Blackburn with Darwen,E06000008,carDriver,35313
+Blackburn with Darwen,E06000008,carPassenger,4279
+Blackburn with Darwen,E06000008,bicycle,445
+Blackburn with Darwen,E06000008,foot,6018
+Blackburn with Darwen,E06000008,other,677
+Blackburn with Darwen,E06000008,noWork,91181
+Blackpool,E06000009,home,12013
+Blackpool,E06000009,metro,262
+Blackpool,E06000009,train,321
+Blackpool,E06000009,bus,3381
+Blackpool,E06000009,taxi,948
+Blackpool,E06000009,motorcycle,333
+Blackpool,E06000009,carDriver,29376
+Blackpool,E06000009,carPassenger,3481
+Blackpool,E06000009,bicycle,1375
+Blackpool,E06000009,foot,7004
+Blackpool,E06000009,other,868
+Blackpool,E06000009,noWork,81674
+Blaenau Gwent,W06000019,home,4036
+Blaenau Gwent,W06000019,metro,8
+Blaenau Gwent,W06000019,train,137
+Blaenau Gwent,W06000019,bus,437
+Blaenau Gwent,W06000019,taxi,142
+Blaenau Gwent,W06000019,motorcycle,113
+Blaenau Gwent,W06000019,carDriver,19735
+Blaenau Gwent,W06000019,carPassenger,2129
+Blaenau Gwent,W06000019,bicycle,118
+Blaenau Gwent,W06000019,foot,1746
+Blaenau Gwent,W06000019,other,198
+Blaenau Gwent,W06000019,noWork,38105
+Bolsover,E07000033,home,6884
+Bolsover,E07000033,metro,17
+Bolsover,E07000033,train,135
+Bolsover,E07000033,bus,865
+Bolsover,E07000033,taxi,195
+Bolsover,E07000033,motorcycle,193
+Bolsover,E07000033,carDriver,24349
+Bolsover,E07000033,carPassenger,2161
+Bolsover,E07000033,bicycle,250
+Bolsover,E07000033,foot,2714
+Bolsover,E07000033,other,337
+Bolsover,E07000033,noWork,42173
+Bolton,E08000001,home,29568
+Bolton,E08000001,metro,181
+Bolton,E08000001,train,1618
+Bolton,E08000001,bus,4778
+Bolton,E08000001,taxi,2583
+Bolton,E08000001,motorcycle,425
+Bolton,E08000001,carDriver,67803
+Bolton,E08000001,carPassenger,6830
+Bolton,E08000001,bicycle,1057
+Bolton,E08000001,foot,9226
+Bolton,E08000001,other,1370
+Bolton,E08000001,noWork,170525
+Boston,E07000136,home,3558
+Boston,E07000136,metro,27
+Boston,E07000136,train,77
+Boston,E07000136,bus,522
+Boston,E07000136,taxi,166
+Boston,E07000136,motorcycle,143
+Boston,E07000136,carDriver,20491
+Boston,E07000136,carPassenger,4154
+Boston,E07000136,bicycle,1408
+Boston,E07000136,foot,2748
+Boston,E07000136,other,337
+Boston,E07000136,noWork,36871
+Bournemouth Christchurch and Poole,E06000058,home,55150
+Bournemouth Christchurch and Poole,E06000058,metro,133
+Bournemouth Christchurch and Poole,E06000058,train,1030
+Bournemouth Christchurch and Poole,E06000058,bus,8312
+Bournemouth Christchurch and Poole,E06000058,taxi,574
+Bournemouth Christchurch and Poole,E06000058,motorcycle,1492
+Bournemouth Christchurch and Poole,E06000058,carDriver,89083
+Bournemouth Christchurch and Poole,E06000058,carPassenger,6898
+Bournemouth Christchurch and Poole,E06000058,bicycle,5984
+Bournemouth Christchurch and Poole,E06000058,foot,15391
+Bournemouth Christchurch and Poole,E06000058,other,1985
+Bournemouth Christchurch and Poole,E06000058,noWork,214164
+Bracknell Forest,E06000036,home,26512
+Bracknell Forest,E06000036,metro,68
+Bracknell Forest,E06000036,train,976
+Bracknell Forest,E06000036,bus,733
+Bracknell Forest,E06000036,taxi,242
+Bracknell Forest,E06000036,motorcycle,287
+Bracknell Forest,E06000036,carDriver,30194
+Bracknell Forest,E06000036,carPassenger,2160
+Bracknell Forest,E06000036,bicycle,912
+Bracknell Forest,E06000036,foot,3755
+Bracknell Forest,E06000036,other,557
+Bracknell Forest,E06000036,noWork,58210
+Bradford,E08000032,home,55396
+Bradford,E08000032,metro,131
+Bradford,E08000032,train,4160
+Bradford,E08000032,bus,10377
+Bradford,E08000032,taxi,5915
+Bradford,E08000032,motorcycle,527
+Bradford,E08000032,carDriver,109677
+Bradford,E08000032,carPassenger,12631
+Bradford,E08000032,bicycle,1525
+Bradford,E08000032,foot,18230
+Bradford,E08000032,other,2568
+Bradford,E08000032,noWork,325274
+Braintree,E07000067,home,21933
+Braintree,E07000067,metro,137
+Braintree,E07000067,train,1698
+Braintree,E07000067,bus,847
+Braintree,E07000067,taxi,224
+Braintree,E07000067,motorcycle,295
+Braintree,E07000067,carDriver,41638
+Braintree,E07000067,carPassenger,2798
+Braintree,E07000067,bicycle,792
+Braintree,E07000067,foot,5241
+Braintree,E07000067,other,682
+Braintree,E07000067,noWork,78984
+Breckland,E07000143,home,14404
+Breckland,E07000143,metro,23
+Breckland,E07000143,train,214
+Breckland,E07000143,bus,732
+Breckland,E07000143,taxi,171
+Breckland,E07000143,motorcycle,313
+Breckland,E07000143,carDriver,39172
+Breckland,E07000143,carPassenger,3136
+Breckland,E07000143,bicycle,1188
+Breckland,E07000143,foot,5575
+Breckland,E07000143,other,711
+Breckland,E07000143,noWork,75838
+Brent,E09000005,home,48987
+Brent,E09000005,metro,24200
+Brent,E09000005,train,8267
+Brent,E09000005,bus,21439
+Brent,E09000005,taxi,886
+Brent,E09000005,motorcycle,1801
+Brent,E09000005,carDriver,34917
+Brent,E09000005,carPassenger,3220
+Brent,E09000005,bicycle,4074
+Brent,E09000005,foot,11000
+Brent,E09000005,other,2206
+Brent,E09000005,noWork,178819
+Brentwood,E07000068,home,16784
+Brentwood,E07000068,metro,539
+Brentwood,E07000068,train,2471
+Brentwood,E07000068,bus,370
+Brentwood,E07000068,taxi,178
+Brentwood,E07000068,motorcycle,131
+Brentwood,E07000068,carDriver,14189
+Brentwood,E07000068,carPassenger,867
+Brentwood,E07000068,bicycle,178
+Brentwood,E07000068,foot,1815
+Brentwood,E07000068,other,379
+Brentwood,E07000068,noWork,39146
+Bridgend,W06000013,home,14375
+Bridgend,W06000013,metro,24
+Bridgend,W06000013,train,655
+Bridgend,W06000013,bus,939
+Bridgend,W06000013,taxi,355
+Bridgend,W06000013,motorcycle,225
+Bridgend,W06000013,carDriver,39608
+Bridgend,W06000013,carPassenger,3131
+Bridgend,W06000013,bicycle,380
+Bridgend,W06000013,foot,3776
+Bridgend,W06000013,other,516
+Bridgend,W06000013,noWork,81504
+Brighton and Hove,E06000043,home,59495
+Brighton and Hove,E06000043,metro,158
+Brighton and Hove,E06000043,train,3539
+Brighton and Hove,E06000043,bus,9946
+Brighton and Hove,E06000043,taxi,539
+Brighton and Hove,E06000043,motorcycle,931
+Brighton and Hove,E06000043,carDriver,34893
+Brighton and Hove,E06000043,carPassenger,3085
+Brighton and Hove,E06000043,bicycle,5282
+Brighton and Hove,E06000043,foot,19855
+Brighton and Hove,E06000043,other,1567
+Brighton and Hove,E06000043,noWork,137812
+Bristol,E06000023,home,92026
+Bristol,E06000023,metro,115
+Bristol,E06000023,train,1650
+Bristol,E06000023,bus,14617
+Bristol,E06000023,taxi,999
+Bristol,E06000023,motorcycle,1545
+Bristol,E06000023,carDriver,78915
+Bristol,E06000023,carPassenger,7329
+Bristol,E06000023,bicycle,12466
+Bristol,E06000023,foot,26730
+Bristol,E06000023,other,2120
+Bristol,E06000023,noWork,233955
+Broadland,E07000144,home,18934
+Broadland,E07000144,metro,30
+Broadland,E07000144,train,164
+Broadland,E07000144,bus,1220
+Broadland,E07000144,taxi,165
+Broadland,E07000144,motorcycle,394
+Broadland,E07000144,carDriver,34889
+Broadland,E07000144,carPassenger,1961
+Broadland,E07000144,bicycle,1422
+Broadland,E07000144,foot,2716
+Broadland,E07000144,other,695
+Broadland,E07000144,noWork,69132
+Bromley,E09000006,home,75511
+Bromley,E09000006,metro,3146
+Bromley,E09000006,train,15214
+Bromley,E09000006,bus,8069
+Bromley,E09000006,taxi,593
+Bromley,E09000006,motorcycle,966
+Bromley,E09000006,carDriver,45304
+Bromley,E09000006,carPassenger,2852
+Bromley,E09000006,bicycle,1784
+Bromley,E09000006,foot,7029
+Bromley,E09000006,other,1654
+Bromley,E09000006,noWork,167869
+Bromsgrove,E07000234,home,16436
+Bromsgrove,E07000234,metro,23
+Bromsgrove,E07000234,train,647
+Bromsgrove,E07000234,bus,370
+Bromsgrove,E07000234,taxi,180
+Bromsgrove,E07000234,motorcycle,119
+Bromsgrove,E07000234,carDriver,25194
+Bromsgrove,E07000234,carPassenger,1505
+Bromsgrove,E07000234,bicycle,287
+Bromsgrove,E07000234,foot,2178
+Bromsgrove,E07000234,other,348
+Bromsgrove,E07000234,noWork,51896
+Broxbourne,E07000095,home,14218
+Broxbourne,E07000095,metro,977
+Broxbourne,E07000095,train,2608
+Broxbourne,E07000095,bus,997
+Broxbourne,E07000095,taxi,314
+Broxbourne,E07000095,motorcycle,234
+Broxbourne,E07000095,carDriver,23586
+Broxbourne,E07000095,carPassenger,1613
+Broxbourne,E07000095,bicycle,518
+Broxbourne,E07000095,foot,2686
+Broxbourne,E07000095,other,554
+Broxbourne,E07000095,noWork,50701
+Broxtowe,E07000172,home,17302
+Broxtowe,E07000172,metro,725
+Broxtowe,E07000172,train,244
+Broxtowe,E07000172,bus,1993
+Broxtowe,E07000172,taxi,176
+Broxtowe,E07000172,motorcycle,211
+Broxtowe,E07000172,carDriver,24367
+Broxtowe,E07000172,carPassenger,1755
+Broxtowe,E07000172,bicycle,1341
+Broxtowe,E07000172,foot,3378
+Broxtowe,E07000172,other,426
+Broxtowe,E07000172,noWork,59024
+Buckinghamshire,E06000060,home,112181
+Buckinghamshire,E06000060,metro,1917
+Buckinghamshire,E06000060,train,4044
+Buckinghamshire,E06000060,bus,3830
+Buckinghamshire,E06000060,taxi,1635
+Buckinghamshire,E06000060,motorcycle,892
+Buckinghamshire,E06000060,carDriver,119924
+Buckinghamshire,E06000060,carPassenger,8242
+Buckinghamshire,E06000060,bicycle,2218
+Buckinghamshire,E06000060,foot,15888
+Buckinghamshire,E06000060,other,2465
+Buckinghamshire,E06000060,noWork,279842
+Burnley,E07000117,home,6738
+Burnley,E07000117,metro,16
+Burnley,E07000117,train,193
+Burnley,E07000117,bus,1631
+Burnley,E07000117,taxi,1143
+Burnley,E07000117,motorcycle,112
+Burnley,E07000117,carDriver,22418
+Burnley,E07000117,carPassenger,2568
+Burnley,E07000117,bicycle,403
+Burnley,E07000117,foot,4434
+Burnley,E07000117,other,376
+Burnley,E07000117,noWork,54612
+Bury,E08000002,home,26579
+Bury,E08000002,metro,2163
+Bury,E08000002,train,250
+Bury,E08000002,bus,2864
+Bury,E08000002,taxi,1156
+Bury,E08000002,motorcycle,236
+Bury,E08000002,carDriver,43946
+Bury,E08000002,carPassenger,3575
+Bury,E08000002,bicycle,928
+Bury,E08000002,foot,5907
+Bury,E08000002,other,879
+Bury,E08000002,noWork,105369
+Caerphilly,W06000018,home,18473
+Caerphilly,W06000018,metro,17
+Caerphilly,W06000018,train,1190
+Caerphilly,W06000018,bus,1680
+Caerphilly,W06000018,taxi,360
+Caerphilly,W06000018,motorcycle,288
+Caerphilly,W06000018,carDriver,46223
+Caerphilly,W06000018,carPassenger,4229
+Caerphilly,W06000018,bicycle,394
+Caerphilly,W06000018,foot,4038
+Caerphilly,W06000018,other,547
+Caerphilly,W06000018,noWork,98513
+Calderdale,E08000033,home,27280
+Calderdale,E08000033,metro,49
+Calderdale,E08000033,train,1158
+Calderdale,E08000033,bus,3740
+Calderdale,E08000033,taxi,1110
+Calderdale,E08000033,motorcycle,286
+Calderdale,E08000033,carDriver,46448
+Calderdale,E08000033,carPassenger,4332
+Calderdale,E08000033,bicycle,665
+Calderdale,E08000033,foot,7430
+Calderdale,E08000033,other,887
+Calderdale,E08000033,noWork,113250
+Cambridge,E07000008,home,32113
+Cambridge,E07000008,metro,85
+Cambridge,E07000008,train,806
+Cambridge,E07000008,bus,2515
+Cambridge,E07000008,taxi,423
+Cambridge,E07000008,motorcycle,373
+Cambridge,E07000008,carDriver,13485
+Cambridge,E07000008,carPassenger,1530
+Cambridge,E07000008,bicycle,11836
+Cambridge,E07000008,foot,6858
+Cambridge,E07000008,other,572
+Cambridge,E07000008,noWork,75076
+Camden,E09000007,home,58110
+Camden,E09000007,metro,10351
+Camden,E09000007,train,2852
+Camden,E09000007,bus,6532
+Camden,E09000007,taxi,733
+Camden,E09000007,motorcycle,546
+Camden,E09000007,carDriver,7074
+Camden,E09000007,carPassenger,510
+Camden,E09000007,bicycle,3993
+Camden,E09000007,foot,10620
+Camden,E09000007,other,1190
+Camden,E09000007,noWork,107625
+Cannock Chase,E07000192,home,9529
+Cannock Chase,E07000192,metro,7
+Cannock Chase,E07000192,train,421
+Cannock Chase,E07000192,bus,591
+Cannock Chase,E07000192,taxi,266
+Cannock Chase,E07000192,motorcycle,220
+Cannock Chase,E07000192,carDriver,31258
+Cannock Chase,E07000192,carPassenger,2737
+Cannock Chase,E07000192,bicycle,432
+Cannock Chase,E07000192,foot,3035
+Cannock Chase,E07000192,other,381
+Cannock Chase,E07000192,noWork,51642
+Canterbury,E07000106,home,20109
+Canterbury,E07000106,metro,105
+Canterbury,E07000106,train,1537
+Canterbury,E07000106,bus,1906
+Canterbury,E07000106,taxi,210
+Canterbury,E07000106,motorcycle,259
+Canterbury,E07000106,carDriver,30603
+Canterbury,E07000106,carPassenger,2493
+Canterbury,E07000106,bicycle,1105
+Canterbury,E07000106,foot,7145
+Canterbury,E07000106,other,693
+Canterbury,E07000106,noWork,91265
+Cardiff,W06000015,home,57855
+Cardiff,W06000015,metro,101
+Cardiff,W06000015,train,1962
+Cardiff,W06000015,bus,7568
+Cardiff,W06000015,taxi,1018
+Cardiff,W06000015,motorcycle,453
+Cardiff,W06000015,carDriver,64333
+Cardiff,W06000015,carPassenger,5581
+Cardiff,W06000015,bicycle,4664
+Cardiff,W06000015,foot,15381
+Cardiff,W06000015,other,1523
+Cardiff,W06000015,noWork,201869
+Carlisle,E07000028,home,10187
+Carlisle,E07000028,metro,19
+Carlisle,E07000028,train,195
+Carlisle,E07000028,bus,1791
+Carlisle,E07000028,taxi,200
+Carlisle,E07000028,motorcycle,146
+Carlisle,E07000028,carDriver,29906
+Carlisle,E07000028,carPassenger,2449
+Carlisle,E07000028,bicycle,1188
+Carlisle,E07000028,foot,6347
+Carlisle,E07000028,other,521
+Carlisle,E07000028,noWork,57074
+Carmarthenshire,W06000010,home,19243
+Carmarthenshire,W06000010,metro,39
+Carmarthenshire,W06000010,train,361
+Carmarthenshire,W06000010,bus,879
+Carmarthenshire,W06000010,taxi,304
+Carmarthenshire,W06000010,motorcycle,241
+Carmarthenshire,W06000010,carDriver,50785
+Carmarthenshire,W06000010,carPassenger,3790
+Carmarthenshire,W06000010,bicycle,463
+Carmarthenshire,W06000010,foot,5138
+Carmarthenshire,W06000010,other,706
+Carmarthenshire,W06000010,noWork,105946
+Castle Point,E07000069,home,11672
+Castle Point,E07000069,metro,122
+Castle Point,E07000069,train,1839
+Castle Point,E07000069,bus,808
+Castle Point,E07000069,taxi,165
+Castle Point,E07000069,motorcycle,203
+Castle Point,E07000069,carDriver,21646
+Castle Point,E07000069,carPassenger,1536
+Castle Point,E07000069,bicycle,422
+Castle Point,E07000069,foot,2142
+Castle Point,E07000069,other,455
+Castle Point,E07000069,noWork,48581
+Central Bedfordshire,E06000056,home,52153
+Central Bedfordshire,E06000056,metro,205
+Central Bedfordshire,E06000056,train,3042
+Central Bedfordshire,E06000056,bus,1560
+Central Bedfordshire,E06000056,taxi,373
+Central Bedfordshire,E06000056,motorcycle,470
+Central Bedfordshire,E06000056,carDriver,76820
+Central Bedfordshire,E06000056,carPassenger,4976
+Central Bedfordshire,E06000056,bicycle,1505
+Central Bedfordshire,E06000056,foot,8754
+Central Bedfordshire,E06000056,other,1219
+Central Bedfordshire,E06000056,noWork,143175
+Ceredigion,W06000008,home,9524
+Ceredigion,W06000008,metro,21
+Ceredigion,W06000008,train,65
+Ceredigion,W06000008,bus,394
+Ceredigion,W06000008,taxi,91
+Ceredigion,W06000008,motorcycle,102
+Ceredigion,W06000008,carDriver,15398
+Ceredigion,W06000008,carPassenger,1000
+Ceredigion,W06000008,bicycle,269
+Ceredigion,W06000008,foot,3007
+Ceredigion,W06000008,other,251
+Ceredigion,W06000008,noWork,41356
+Charnwood,E07000130,home,25638
+Charnwood,E07000130,metro,57
+Charnwood,E07000130,train,408
+Charnwood,E07000130,bus,1975
+Charnwood,E07000130,taxi,234
+Charnwood,E07000130,motorcycle,307
+Charnwood,E07000130,carDriver,44097
+Charnwood,E07000130,carPassenger,3163
+Charnwood,E07000130,bicycle,1940
+Charnwood,E07000130,foot,6274
+Charnwood,E07000130,other,707
+Charnwood,E07000130,noWork,99172
+Chelmsford,E07000070,home,34522
+Chelmsford,E07000070,metro,256
+Chelmsford,E07000070,train,2911
+Chelmsford,E07000070,bus,2034
+Chelmsford,E07000070,taxi,204
+Chelmsford,E07000070,motorcycle,341
+Chelmsford,E07000070,carDriver,38282
+Chelmsford,E07000070,carPassenger,2574
+Chelmsford,E07000070,bicycle,1725
+Chelmsford,E07000070,foot,6231
+Chelmsford,E07000070,other,783
+Chelmsford,E07000070,noWork,91661
+Cheltenham,E07000078,home,21711
+Cheltenham,E07000078,metro,25
+Cheltenham,E07000078,train,249
+Cheltenham,E07000078,bus,1717
+Cheltenham,E07000078,taxi,118
+Cheltenham,E07000078,motorcycle,235
+Cheltenham,E07000078,carDriver,22959
+Cheltenham,E07000078,carPassenger,1980
+Cheltenham,E07000078,bicycle,2372
+Cheltenham,E07000078,foot,7320
+Cheltenham,E07000078,other,472
+Cheltenham,E07000078,noWork,59679
+Cherwell,E07000177,home,27343
+Cherwell,E07000177,metro,41
+Cherwell,E07000177,train,1027
+Cherwell,E07000177,bus,1887
+Cherwell,E07000177,taxi,437
+Cherwell,E07000177,motorcycle,345
+Cherwell,E07000177,carDriver,39508
+Cherwell,E07000177,carPassenger,3353
+Cherwell,E07000177,bicycle,2156
+Cherwell,E07000177,foot,8135
+Cherwell,E07000177,other,737
+Cherwell,E07000177,noWork,76044
+Cheshire East,E06000049,home,67827
+Cheshire East,E06000049,metro,98
+Cheshire East,E06000049,train,1630
+Cheshire East,E06000049,bus,1328
+Cheshire East,E06000049,taxi,931
+Cheshire East,E06000049,motorcycle,663
+Cheshire East,E06000049,carDriver,93442
+Cheshire East,E06000049,carPassenger,7454
+Cheshire East,E06000049,bicycle,3537
+Cheshire East,E06000049,foot,13950
+Cheshire East,E06000049,other,1627
+Cheshire East,E06000049,noWork,206285
+Cheshire West and Chester,E06000050,home,53184
+Cheshire West and Chester,E06000050,metro,90
+Cheshire West and Chester,E06000050,train,1291
+Cheshire West and Chester,E06000050,bus,2913
+Cheshire West and Chester,E06000050,taxi,988
+Cheshire West and Chester,E06000050,motorcycle,669
+Cheshire West and Chester,E06000050,carDriver,85824
+Cheshire West and Chester,E06000050,carPassenger,6624
+Cheshire West and Chester,E06000050,bicycle,3399
+Cheshire West and Chester,E06000050,foot,12543
+Cheshire West and Chester,E06000050,other,1562
+Cheshire West and Chester,E06000050,noWork,188062
+Chesterfield,E07000034,home,10772
+Chesterfield,E07000034,metro,19
+Chesterfield,E07000034,train,284
+Chesterfield,E07000034,bus,1962
+Chesterfield,E07000034,taxi,614
+Chesterfield,E07000034,motorcycle,204
+Chesterfield,E07000034,carDriver,26580
+Chesterfield,E07000034,carPassenger,2439
+Chesterfield,E07000034,bicycle,455
+Chesterfield,E07000034,foot,3817
+Chesterfield,E07000034,other,388
+Chesterfield,E07000034,noWork,56037
+Chichester,E07000225,home,19385
+Chichester,E07000225,metro,48
+Chichester,E07000225,train,721
+Chichester,E07000225,bus,656
+Chichester,E07000225,taxi,82
+Chichester,E07000225,motorcycle,229
+Chichester,E07000225,carDriver,26020
+Chichester,E07000225,carPassenger,1765
+Chichester,E07000225,bicycle,1549
+Chichester,E07000225,foot,5282
+Chichester,E07000225,other,629
+Chichester,E07000225,noWork,67702
+Chorley,E07000118,home,16580
+Chorley,E07000118,metro,27
+Chorley,E07000118,train,479
+Chorley,E07000118,bus,889
+Chorley,E07000118,taxi,188
+Chorley,E07000118,motorcycle,182
+Chorley,E07000118,carDriver,31980
+Chorley,E07000118,carPassenger,2357
+Chorley,E07000118,bicycle,634
+Chorley,E07000118,foot,3465
+Chorley,E07000118,other,464
+Chorley,E07000118,noWork,60488
+City of London,E09000001,home,3602
+City of London,E09000001,metro,349
+City of London,E09000001,train,95
+City of London,E09000001,bus,132
+City of London,E09000001,taxi,21
+City of London,E09000001,motorcycle,13
+City of London,E09000001,carDriver,124
+City of London,E09000001,carPassenger,13
+City of London,E09000001,bicycle,191
+City of London,E09000001,foot,758
+City of London,E09000001,other,54
+City of London,E09000001,noWork,3232
+City of London,E09000001,home,3602
+City of London,E09000001,metro,349
+City of London,E09000001,train,95
+City of London,E09000001,bus,132
+City of London,E09000001,taxi,21
+City of London,E09000001,motorcycle,13
+City of London,E09000001,carDriver,124
+City of London,E09000001,carPassenger,13
+City of London,E09000001,bicycle,191
+City of London,E09000001,foot,758
+City of London,E09000001,other,54
+City of London,E09000001,noWork,3232
+Colchester,E07000071,home,28165
+Colchester,E07000071,metro,121
+Colchester,E07000071,train,2069
+Colchester,E07000071,bus,2706
+Colchester,E07000071,taxi,437
+Colchester,E07000071,motorcycle,456
+Colchester,E07000071,carDriver,43618
+Colchester,E07000071,carPassenger,3329
+Colchester,E07000071,bicycle,2274
+Colchester,E07000071,foot,8004
+Colchester,E07000071,other,837
+Colchester,E07000071,noWork,100700
+Conwy,W06000003,home,11381
+Conwy,W06000003,metro,28
+Conwy,W06000003,train,291
+Conwy,W06000003,bus,1441
+Conwy,W06000003,taxi,170
+Conwy,W06000003,motorcycle,170
+Conwy,W06000003,carDriver,28296
+Conwy,W06000003,carPassenger,1971
+Conwy,W06000003,bicycle,540
+Conwy,W06000003,foot,3895
+Conwy,W06000003,other,543
+Conwy,W06000003,noWork,66018
+Copeland,E07000029,home,7778
+Copeland,E07000029,metro,14
+Copeland,E07000029,train,316
+Copeland,E07000029,bus,861
+Copeland,E07000029,taxi,120
+Copeland,E07000029,motorcycle,202
+Copeland,E07000029,carDriver,16849
+Copeland,E07000029,carPassenger,1573
+Copeland,E07000029,bicycle,374
+Copeland,E07000029,foot,2218
+Copeland,E07000029,other,266
+Copeland,E07000029,noWork,36506
+Cornwall,E06000052,home,62832
+Cornwall,E06000052,metro,80
+Cornwall,E06000052,train,1275
+Cornwall,E06000052,bus,3410
+Cornwall,E06000052,taxi,686
+Cornwall,E06000052,motorcycle,1925
+Cornwall,E06000052,carDriver,142649
+Cornwall,E06000052,carPassenger,10378
+Cornwall,E06000052,bicycle,2988
+Cornwall,E06000052,foot,25022
+Cornwall,E06000052,other,3001
+Cornwall,E06000052,noWork,316058
+Cotswold,E07000079,home,17228
+Cotswold,E07000079,metro,40
+Cotswold,E07000079,train,157
+Cotswold,E07000079,bus,217
+Cotswold,E07000079,taxi,41
+Cotswold,E07000079,motorcycle,149
+Cotswold,E07000079,carDriver,20099
+Cotswold,E07000079,carPassenger,1377
+Cotswold,E07000079,bicycle,529
+Cotswold,E07000079,foot,3838
+Cotswold,E07000079,other,404
+Cotswold,E07000079,noWork,46753
+County Durham,E06000047,home,53014
+County Durham,E06000047,metro,98
+County Durham,E06000047,train,730
+County Durham,E06000047,bus,7478
+County Durham,E06000047,taxi,1414
+County Durham,E06000047,motorcycle,585
+County Durham,E06000047,carDriver,127527
+County Durham,E06000047,carPassenger,11802
+County Durham,E06000047,bicycle,1607
+County Durham,E06000047,foot,15713
+County Durham,E06000047,other,2252
+County Durham,E06000047,noWork,299853
+Coventry,E08000026,home,38674
+Coventry,E08000026,metro,151
+Coventry,E08000026,train,1457
+Coventry,E08000026,bus,10947
+Coventry,E08000026,taxi,2261
+Coventry,E08000026,motorcycle,475
+Coventry,E08000026,carDriver,70234
+Coventry,E08000026,carPassenger,9844
+Coventry,E08000026,bicycle,2817
+Coventry,E08000026,foot,11501
+Coventry,E08000026,other,1782
+Coventry,E08000026,noWork,195181
+Craven,E07000163,home,8833
+Craven,E07000163,metro,14
+Craven,E07000163,train,287
+Craven,E07000163,bus,254
+Craven,E07000163,taxi,63
+Craven,E07000163,motorcycle,51
+Craven,E07000163,carDriver,13199
+Craven,E07000163,carPassenger,926
+Craven,E07000163,bicycle,217
+Craven,E07000163,foot,3061
+Craven,E07000163,other,229
+Craven,E07000163,noWork,29795
+Crawley,E07000226,home,15903
+Crawley,E07000226,metro,95
+Crawley,E07000226,train,1756
+Crawley,E07000226,bus,4753
+Crawley,E07000226,taxi,362
+Crawley,E07000226,motorcycle,268
+Crawley,E07000226,carDriver,27783
+Crawley,E07000226,carPassenger,2546
+Crawley,E07000226,bicycle,1070
+Crawley,E07000226,foot,3643
+Crawley,E07000226,other,724
+Crawley,E07000226,noWork,59592
+Croydon,E09000008,home,70976
+Croydon,E09000008,metro,8146
+Croydon,E09000008,train,17229
+Croydon,E09000008,bus,19903
+Croydon,E09000008,taxi,884
+Croydon,E09000008,motorcycle,1454
+Croydon,E09000008,carDriver,52381
+Croydon,E09000008,carPassenger,3507
+Croydon,E09000008,bicycle,2422
+Croydon,E09000008,foot,10018
+Croydon,E09000008,other,2489
+Croydon,E09000008,noWork,201312
+Dacorum,E07000096,home,30226
+Dacorum,E07000096,metro,279
+Dacorum,E07000096,train,1640
+Dacorum,E07000096,bus,1042
+Dacorum,E07000096,taxi,390
+Dacorum,E07000096,motorcycle,302
+Dacorum,E07000096,carDriver,34277
+Dacorum,E07000096,carPassenger,2463
+Dacorum,E07000096,bicycle,605
+Dacorum,E07000096,foot,5279
+Dacorum,E07000096,other,695
+Dacorum,E07000096,noWork,77883
+Darlington,E06000005,home,11962
+Darlington,E06000005,metro,18
+Darlington,E06000005,train,403
+Darlington,E06000005,bus,1405
+Darlington,E06000005,taxi,720
+Darlington,E06000005,motorcycle,122
+Darlington,E06000005,carDriver,25487
+Darlington,E06000005,carPassenger,2742
+Darlington,E06000005,bicycle,966
+Darlington,E06000005,foot,4982
+Darlington,E06000005,other,489
+Darlington,E06000005,noWork,58503
+Dartford,E07000107,home,18217
+Dartford,E07000107,metro,475
+Dartford,E07000107,train,4573
+Dartford,E07000107,bus,1963
+Dartford,E07000107,taxi,394
+Dartford,E07000107,motorcycle,429
+Dartford,E07000107,carDriver,26492
+Dartford,E07000107,carPassenger,1904
+Dartford,E07000107,bicycle,532
+Dartford,E07000107,foot,3262
+Dartford,E07000107,other,583
+Dartford,E07000107,noWork,57930
+Denbighshire,W06000004,home,8600
+Denbighshire,W06000004,metro,13
+Denbighshire,W06000004,train,236
+Denbighshire,W06000004,bus,989
+Denbighshire,W06000004,taxi,189
+Denbighshire,W06000004,motorcycle,159
+Denbighshire,W06000004,carDriver,24399
+Denbighshire,W06000004,carPassenger,2032
+Denbighshire,W06000004,bicycle,504
+Denbighshire,W06000004,foot,3349
+Denbighshire,W06000004,other,376
+Denbighshire,W06000004,noWork,54971
+Derby,E06000015,home,27260
+Derby,E06000015,metro,83
+Derby,E06000015,train,537
+Derby,E06000015,bus,5982
+Derby,E06000015,taxi,2065
+Derby,E06000015,motorcycle,547
+Derby,E06000015,carDriver,57902
+Derby,E06000015,carPassenger,6705
+Derby,E06000015,bicycle,2956
+Derby,E06000015,foot,11079
+Derby,E06000015,other,1085
+Derby,E06000015,noWork,145163
+Derbyshire Dales,E07000035,home,11376
+Derbyshire Dales,E07000035,metro,16
+Derbyshire Dales,E07000035,train,112
+Derbyshire Dales,E07000035,bus,316
+Derbyshire Dales,E07000035,taxi,53
+Derbyshire Dales,E07000035,motorcycle,93
+Derbyshire Dales,E07000035,carDriver,16972
+Derbyshire Dales,E07000035,carPassenger,1040
+Derbyshire Dales,E07000035,bicycle,302
+Derbyshire Dales,E07000035,foot,2655
+Derbyshire Dales,E07000035,other,293
+Derbyshire Dales,E07000035,noWork,38312
+Doncaster,E08000017,home,25503
+Doncaster,E08000017,metro,61
+Doncaster,E08000017,train,1171
+Doncaster,E08000017,bus,6288
+Doncaster,E08000017,taxi,1563
+Doncaster,E08000017,motorcycle,433
+Doncaster,E08000017,carDriver,79823
+Doncaster,E08000017,carPassenger,9293
+Doncaster,E08000017,bicycle,2475
+Doncaster,E08000017,foot,9796
+Doncaster,E08000017,other,1452
+Doncaster,E08000017,noWork,170248
+Dorset,E06000059,home,47397
+Dorset,E06000059,metro,103
+Dorset,E06000059,train,731
+Dorset,E06000059,bus,1888
+Dorset,E06000059,taxi,373
+Dorset,E06000059,motorcycle,1009
+Dorset,E06000059,carDriver,90473
+Dorset,E06000059,carPassenger,5656
+Dorset,E06000059,bicycle,2973
+Dorset,E06000059,foot,15429
+Dorset,E06000059,other,1745
+Dorset,E06000059,noWork,211802
+Dover,E07000108,home,12291
+Dover,E07000108,metro,52
+Dover,E07000108,train,1023
+Dover,E07000108,bus,1100
+Dover,E07000108,taxi,264
+Dover,E07000108,motorcycle,264
+Dover,E07000108,carDriver,27830
+Dover,E07000108,carPassenger,2344
+Dover,E07000108,bicycle,674
+Dover,E07000108,foot,4462
+Dover,E07000108,other,622
+Dover,E07000108,noWork,65484
+Dudley,E08000027,home,31434
+Dudley,E08000027,metro,126
+Dudley,E08000027,train,1889
+Dudley,E08000027,bus,6125
+Dudley,E08000027,taxi,1474
+Dudley,E08000027,motorcycle,563
+Dudley,E08000027,carDriver,85285
+Dudley,E08000027,carPassenger,7105
+Dudley,E08000027,bicycle,1263
+Dudley,E08000027,foot,8127
+Dudley,E08000027,other,1249
+Dudley,E08000027,noWork,178848
+Ealing,E09000009,home,63137
+Ealing,E09000009,metro,20319
+Ealing,E09000009,train,5788
+Ealing,E09000009,bus,18840
+Ealing,E09000009,taxi,761
+Ealing,E09000009,motorcycle,1531
+Ealing,E09000009,carDriver,42941
+Ealing,E09000009,carPassenger,3082
+Ealing,E09000009,bicycle,5026
+Ealing,E09000009,foot,11236
+Ealing,E09000009,other,2365
+Ealing,E09000009,noWork,192088
+East Cambridgeshire,E07000009,home,15606
+East Cambridgeshire,E07000009,metro,16
+East Cambridgeshire,E07000009,train,894
+East Cambridgeshire,E07000009,bus,320
+East Cambridgeshire,E07000009,taxi,105
+East Cambridgeshire,E07000009,motorcycle,173
+East Cambridgeshire,E07000009,carDriver,22735
+East Cambridgeshire,E07000009,carPassenger,1473
+East Cambridgeshire,E07000009,bicycle,812
+East Cambridgeshire,E07000009,foot,2211
+East Cambridgeshire,E07000009,other,350
+East Cambridgeshire,E07000009,noWork,43067
+East Devon,E07000040,home,19757
+East Devon,E07000040,metro,26
+East Devon,E07000040,train,540
+East Devon,E07000040,bus,1159
+East Devon,E07000040,taxi,113
+East Devon,E07000040,motorcycle,441
+East Devon,E07000040,carDriver,34839
+East Devon,E07000040,carPassenger,2149
+East Devon,E07000040,bicycle,1177
+East Devon,E07000040,foot,5856
+East Devon,E07000040,other,671
+East Devon,E07000040,noWork,84101
+East Hampshire,E07000085,home,23141
+East Hampshire,E07000085,metro,42
+East Hampshire,E07000085,train,707
+East Hampshire,E07000085,bus,417
+East Hampshire,E07000085,taxi,99
+East Hampshire,E07000085,motorcycle,235
+East Hampshire,E07000085,carDriver,30391
+East Hampshire,E07000085,carPassenger,1968
+East Hampshire,E07000085,bicycle,487
+East Hampshire,E07000085,foot,3710
+East Hampshire,E07000085,other,534
+East Hampshire,E07000085,noWork,64012
+East Hertfordshire,E07000242,home,31278
+East Hertfordshire,E07000242,metro,322
+East Hertfordshire,E07000242,train,3033
+East Hertfordshire,E07000242,bus,1012
+East Hertfordshire,E07000242,taxi,232
+East Hertfordshire,E07000242,motorcycle,211
+East Hertfordshire,E07000242,carDriver,32231
+East Hertfordshire,E07000242,carPassenger,1821
+East Hertfordshire,E07000242,bicycle,600
+East Hertfordshire,E07000242,foot,5088
+East Hertfordshire,E07000242,other,696
+East Hertfordshire,E07000242,noWork,73634
+East Lindsey,E07000137,home,10993
+East Lindsey,E07000137,metro,20
+East Lindsey,E07000137,train,83
+East Lindsey,E07000137,bus,615
+East Lindsey,E07000137,taxi,162
+East Lindsey,E07000137,motorcycle,235
+East Lindsey,E07000137,carDriver,33094
+East Lindsey,E07000137,carPassenger,2317
+East Lindsey,E07000137,bicycle,1193
+East Lindsey,E07000137,foot,6224
+East Lindsey,E07000137,other,641
+East Lindsey,E07000137,noWork,86719
+East Riding of Yorkshire,E06000011,home,38568
+East Riding of Yorkshire,E06000011,metro,57
+East Riding of Yorkshire,E06000011,train,782
+East Riding of Yorkshire,E06000011,bus,1936
+East Riding of Yorkshire,E06000011,taxi,388
+East Riding of Yorkshire,E06000011,motorcycle,697
+East Riding of Yorkshire,E06000011,carDriver,89258
+East Riding of Yorkshire,E06000011,carPassenger,6390
+East Riding of Yorkshire,E06000011,bicycle,4063
+East Riding of Yorkshire,E06000011,foot,12269
+East Riding of Yorkshire,E06000011,other,1713
+East Riding of Yorkshire,E06000011,noWork,186095
+East Staffordshire,E07000193,home,13235
+East Staffordshire,E07000193,metro,26
+East Staffordshire,E07000193,train,223
+East Staffordshire,E07000193,bus,748
+East Staffordshire,E07000193,taxi,960
+East Staffordshire,E07000193,motorcycle,286
+East Staffordshire,E07000193,carDriver,32945
+East Staffordshire,E07000193,carPassenger,3384
+East Staffordshire,E07000193,bicycle,1346
+East Staffordshire,E07000193,foot,5615
+East Staffordshire,E07000193,other,550
+East Staffordshire,E07000193,noWork,64701
+East Suffolk,E07000244,home,27774
+East Suffolk,E07000244,metro,70
+East Suffolk,E07000244,train,512
+East Suffolk,E07000244,bus,1237
+East Suffolk,E07000244,taxi,332
+East Suffolk,E07000244,motorcycle,633
+East Suffolk,E07000244,carDriver,58764
+East Suffolk,E07000244,carPassenger,3653
+East Suffolk,E07000244,bicycle,3663
+East Suffolk,E07000244,foot,8273
+East Suffolk,E07000244,other,1454
+East Suffolk,E07000244,noWork,139694
+Eastbourne,E07000061,home,10125
+Eastbourne,E07000061,metro,53
+Eastbourne,E07000061,train,1195
+Eastbourne,E07000061,bus,1506
+Eastbourne,E07000061,taxi,418
+Eastbourne,E07000061,motorcycle,229
+Eastbourne,E07000061,carDriver,21483
+Eastbourne,E07000061,carPassenger,1989
+Eastbourne,E07000061,bicycle,1047
+Eastbourne,E07000061,foot,5285
+Eastbourne,E07000061,other,501
+Eastbourne,E07000061,noWork,57855
+Eastleigh,E07000086,home,23893
+Eastleigh,E07000086,metro,41
+Eastleigh,E07000086,train,853
+Eastleigh,E07000086,bus,829
+Eastleigh,E07000086,taxi,189
+Eastleigh,E07000086,motorcycle,421
+Eastleigh,E07000086,carDriver,35345
+Eastleigh,E07000086,carPassenger,2351
+Eastleigh,E07000086,bicycle,1148
+Eastleigh,E07000086,foot,3829
+Eastleigh,E07000086,other,617
+Eastleigh,E07000086,noWork,66927
+Eden,E07000030,home,7682
+Eden,E07000030,metro,13
+Eden,E07000030,train,69
+Eden,E07000030,bus,405
+Eden,E07000030,taxi,44
+Eden,E07000030,motorcycle,48
+Eden,E07000030,carDriver,14504
+Eden,E07000030,carPassenger,962
+Eden,E07000030,bicycle,236
+Eden,E07000030,foot,3062
+Eden,E07000030,other,308
+Eden,E07000030,noWork,27400
+Elmbridge,E07000207,home,35983
+Elmbridge,E07000207,metro,289
+Elmbridge,E07000207,train,2759
+Elmbridge,E07000207,bus,685
+Elmbridge,E07000207,taxi,138
+Elmbridge,E07000207,motorcycle,391
+Elmbridge,E07000207,carDriver,20448
+Elmbridge,E07000207,carPassenger,1159
+Elmbridge,E07000207,bicycle,1431
+Elmbridge,E07000207,foot,3063
+Elmbridge,E07000207,other,634
+Elmbridge,E07000207,noWork,71774
+Enfield,E09000010,home,44977
+Enfield,E09000010,metro,12557
+Enfield,E09000010,train,7138
+Enfield,E09000010,bus,15289
+Enfield,E09000010,taxi,819
+Enfield,E09000010,motorcycle,788
+Enfield,E09000010,carDriver,46721
+Enfield,E09000010,carPassenger,3146
+Enfield,E09000010,bicycle,2040
+Enfield,E09000010,foot,8213
+Enfield,E09000010,other,2177
+Enfield,E09000010,noWork,186120
+Epping Forest,E07000072,home,25171
+Epping Forest,E07000072,metro,4744
+Epping Forest,E07000072,train,1538
+Epping Forest,E07000072,bus,853
+Epping Forest,E07000072,taxi,467
+Epping Forest,E07000072,motorcycle,297
+Epping Forest,E07000072,carDriver,27015
+Epping Forest,E07000072,carPassenger,1723
+Epping Forest,E07000072,bicycle,403
+Epping Forest,E07000072,foot,2805
+Epping Forest,E07000072,other,778
+Epping Forest,E07000072,noWork,69184
+Epsom and Ewell,E07000208,home,17930
+Epsom and Ewell,E07000208,metro,347
+Epsom and Ewell,E07000208,train,2144
+Epsom and Ewell,E07000208,bus,849
+Epsom and Ewell,E07000208,taxi,169
+Epsom and Ewell,E07000208,motorcycle,352
+Epsom and Ewell,E07000208,carDriver,13636
+Epsom and Ewell,E07000208,carPassenger,926
+Epsom and Ewell,E07000208,bicycle,659
+Epsom and Ewell,E07000208,foot,2537
+Epsom and Ewell,E07000208,other,362
+Epsom and Ewell,E07000208,noWork,41029
+Erewash,E07000036,home,13607
+Erewash,E07000036,metro,109
+Erewash,E07000036,train,241
+Erewash,E07000036,bus,2157
+Erewash,E07000036,taxi,216
+Erewash,E07000036,motorcycle,315
+Erewash,E07000036,carDriver,30285
+Erewash,E07000036,carPassenger,2390
+Erewash,E07000036,bicycle,1215
+Erewash,E07000036,foot,3950
+Erewash,E07000036,other,482
+Erewash,E07000036,noWork,57940
+Exeter,E07000041,home,18285
+Exeter,E07000041,metro,35
+Exeter,E07000041,train,528
+Exeter,E07000041,bus,2838
+Exeter,E07000041,taxi,208
+Exeter,E07000041,motorcycle,472
+Exeter,E07000041,carDriver,22190
+Exeter,E07000041,carPassenger,2176
+Exeter,E07000041,bicycle,2821
+Exeter,E07000041,foot,9603
+Exeter,E07000041,other,543
+Exeter,E07000041,noWork,71009
+Fareham,E07000087,home,19206
+Fareham,E07000087,metro,32
+Fareham,E07000087,train,599
+Fareham,E07000087,bus,501
+Fareham,E07000087,taxi,179
+Fareham,E07000087,motorcycle,333
+Fareham,E07000087,carDriver,28382
+Fareham,E07000087,carPassenger,1744
+Fareham,E07000087,bicycle,1200
+Fareham,E07000087,foot,2838
+Fareham,E07000087,other,618
+Fareham,E07000087,noWork,58882
+Fenland,E07000010,home,9463
+Fenland,E07000010,metro,26
+Fenland,E07000010,train,294
+Fenland,E07000010,bus,528
+Fenland,E07000010,taxi,129
+Fenland,E07000010,motorcycle,218
+Fenland,E07000010,carDriver,28166
+Fenland,E07000010,carPassenger,2708
+Fenland,E07000010,bicycle,1457
+Fenland,E07000010,foot,3654
+Fenland,E07000010,other,467
+Fenland,E07000010,noWork,55357
+Flintshire,W06000005,home,16269
+Flintshire,W06000005,metro,27
+Flintshire,W06000005,train,258
+Flintshire,W06000005,bus,1674
+Flintshire,W06000005,taxi,356
+Flintshire,W06000005,motorcycle,365
+Flintshire,W06000005,carDriver,45411
+Flintshire,W06000005,carPassenger,3769
+Flintshire,W06000005,bicycle,1126
+Flintshire,W06000005,foot,3996
+Flintshire,W06000005,other,571
+Flintshire,W06000005,noWork,81142
+Folkestone and Hythe,E07000112,home,13770
+Folkestone and Hythe,E07000112,metro,40
+Folkestone and Hythe,E07000112,train,932
+Folkestone and Hythe,E07000112,bus,1319
+Folkestone and Hythe,E07000112,taxi,256
+Folkestone and Hythe,E07000112,motorcycle,198
+Folkestone and Hythe,E07000112,carDriver,23922
+Folkestone and Hythe,E07000112,carPassenger,1932
+Folkestone and Hythe,E07000112,bicycle,538
+Folkestone and Hythe,E07000112,foot,4360
+Folkestone and Hythe,E07000112,other,552
+Folkestone and Hythe,E07000112,noWork,61939
+Forest of Dean,E07000080,home,11230
+Forest of Dean,E07000080,metro,10
+Forest of Dean,E07000080,train,95
+Forest of Dean,E07000080,bus,489
+Forest of Dean,E07000080,taxi,34
+Forest of Dean,E07000080,motorcycle,201
+Forest of Dean,E07000080,carDriver,23378
+Forest of Dean,E07000080,carPassenger,1640
+Forest of Dean,E07000080,bicycle,286
+Forest of Dean,E07000080,foot,2285
+Forest of Dean,E07000080,other,341
+Forest of Dean,E07000080,noWork,47014
+Fylde,E07000119,home,11361
+Fylde,E07000119,metro,31
+Fylde,E07000119,train,176
+Fylde,E07000119,bus,793
+Fylde,E07000119,taxi,159
+Fylde,E07000119,motorcycle,116
+Fylde,E07000119,carDriver,18312
+Fylde,E07000119,carPassenger,1312
+Fylde,E07000119,bicycle,535
+Fylde,E07000119,foot,2498
+Fylde,E07000119,other,423
+Fylde,E07000119,noWork,45658
+Gateshead,E08000037,home,23427
+Gateshead,E08000037,metro,1528
+Gateshead,E08000037,train,391
+Gateshead,E08000037,bus,7201
+Gateshead,E08000037,taxi,774
+Gateshead,E08000037,motorcycle,233
+Gateshead,E08000037,carDriver,40957
+Gateshead,E08000037,carPassenger,4249
+Gateshead,E08000037,bicycle,1092
+Gateshead,E08000037,foot,6677
+Gateshead,E08000037,other,990
+Gateshead,E08000037,noWork,108632
+Gedling,E07000173,home,17220
+Gedling,E07000173,metro,67
+Gedling,E07000173,train,173
+Gedling,E07000173,bus,3572
+Gedling,E07000173,taxi,240
+Gedling,E07000173,motorcycle,212
+Gedling,E07000173,carDriver,28293
+Gedling,E07000173,carPassenger,1939
+Gedling,E07000173,bicycle,747
+Gedling,E07000173,foot,3229
+Gedling,E07000173,other,495
+Gedling,E07000173,noWork,61076
+Gloucester,E07000081,home,15908
+Gloucester,E07000081,metro,24
+Gloucester,E07000081,train,215
+Gloucester,E07000081,bus,2786
+Gloucester,E07000081,taxi,194
+Gloucester,E07000081,motorcycle,418
+Gloucester,E07000081,carDriver,34341
+Gloucester,E07000081,carPassenger,3161
+Gloucester,E07000081,bicycle,2174
+Gloucester,E07000081,foot,5909
+Gloucester,E07000081,other,491
+Gloucester,E07000081,noWork,66795
+Gosport,E07000088,home,8865
+Gosport,E07000088,metro,23
+Gosport,E07000088,train,208
+Gosport,E07000088,bus,1128
+Gosport,E07000088,taxi,223
+Gosport,E07000088,motorcycle,486
+Gosport,E07000088,carDriver,20010
+Gosport,E07000088,carPassenger,1575
+Gosport,E07000088,bicycle,2433
+Gosport,E07000088,foot,2876
+Gosport,E07000088,other,656
+Gosport,E07000088,noWork,43468
+Gravesham,E07000109,home,13037
+Gravesham,E07000109,metro,203
+Gravesham,E07000109,train,2655
+Gravesham,E07000109,bus,1665
+Gravesham,E07000109,taxi,224
+Gravesham,E07000109,motorcycle,344
+Gravesham,E07000109,carDriver,24799
+Gravesham,E07000109,carPassenger,2591
+Gravesham,E07000109,bicycle,405
+Gravesham,E07000109,foot,3264
+Gravesham,E07000109,other,574
+Gravesham,E07000109,noWork,57139
+Great Yarmouth,E07000145,home,6813
+Great Yarmouth,E07000145,metro,20
+Great Yarmouth,E07000145,train,124
+Great Yarmouth,E07000145,bus,1807
+Great Yarmouth,E07000145,taxi,209
+Great Yarmouth,E07000145,motorcycle,257
+Great Yarmouth,E07000145,carDriver,22863
+Great Yarmouth,E07000145,carPassenger,2488
+Great Yarmouth,E07000145,bicycle,1276
+Great Yarmouth,E07000145,foot,4314
+Great Yarmouth,E07000145,other,969
+Great Yarmouth,E07000145,noWork,58609
+Greenwich,E09000011,home,57959
+Greenwich,E09000011,metro,13632
+Greenwich,E09000011,train,12376
+Greenwich,E09000011,bus,15318
+Greenwich,E09000011,taxi,635
+Greenwich,E09000011,motorcycle,882
+Greenwich,E09000011,carDriver,28623
+Greenwich,E09000011,carPassenger,2160
+Greenwich,E09000011,bicycle,2688
+Greenwich,E09000011,foot,7001
+Greenwich,E09000011,other,1660
+Greenwich,E09000011,noWork,146134
+Guildford,E07000209,home,30814
+Guildford,E07000209,metro,92
+Guildford,E07000209,train,1617
+Guildford,E07000209,bus,1264
+Guildford,E07000209,taxi,167
+Guildford,E07000209,motorcycle,359
+Guildford,E07000209,carDriver,25794
+Guildford,E07000209,carPassenger,1846
+Guildford,E07000209,bicycle,1187
+Guildford,E07000209,foot,5886
+Guildford,E07000209,other,748
+Guildford,E07000209,noWork,73876
+Gwynedd,W06000002,home,12259
+Gwynedd,W06000002,metro,24
+Gwynedd,W06000002,train,198
+Gwynedd,W06000002,bus,1266
+Gwynedd,W06000002,taxi,125
+Gwynedd,W06000002,motorcycle,135
+Gwynedd,W06000002,carDriver,29336
+Gwynedd,W06000002,carPassenger,2268
+Gwynedd,W06000002,bicycle,532
+Gwynedd,W06000002,foot,5292
+Gwynedd,W06000002,other,385
+Gwynedd,W06000002,noWork,65575
+Hackney,E09000012,home,66844
+Hackney,E09000012,metro,10239
+Hackney,E09000012,train,4991
+Hackney,E09000012,bus,13995
+Hackney,E09000012,taxi,962
+Hackney,E09000012,motorcycle,672
+Hackney,E09000012,carDriver,11646
+Hackney,E09000012,carPassenger,851
+Hackney,E09000012,bicycle,10011
+Hackney,E09000012,foot,12698
+Hackney,E09000012,other,1401
+Hackney,E09000012,noWork,124838
+Halton,E06000006,home,14548
+Halton,E06000006,metro,26
+Halton,E06000006,train,470
+Halton,E06000006,bus,1916
+Halton,E06000006,taxi,492
+Halton,E06000006,motorcycle,232
+Halton,E06000006,carDriver,31780
+Halton,E06000006,carPassenger,3231
+Halton,E06000006,bicycle,1182
+Halton,E06000006,foot,4296
+Halton,E06000006,other,534
+Halton,E06000006,noWork,69772
+Hambleton,E07000164,home,13303
+Hambleton,E07000164,metro,18
+Hambleton,E07000164,train,171
+Hambleton,E07000164,bus,188
+Hambleton,E07000164,taxi,82
+Hambleton,E07000164,motorcycle,97
+Hambleton,E07000164,carDriver,22912
+Hambleton,E07000164,carPassenger,1349
+Hambleton,E07000164,bicycle,640
+Hambleton,E07000164,foot,4192
+Hambleton,E07000164,other,451
+Hambleton,E07000164,noWork,47286
+Hammersmith and Fulham,E09000013,home,51319
+Hammersmith and Fulham,E09000013,metro,11578
+Hammersmith and Fulham,E09000013,train,2376
+Hammersmith and Fulham,E09000013,bus,7504
+Hammersmith and Fulham,E09000013,taxi,595
+Hammersmith and Fulham,E09000013,motorcycle,994
+Hammersmith and Fulham,E09000013,carDriver,7781
+Hammersmith and Fulham,E09000013,carPassenger,514
+Hammersmith and Fulham,E09000013,bicycle,4915
+Hammersmith and Fulham,E09000013,foot,9439
+Hammersmith and Fulham,E09000013,other,1078
+Hammersmith and Fulham,E09000013,noWork,85064
+Harborough,E07000131,home,17474
+Harborough,E07000131,metro,21
+Harborough,E07000131,train,269
+Harborough,E07000131,bus,405
+Harborough,E07000131,taxi,74
+Harborough,E07000131,motorcycle,102
+Harborough,E07000131,carDriver,25108
+Harborough,E07000131,carPassenger,1372
+Harborough,E07000131,bicycle,535
+Harborough,E07000131,foot,3057
+Harborough,E07000131,other,354
+Harborough,E07000131,noWork,48854
+Haringey,E09000014,home,55767
+Haringey,E09000014,metro,21629
+Haringey,E09000014,train,5273
+Haringey,E09000014,bus,15341
+Haringey,E09000014,taxi,626
+Haringey,E09000014,motorcycle,1107
+Haringey,E09000014,carDriver,18436
+Haringey,E09000014,carPassenger,1457
+Haringey,E09000014,bicycle,5226
+Haringey,E09000014,foot,7920
+Haringey,E09000014,other,1599
+Haringey,E09000014,noWork,129857
+Harlow,E07000073,home,9631
+Harlow,E07000073,metro,753
+Harlow,E07000073,train,979
+Harlow,E07000073,bus,1108
+Harlow,E07000073,taxi,548
+Harlow,E07000073,motorcycle,262
+Harlow,E07000073,carDriver,24427
+Harlow,E07000073,carPassenger,2508
+Harlow,E07000073,bicycle,985
+Harlow,E07000073,foot,4245
+Harlow,E07000073,other,535
+Harlow,E07000073,noWork,47347
+Harrogate,E07000165,home,28233
+Harrogate,E07000165,metro,38
+Harrogate,E07000165,train,503
+Harrogate,E07000165,bus,1383
+Harrogate,E07000165,taxi,222
+Harrogate,E07000165,motorcycle,237
+Harrogate,E07000165,carDriver,36036
+Harrogate,E07000165,carPassenger,2684
+Harrogate,E07000165,bicycle,1190
+Harrogate,E07000165,foot,8490
+Harrogate,E07000165,other,669
+Harrogate,E07000165,noWork,82982
+Harrow,E09000015,home,45175
+Harrow,E09000015,metro,15605
+Harrow,E09000015,train,4721
+Harrow,E09000015,bus,8673
+Harrow,E09000015,taxi,516
+Harrow,E09000015,motorcycle,590
+Harrow,E09000015,carDriver,37918
+Harrow,E09000015,carPassenger,3223
+Harrow,E09000015,bicycle,915
+Harrow,E09000015,foot,6146
+Harrow,E09000015,other,1555
+Harrow,E09000015,noWork,136166
+Hart,E07000089,home,22579
+Hart,E07000089,metro,46
+Hart,E07000089,train,665
+Hart,E07000089,bus,227
+Hart,E07000089,taxi,68
+Hart,E07000089,motorcycle,187
+Hart,E07000089,carDriver,21942
+Hart,E07000089,carPassenger,1194
+Hart,E07000089,bicycle,589
+Hart,E07000089,foot,2535
+Hart,E07000089,other,413
+Hart,E07000089,noWork,48963
+Hartlepool,E06000001,home,6570
+Hartlepool,E06000001,metro,33
+Hartlepool,E06000001,train,269
+Hartlepool,E06000001,bus,1241
+Hartlepool,E06000001,taxi,639
+Hartlepool,E06000001,motorcycle,73
+Hartlepool,E06000001,carDriver,22448
+Hartlepool,E06000001,carPassenger,2276
+Hartlepool,E06000001,bicycle,561
+Hartlepool,E06000001,foot,3131
+Hartlepool,E06000001,other,509
+Hartlepool,E06000001,noWork,54589
+Hastings,E07000062,home,10943
+Hastings,E07000062,metro,44
+Hastings,E07000062,train,1068
+Hastings,E07000062,bus,1170
+Hastings,E07000062,taxi,651
+Hastings,E07000062,motorcycle,294
+Hastings,E07000062,carDriver,18992
+Hastings,E07000062,carPassenger,2184
+Hastings,E07000062,bicycle,536
+Hastings,E07000062,foot,4495
+Hastings,E07000062,other,523
+Hastings,E07000062,noWork,50096
+Havant,E07000090,home,14413
+Havant,E07000090,metro,18
+Havant,E07000090,train,624
+Havant,E07000090,bus,1555
+Havant,E07000090,taxi,408
+Havant,E07000090,motorcycle,406
+Havant,E07000090,carDriver,31164
+Havant,E07000090,carPassenger,2827
+Havant,E07000090,bicycle,1181
+Havant,E07000090,foot,3215
+Havant,E07000090,other,557
+Havant,E07000090,noWork,67840
+Havering,E09000016,home,41654
+Havering,E09000016,metro,8363
+Havering,E09000016,train,8721
+Havering,E09000016,bus,6949
+Havering,E09000016,taxi,739
+Havering,E09000016,motorcycle,609
+Havering,E09000016,carDriver,45890
+Havering,E09000016,carPassenger,3357
+Havering,E09000016,bicycle,848
+Havering,E09000016,foot,6101
+Havering,E09000016,other,1550
+Havering,E09000016,noWork,137271
+Herefordshire,E06000019,home,22618
+Herefordshire,E06000019,metro,31
+Herefordshire,E06000019,train,271
+Herefordshire,E06000019,bus,555
+Herefordshire,E06000019,taxi,248
+Herefordshire,E06000019,motorcycle,404
+Herefordshire,E06000019,carDriver,47936
+Herefordshire,E06000019,carPassenger,3640
+Herefordshire,E06000019,bicycle,2569
+Herefordshire,E06000019,foot,9391
+Herefordshire,E06000019,other,846
+Herefordshire,E06000019,noWork,98523
+Hertsmere,E07000098,home,21051
+Hertsmere,E07000098,metro,1310
+Hertsmere,E07000098,train,1999
+Hertsmere,E07000098,bus,1509
+Hertsmere,E07000098,taxi,269
+Hertsmere,E07000098,motorcycle,234
+Hertsmere,E07000098,carDriver,21164
+Hertsmere,E07000098,carPassenger,1314
+Hertsmere,E07000098,bicycle,357
+Hertsmere,E07000098,foot,2974
+Hertsmere,E07000098,other,585
+Hertsmere,E07000098,noWork,55061
+High Peak,E07000037,home,12973
+High Peak,E07000037,metro,31
+High Peak,E07000037,train,756
+High Peak,E07000037,bus,612
+High Peak,E07000037,taxi,181
+High Peak,E07000037,motorcycle,123
+High Peak,E07000037,carDriver,23176
+High Peak,E07000037,carPassenger,1536
+High Peak,E07000037,bicycle,376
+High Peak,E07000037,foot,4501
+High Peak,E07000037,other,349
+High Peak,E07000037,noWork,46319
+Hillingdon,E09000017,home,45193
+Hillingdon,E09000017,metro,9362
+Hillingdon,E09000017,train,3714
+Hillingdon,E09000017,bus,13357
+Hillingdon,E09000017,taxi,670
+Hillingdon,E09000017,motorcycle,772
+Hillingdon,E09000017,carDriver,55421
+Hillingdon,E09000017,carPassenger,3711
+Hillingdon,E09000017,bicycle,1627
+Hillingdon,E09000017,foot,7226
+Hillingdon,E09000017,other,1752
+Hillingdon,E09000017,noWork,163104
+Hinckley and Bosworth,E07000132,home,16666
+Hinckley and Bosworth,E07000132,metro,28
+Hinckley and Bosworth,E07000132,train,168
+Hinckley and Bosworth,E07000132,bus,702
+Hinckley and Bosworth,E07000132,taxi,113
+Hinckley and Bosworth,E07000132,motorcycle,189
+Hinckley and Bosworth,E07000132,carDriver,31401
+Hinckley and Bosworth,E07000132,carPassenger,1948
+Hinckley and Bosworth,E07000132,bicycle,824
+Hinckley and Bosworth,E07000132,foot,3419
+Hinckley and Bosworth,E07000132,other,429
+Hinckley and Bosworth,E07000132,noWork,57754
+Horsham,E07000227,home,29417
+Horsham,E07000227,metro,54
+Horsham,E07000227,train,1235
+Horsham,E07000227,bus,624
+Horsham,E07000227,taxi,100
+Horsham,E07000227,motorcycle,261
+Horsham,E07000227,carDriver,32645
+Horsham,E07000227,carPassenger,2053
+Horsham,E07000227,bicycle,702
+Horsham,E07000227,foot,4474
+Horsham,E07000227,other,604
+Horsham,E07000227,noWork,74611
+Hounslow,E09000018,home,45047
+Hounslow,E09000018,metro,10046
+Hounslow,E09000018,train,5086
+Hounslow,E09000018,bus,18538
+Hounslow,E09000018,taxi,635
+Hounslow,E09000018,motorcycle,1199
+Hounslow,E09000018,carDriver,40771
+Hounslow,E09000018,carPassenger,3043
+Hounslow,E09000018,bicycle,4056
+Hounslow,E09000018,foot,8614
+Hounslow,E09000018,other,1767
+Hounslow,E09000018,noWork,149381
+Huntingdonshire,E07000011,home,31900
+Huntingdonshire,E07000011,metro,51
+Huntingdonshire,E07000011,train,1005
+Huntingdonshire,E07000011,bus,1118
+Huntingdonshire,E07000011,taxi,314
+Huntingdonshire,E07000011,motorcycle,351
+Huntingdonshire,E07000011,carDriver,44173
+Huntingdonshire,E07000011,carPassenger,3138
+Huntingdonshire,E07000011,bicycle,2354
+Huntingdonshire,E07000011,foot,6281
+Huntingdonshire,E07000011,other,707
+Huntingdonshire,E07000011,noWork,89441
+Hyndburn,E07000120,home,6309
+Hyndburn,E07000120,metro,8
+Hyndburn,E07000120,train,223
+Hyndburn,E07000120,bus,960
+Hyndburn,E07000120,taxi,993
+Hyndburn,E07000120,motorcycle,148
+Hyndburn,E07000120,carDriver,21212
+Hyndburn,E07000120,carPassenger,2150
+Hyndburn,E07000120,bicycle,267
+Hyndburn,E07000120,foot,2976
+Hyndburn,E07000120,other,381
+Hyndburn,E07000120,noWork,46607
+Ipswich,E07000202,home,16664
+Ipswich,E07000202,metro,34
+Ipswich,E07000202,train,559
+Ipswich,E07000202,bus,2478
+Ipswich,E07000202,taxi,461
+Ipswich,E07000202,motorcycle,451
+Ipswich,E07000202,carDriver,32133
+Ipswich,E07000202,carPassenger,3843
+Ipswich,E07000202,bicycle,2141
+Ipswich,E07000202,foot,7573
+Ipswich,E07000202,other,691
+Ipswich,E07000202,noWork,72616
+Isle of Anglesey,W06000001,home,6573
+Isle of Anglesey,W06000001,metro,6
+Isle of Anglesey,W06000001,train,119
+Isle of Anglesey,W06000001,bus,463
+Isle of Anglesey,W06000001,taxi,92
+Isle of Anglesey,W06000001,motorcycle,115
+Isle of Anglesey,W06000001,carDriver,17915
+Isle of Anglesey,W06000001,carPassenger,1354
+Isle of Anglesey,W06000001,bicycle,279
+Isle of Anglesey,W06000001,foot,2005
+Isle of Anglesey,W06000001,other,281
+Isle of Anglesey,W06000001,noWork,39676
+Isle of Wight,E06000046,home,12922
+Isle of Wight,E06000046,metro,39
+Isle of Wight,E06000046,train,252
+Isle of Wight,E06000046,bus,2291
+Isle of Wight,E06000046,taxi,83
+Isle of Wight,E06000046,motorcycle,621
+Isle of Wight,E06000046,carDriver,29704
+Isle of Wight,E06000046,carPassenger,2100
+Isle of Wight,E06000046,bicycle,1275
+Isle of Wight,E06000046,foot,7404
+Isle of Wight,E06000046,other,1219
+Isle of Wight,E06000046,noWork,82549
+Isles of Scilly,E06000053,home,322
+Isles of Scilly,E06000053,metro,0
+Isles of Scilly,E06000053,train,1
+Isles of Scilly,E06000053,bus,7
+Isles of Scilly,E06000053,taxi,1
+Isles of Scilly,E06000053,motorcycle,9
+Isles of Scilly,E06000053,carDriver,282
+Isles of Scilly,E06000053,carPassenger,19
+Isles of Scilly,E06000053,bicycle,127
+Isles of Scilly,E06000053,foot,309
+Isles of Scilly,E06000053,other,38
+Isles of Scilly,E06000053,noWork,940
+Isles of Scilly,E06000053,home,322
+Isles of Scilly,E06000053,metro,0
+Isles of Scilly,E06000053,train,1
+Isles of Scilly,E06000053,bus,7
+Isles of Scilly,E06000053,taxi,1
+Isles of Scilly,E06000053,motorcycle,9
+Isles of Scilly,E06000053,carDriver,282
+Isles of Scilly,E06000053,carPassenger,19
+Isles of Scilly,E06000053,bicycle,127
+Isles of Scilly,E06000053,foot,309
+Isles of Scilly,E06000053,other,38
+Isles of Scilly,E06000053,noWork,940
+Islington,E09000019,home,64530
+Islington,E09000019,metro,11099
+Islington,E09000019,train,3063
+Islington,E09000019,bus,9346
+Islington,E09000019,taxi,689
+Islington,E09000019,motorcycle,620
+Islington,E09000019,carDriver,7871
+Islington,E09000019,carPassenger,552
+Islington,E09000019,bicycle,6133
+Islington,E09000019,foot,9922
+Islington,E09000019,other,1146
+Islington,E09000019,noWork,101619
+Kensington and Chelsea,E09000020,home,40010
+Kensington and Chelsea,E09000020,metro,6659
+Kensington and Chelsea,E09000020,train,1164
+Kensington and Chelsea,E09000020,bus,4057
+Kensington and Chelsea,E09000020,taxi,1003
+Kensington and Chelsea,E09000020,motorcycle,568
+Kensington and Chelsea,E09000020,carDriver,5331
+Kensington and Chelsea,E09000020,carPassenger,487
+Kensington and Chelsea,E09000020,bicycle,2377
+Kensington and Chelsea,E09000020,foot,6820
+Kensington and Chelsea,E09000020,other,962
+Kensington and Chelsea,E09000020,noWork,73935
+Kings Lynn and West Norfolk,E07000146,home,14162
+Kings Lynn and West Norfolk,E07000146,metro,49
+Kings Lynn and West Norfolk,E07000146,train,569
+Kings Lynn and West Norfolk,E07000146,bus,804
+Kings Lynn and West Norfolk,E07000146,taxi,171
+Kings Lynn and West Norfolk,E07000146,motorcycle,341
+Kings Lynn and West Norfolk,E07000146,carDriver,41529
+Kings Lynn and West Norfolk,E07000146,carPassenger,3353
+Kings Lynn and West Norfolk,E07000146,bicycle,2455
+Kings Lynn and West Norfolk,E07000146,foot,5082
+Kings Lynn and West Norfolk,E07000146,other,707
+Kings Lynn and West Norfolk,E07000146,noWork,85102
+Kingston upon Hull,E06000010,home,15534
+Kingston upon Hull,E06000010,metro,41
+Kingston upon Hull,E06000010,train,414
+Kingston upon Hull,E06000010,bus,8903
+Kingston upon Hull,E06000010,taxi,1497
+Kingston upon Hull,E06000010,motorcycle,969
+Kingston upon Hull,E06000010,carDriver,61237
+Kingston upon Hull,E06000010,carPassenger,9104
+Kingston upon Hull,E06000010,bicycle,8169
+Kingston upon Hull,E06000010,foot,10676
+Kingston upon Hull,E06000010,other,1245
+Kingston upon Hull,E06000010,noWork,149222
+Kingston upon Thames,E09000021,home,39251
+Kingston upon Thames,E09000021,metro,1457
+Kingston upon Thames,E09000021,train,4946
+Kingston upon Thames,E09000021,bus,5519
+Kingston upon Thames,E09000021,taxi,228
+Kingston upon Thames,E09000021,motorcycle,705
+Kingston upon Thames,E09000021,carDriver,21101
+Kingston upon Thames,E09000021,carPassenger,1396
+Kingston upon Thames,E09000021,bicycle,2379
+Kingston upon Thames,E09000021,foot,6364
+Kingston upon Thames,E09000021,other,802
+Kingston upon Thames,E09000021,noWork,83915
+Kirklees,E08000034,home,49908
+Kirklees,E08000034,metro,101
+Kirklees,E08000034,train,2095
+Kirklees,E08000034,bus,6960
+Kirklees,E08000034,taxi,3403
+Kirklees,E08000034,motorcycle,604
+Kirklees,E08000034,carDriver,101008
+Kirklees,E08000034,carPassenger,9250
+Kirklees,E08000034,bicycle,1378
+Kirklees,E08000034,foot,13453
+Kirklees,E08000034,other,1923
+Kirklees,E08000034,noWork,243131
+Knowsley,E08000011,home,14880
+Knowsley,E08000011,metro,51
+Knowsley,E08000011,train,1758
+Knowsley,E08000011,bus,4655
+Knowsley,E08000011,taxi,1340
+Knowsley,E08000011,motorcycle,168
+Knowsley,E08000011,carDriver,35442
+Knowsley,E08000011,carPassenger,4322
+Knowsley,E08000011,bicycle,1188
+Knowsley,E08000011,foot,4880
+Knowsley,E08000011,other,811
+Knowsley,E08000011,noWork,85027
+Lambeth,E09000022,home,91770
+Lambeth,E09000022,metro,18743
+Lambeth,E09000022,train,8531
+Lambeth,E09000022,bus,21125
+Lambeth,E09000022,taxi,809
+Lambeth,E09000022,motorcycle,1464
+Lambeth,E09000022,carDriver,16994
+Lambeth,E09000022,carPassenger,1013
+Lambeth,E09000022,bicycle,9711
+Lambeth,E09000022,foot,10713
+Lambeth,E09000022,other,1945
+Lambeth,E09000022,noWork,134835
+Lancaster,E07000121,home,15430
+Lancaster,E07000121,metro,39
+Lancaster,E07000121,train,458
+Lancaster,E07000121,bus,2094
+Lancaster,E07000121,taxi,304
+Lancaster,E07000121,motorcycle,309
+Lancaster,E07000121,carDriver,31607
+Lancaster,E07000121,carPassenger,3061
+Lancaster,E07000121,bicycle,1692
+Lancaster,E07000121,foot,6769
+Lancaster,E07000121,other,638
+Lancaster,E07000121,noWork,80533
+Leeds,E08000035,home,126585
+Leeds,E08000035,metro,249
+Leeds,E08000035,train,3950
+Leeds,E08000035,bus,27152
+Leeds,E08000035,taxi,5362
+Leeds,E08000035,motorcycle,913
+Leeds,E08000035,carDriver,156227
+Leeds,E08000035,carPassenger,15050
+Leeds,E08000035,bicycle,5190
+Leeds,E08000035,foot,29819
+Leeds,E08000035,other,3567
+Leeds,E08000035,noWork,437891
+Leicester,E06000016,home,29530
+Leicester,E06000016,metro,145
+Leicester,E06000016,train,755
+Leicester,E06000016,bus,10782
+Leicester,E06000016,taxi,2876
+Leicester,E06000016,motorcycle,469
+Leicester,E06000016,carDriver,67246
+Leicester,E06000016,carPassenger,13734
+Leicester,E06000016,bicycle,5470
+Leicester,E06000016,foot,21589
+Leicester,E06000016,other,2338
+Leicester,E06000016,noWork,213637
+Lewes,E07000063,home,15713
+Lewes,E07000063,metro,37
+Lewes,E07000063,train,1028
+Lewes,E07000063,bus,2038
+Lewes,E07000063,taxi,99
+Lewes,E07000063,motorcycle,235
+Lewes,E07000063,carDriver,19656
+Lewes,E07000063,carPassenger,1322
+Lewes,E07000063,bicycle,603
+Lewes,E07000063,foot,3350
+Lewes,E07000063,other,426
+Lewes,E07000063,noWork,55398
+Lewisham,E09000023,home,69977
+Lewisham,E09000023,metro,10775
+Lewisham,E09000023,train,14407
+Lewisham,E09000023,bus,17148
+Lewisham,E09000023,taxi,628
+Lewisham,E09000023,motorcycle,1011
+Lewisham,E09000023,carDriver,24709
+Lewisham,E09000023,carPassenger,1529
+Lewisham,E09000023,bicycle,5569
+Lewisham,E09000023,foot,8146
+Lewisham,E09000023,other,1813
+Lewisham,E09000023,noWork,144841
+Lichfield,E07000194,home,15959
+Lichfield,E07000194,metro,28
+Lichfield,E07000194,train,514
+Lichfield,E07000194,bus,492
+Lichfield,E07000194,taxi,129
+Lichfield,E07000194,motorcycle,158
+Lichfield,E07000194,carDriver,27712
+Lichfield,E07000194,carPassenger,1822
+Lichfield,E07000194,bicycle,515
+Lichfield,E07000194,foot,2730
+Lichfield,E07000194,other,413
+Lichfield,E07000194,noWork,55963
+Lincoln,E07000138,home,9451
+Lincoln,E07000138,metro,13
+Lincoln,E07000138,train,210
+Lincoln,E07000138,bus,1727
+Lincoln,E07000138,taxi,459
+Lincoln,E07000138,motorcycle,249
+Lincoln,E07000138,carDriver,21936
+Lincoln,E07000138,carPassenger,3203
+Lincoln,E07000138,bicycle,2053
+Lincoln,E07000138,foot,6877
+Lincoln,E07000138,other,541
+Lincoln,E07000138,noWork,57095
+Liverpool,E08000012,home,53721
+Liverpool,E08000012,metro,538
+Liverpool,E08000012,train,5138
+Liverpool,E08000012,bus,22387
+Liverpool,E08000012,taxi,3607
+Liverpool,E08000012,motorcycle,592
+Liverpool,E08000012,carDriver,81901
+Liverpool,E08000012,carPassenger,10160
+Liverpool,E08000012,bicycle,4862
+Liverpool,E08000012,foot,20234
+Liverpool,E08000012,other,2609
+Liverpool,E08000012,noWork,280338
+Luton,E06000032,home,21199
+Luton,E06000032,metro,334
+Luton,E06000032,train,2509
+Luton,E06000032,bus,6718
+Luton,E06000032,taxi,1816
+Luton,E06000032,motorcycle,264
+Luton,E06000032,carDriver,47641
+Luton,E06000032,carPassenger,6719
+Luton,E06000032,bicycle,1103
+Luton,E06000032,foot,8955
+Luton,E06000032,other,1463
+Luton,E06000032,noWork,126541
+Maidstone,E07000110,home,26842
+Maidstone,E07000110,metro,108
+Maidstone,E07000110,train,2239
+Maidstone,E07000110,bus,1583
+Maidstone,E07000110,taxi,259
+Maidstone,E07000110,motorcycle,308
+Maidstone,E07000110,carDriver,43325
+Maidstone,E07000110,carPassenger,3414
+Maidstone,E07000110,bicycle,800
+Maidstone,E07000110,foot,6631
+Maidstone,E07000110,other,897
+Maidstone,E07000110,noWork,89373
+Maldon,E07000074,home,9789
+Maldon,E07000074,metro,55
+Maldon,E07000074,train,638
+Maldon,E07000074,bus,244
+Maldon,E07000074,taxi,57
+Maldon,E07000074,motorcycle,111
+Maldon,E07000074,carDriver,16866
+Maldon,E07000074,carPassenger,998
+Maldon,E07000074,bicycle,292
+Maldon,E07000074,foot,1898
+Maldon,E07000074,other,309
+Maldon,E07000074,noWork,34952
+Malvern Hills,E07000235,home,12483
+Malvern Hills,E07000235,metro,15
+Malvern Hills,E07000235,train,276
+Malvern Hills,E07000235,bus,171
+Malvern Hills,E07000235,taxi,38
+Malvern Hills,E07000235,motorcycle,149
+Malvern Hills,E07000235,carDriver,18650
+Malvern Hills,E07000235,carPassenger,1103
+Malvern Hills,E07000235,bicycle,426
+Malvern Hills,E07000235,foot,2184
+Malvern Hills,E07000235,other,307
+Malvern Hills,E07000235,noWork,43686
+Manchester,E08000003,home,73964
+Manchester,E08000003,metro,6152
+Manchester,E08000003,train,2848
+Manchester,E08000003,bus,23669
+Manchester,E08000003,taxi,3654
+Manchester,E08000003,motorcycle,462
+Manchester,E08000003,carDriver,82379
+Manchester,E08000003,carPassenger,8217
+Manchester,E08000003,bicycle,7305
+Manchester,E08000003,foot,22647
+Manchester,E08000003,other,2986
+Manchester,E08000003,noWork,317655
+Mansfield,E07000174,home,8757
+Mansfield,E07000174,metro,30
+Mansfield,E07000174,train,203
+Mansfield,E07000174,bus,1827
+Mansfield,E07000174,taxi,607
+Mansfield,E07000174,motorcycle,236
+Mansfield,E07000174,carDriver,31438
+Mansfield,E07000174,carPassenger,3841
+Mansfield,E07000174,bicycle,594
+Mansfield,E07000174,foot,3332
+Mansfield,E07000174,other,504
+Mansfield,E07000174,noWork,59115
+Medway,E06000035,home,34466
+Medway,E06000035,metro,313
+Medway,E06000035,train,5339
+Medway,E06000035,bus,3090
+Medway,E06000035,taxi,815
+Medway,E06000035,motorcycle,807
+Medway,E06000035,carDriver,69504
+Medway,E06000035,carPassenger,6301
+Medway,E06000035,bicycle,942
+Medway,E06000035,foot,9519
+Medway,E06000035,other,1510
+Medway,E06000035,noWork,147167
+Melton,E07000133,home,7261
+Melton,E07000133,metro,5
+Melton,E07000133,train,120
+Melton,E07000133,bus,203
+Melton,E07000133,taxi,45
+Melton,E07000133,motorcycle,93
+Melton,E07000133,carDriver,13863
+Melton,E07000133,carPassenger,912
+Melton,E07000133,bicycle,420
+Melton,E07000133,foot,2349
+Melton,E07000133,other,194
+Melton,E07000133,noWork,26287
+Mendip,E07000187,home,17105
+Mendip,E07000187,metro,30
+Mendip,E07000187,train,125
+Mendip,E07000187,bus,530
+Mendip,E07000187,taxi,110
+Mendip,E07000187,motorcycle,229
+Mendip,E07000187,carDriver,28823
+Mendip,E07000187,carPassenger,1918
+Mendip,E07000187,bicycle,769
+Mendip,E07000187,foot,5489
+Mendip,E07000187,other,542
+Mendip,E07000187,noWork,60418
+Merthyr Tydfil,W06000024,home,4666
+Merthyr Tydfil,W06000024,metro,11
+Merthyr Tydfil,W06000024,train,278
+Merthyr Tydfil,W06000024,bus,744
+Merthyr Tydfil,W06000024,taxi,327
+Merthyr Tydfil,W06000024,motorcycle,46
+Merthyr Tydfil,W06000024,carDriver,15547
+Merthyr Tydfil,W06000024,carPassenger,2040
+Merthyr Tydfil,W06000024,bicycle,81
+Merthyr Tydfil,W06000024,foot,1682
+Merthyr Tydfil,W06000024,other,215
+Merthyr Tydfil,W06000024,noWork,33204
+Merton,E09000024,home,48419
+Merton,E09000024,metro,12159
+Merton,E09000024,train,5293
+Merton,E09000024,bus,9251
+Merton,E09000024,taxi,385
+Merton,E09000024,motorcycle,1152
+Merton,E09000024,carDriver,22618
+Merton,E09000024,carPassenger,1630
+Merton,E09000024,bicycle,3237
+Merton,E09000024,foot,6683
+Merton,E09000024,other,1238
+Merton,E09000024,noWork,103124
+Mid Devon,E07000042,home,11963
+Mid Devon,E07000042,metro,10
+Mid Devon,E07000042,train,139
+Mid Devon,E07000042,bus,579
+Mid Devon,E07000042,taxi,64
+Mid Devon,E07000042,motorcycle,194
+Mid Devon,E07000042,carDriver,21306
+Mid Devon,E07000042,carPassenger,1558
+Mid Devon,E07000042,bicycle,476
+Mid Devon,E07000042,foot,3605
+Mid Devon,E07000042,other,388
+Mid Devon,E07000042,noWork,42570
+Mid Suffolk,E07000203,home,15527
+Mid Suffolk,E07000203,metro,28
+Mid Suffolk,E07000203,train,445
+Mid Suffolk,E07000203,bus,171
+Mid Suffolk,E07000203,taxi,65
+Mid Suffolk,E07000203,motorcycle,216
+Mid Suffolk,E07000203,carDriver,28416
+Mid Suffolk,E07000203,carPassenger,1464
+Mid Suffolk,E07000203,bicycle,757
+Mid Suffolk,E07000203,foot,2495
+Mid Suffolk,E07000203,other,442
+Mid Suffolk,E07000203,noWork,52675
+Mid Sussex,E07000228,home,31314
+Mid Sussex,E07000228,metro,70
+Mid Sussex,E07000228,train,2549
+Mid Sussex,E07000228,bus,623
+Mid Sussex,E07000228,taxi,188
+Mid Sussex,E07000228,motorcycle,281
+Mid Sussex,E07000228,carDriver,32221
+Mid Sussex,E07000228,carPassenger,2164
+Mid Sussex,E07000228,bicycle,627
+Mid Sussex,E07000228,foot,5959
+Mid Sussex,E07000228,other,576
+Mid Sussex,E07000228,noWork,75994
+Middlesbrough,E06000002,home,9478
+Middlesbrough,E06000002,metro,28
+Middlesbrough,E06000002,train,469
+Middlesbrough,E06000002,bus,2264
+Middlesbrough,E06000002,taxi,2050
+Middlesbrough,E06000002,motorcycle,99
+Middlesbrough,E06000002,carDriver,30745
+Middlesbrough,E06000002,carPassenger,4060
+Middlesbrough,E06000002,bicycle,1121
+Middlesbrough,E06000002,foot,5129
+Middlesbrough,E06000002,other,993
+Middlesbrough,E06000002,noWork,87490
+Milton Keynes,E06000042,home,52198
+Milton Keynes,E06000042,metro,228
+Milton Keynes,E06000042,train,1915
+Milton Keynes,E06000042,bus,4533
+Milton Keynes,E06000042,taxi,2856
+Milton Keynes,E06000042,motorcycle,448
+Milton Keynes,E06000042,carDriver,62713
+Milton Keynes,E06000042,carPassenger,6985
+Milton Keynes,E06000042,bicycle,2809
+Milton Keynes,E06000042,foot,7288
+Milton Keynes,E06000042,other,1406
+Milton Keynes,E06000042,noWork,143682
+Mole Valley,E07000210,home,19379
+Mole Valley,E07000210,metro,71
+Mole Valley,E07000210,train,1252
+Mole Valley,E07000210,bus,292
+Mole Valley,E07000210,taxi,101
+Mole Valley,E07000210,motorcycle,218
+Mole Valley,E07000210,carDriver,16658
+Mole Valley,E07000210,carPassenger,1052
+Mole Valley,E07000210,bicycle,450
+Mole Valley,E07000210,foot,2480
+Mole Valley,E07000210,other,389
+Mole Valley,E07000210,noWork,45044
+Monmouthshire,W06000021,home,14708
+Monmouthshire,W06000021,metro,30
+Monmouthshire,W06000021,train,238
+Monmouthshire,W06000021,bus,202
+Monmouthshire,W06000021,taxi,99
+Monmouthshire,W06000021,motorcycle,141
+Monmouthshire,W06000021,carDriver,22432
+Monmouthshire,W06000021,carPassenger,1349
+Monmouthshire,W06000021,bicycle,333
+Monmouthshire,W06000021,foot,2964
+Monmouthshire,W06000021,other,336
+Monmouthshire,W06000021,noWork,50127
+Neath Port Talbot,W06000012,home,12464
+Neath Port Talbot,W06000012,metro,20
+Neath Port Talbot,W06000012,train,445
+Neath Port Talbot,W06000012,bus,976
+Neath Port Talbot,W06000012,taxi,274
+Neath Port Talbot,W06000012,motorcycle,250
+Neath Port Talbot,W06000012,carDriver,37320
+Neath Port Talbot,W06000012,carPassenger,3079
+Neath Port Talbot,W06000012,bicycle,548
+Neath Port Talbot,W06000012,foot,3294
+Neath Port Talbot,W06000012,other,517
+Neath Port Talbot,W06000012,noWork,83100
+New Forest,E07000091,home,23960
+New Forest,E07000091,metro,28
+New Forest,E07000091,train,448
+New Forest,E07000091,bus,709
+New Forest,E07000091,taxi,140
+New Forest,E07000091,motorcycle,405
+New Forest,E07000091,carDriver,42845
+New Forest,E07000091,carPassenger,2761
+New Forest,E07000091,bicycle,1794
+New Forest,E07000091,foot,4767
+New Forest,E07000091,other,845
+New Forest,E07000091,noWork,97083
+Newark and Sherwood,E07000175,home,14786
+Newark and Sherwood,E07000175,metro,33
+Newark and Sherwood,E07000175,train,287
+Newark and Sherwood,E07000175,bus,570
+Newark and Sherwood,E07000175,taxi,161
+Newark and Sherwood,E07000175,motorcycle,207
+Newark and Sherwood,E07000175,carDriver,31794
+Newark and Sherwood,E07000175,carPassenger,2547
+Newark and Sherwood,E07000175,bicycle,1687
+Newark and Sherwood,E07000175,foot,4522
+Newark and Sherwood,E07000175,other,520
+Newark and Sherwood,E07000175,noWork,65842
+Newcastle upon Tyne,E08000021,home,37529
+Newcastle upon Tyne,E08000021,metro,2337
+Newcastle upon Tyne,E08000021,train,794
+Newcastle upon Tyne,E08000021,bus,11887
+Newcastle upon Tyne,E08000021,taxi,1634
+Newcastle upon Tyne,E08000021,motorcycle,235
+Newcastle upon Tyne,E08000021,carDriver,48488
+Newcastle upon Tyne,E08000021,carPassenger,5485
+Newcastle upon Tyne,E08000021,bicycle,2883
+Newcastle upon Tyne,E08000021,foot,12324
+Newcastle upon Tyne,E08000021,other,1481
+Newcastle upon Tyne,E08000021,noWork,175047
+Newcastle-under-Lyme,E07000195,home,13009
+Newcastle-under-Lyme,E07000195,metro,12
+Newcastle-under-Lyme,E07000195,train,219
+Newcastle-under-Lyme,E07000195,bus,1043
+Newcastle-under-Lyme,E07000195,taxi,1099
+Newcastle-under-Lyme,E07000195,motorcycle,256
+Newcastle-under-Lyme,E07000195,carDriver,32923
+Newcastle-under-Lyme,E07000195,carPassenger,3364
+Newcastle-under-Lyme,E07000195,bicycle,606
+Newcastle-under-Lyme,E07000195,foot,3748
+Newcastle-under-Lyme,E07000195,other,404
+Newcastle-under-Lyme,E07000195,noWork,66617
+Newham,E09000025,home,47737
+Newham,E09000025,metro,38371
+Newham,E09000025,train,14011
+Newham,E09000025,bus,14821
+Newham,E09000025,taxi,802
+Newham,E09000025,motorcycle,1063
+Newham,E09000025,carDriver,28349
+Newham,E09000025,carPassenger,2373
+Newham,E09000025,bicycle,3757
+Newham,E09000025,foot,9818
+Newham,E09000025,other,2344
+Newham,E09000025,noWork,187591
+Newport,W06000022,home,20385
+Newport,W06000022,metro,22
+Newport,W06000022,train,716
+Newport,W06000022,bus,2004
+Newport,W06000022,taxi,1093
+Newport,W06000022,motorcycle,250
+Newport,W06000022,carDriver,37870
+Newport,W06000022,carPassenger,4040
+Newport,W06000022,bicycle,969
+Newport,W06000022,foot,4784
+Newport,W06000022,other,656
+Newport,W06000022,noWork,86803
+North Devon,E07000043,home,10957
+North Devon,E07000043,metro,16
+North Devon,E07000043,train,71
+North Devon,E07000043,bus,977
+North Devon,E07000043,taxi,119
+North Devon,E07000043,motorcycle,268
+North Devon,E07000043,carDriver,23589
+North Devon,E07000043,carPassenger,1807
+North Devon,E07000043,bicycle,1098
+North Devon,E07000043,foot,5834
+North Devon,E07000043,other,427
+North Devon,E07000043,noWork,53448
+North East Derbyshire,E07000038,home,11576
+North East Derbyshire,E07000038,metro,37
+North East Derbyshire,E07000038,train,147
+North East Derbyshire,E07000038,bus,1183
+North East Derbyshire,E07000038,taxi,196
+North East Derbyshire,E07000038,motorcycle,201
+North East Derbyshire,E07000038,carDriver,28298
+North East Derbyshire,E07000038,carPassenger,2008
+North East Derbyshire,E07000038,bicycle,297
+North East Derbyshire,E07000038,foot,2244
+North East Derbyshire,E07000038,other,377
+North East Derbyshire,E07000038,noWork,55438
+North East Lincolnshire,E06000012,home,9605
+North East Lincolnshire,E06000012,metro,19
+North East Lincolnshire,E06000012,train,157
+North East Lincolnshire,E06000012,bus,2272
+North East Lincolnshire,E06000012,taxi,567
+North East Lincolnshire,E06000012,motorcycle,359
+North East Lincolnshire,E06000012,carDriver,41180
+North East Lincolnshire,E06000012,carPassenger,4040
+North East Lincolnshire,E06000012,bicycle,3423
+North East Lincolnshire,E06000012,foot,6360
+North East Lincolnshire,E06000012,other,868
+North East Lincolnshire,E06000012,noWork,88114
+North Hertfordshire,E07000099,home,28689
+North Hertfordshire,E07000099,metro,113
+North Hertfordshire,E07000099,train,2442
+North Hertfordshire,E07000099,bus,457
+North Hertfordshire,E07000099,taxi,159
+North Hertfordshire,E07000099,motorcycle,211
+North Hertfordshire,E07000099,carDriver,27107
+North Hertfordshire,E07000099,carPassenger,2061
+North Hertfordshire,E07000099,bicycle,875
+North Hertfordshire,E07000099,foot,4567
+North Hertfordshire,E07000099,other,476
+North Hertfordshire,E07000099,noWork,66049
+North Kesteven,E07000139,home,15406
+North Kesteven,E07000139,metro,26
+North Kesteven,E07000139,train,300
+North Kesteven,E07000139,bus,517
+North Kesteven,E07000139,taxi,96
+North Kesteven,E07000139,motorcycle,267
+North Kesteven,E07000139,carDriver,32959
+North Kesteven,E07000139,carPassenger,2050
+North Kesteven,E07000139,bicycle,1285
+North Kesteven,E07000139,foot,3469
+North Kesteven,E07000139,other,517
+North Kesteven,E07000139,noWork,61182
+North Lincolnshire,E06000013,home,13277
+North Lincolnshire,E06000013,metro,21
+North Lincolnshire,E06000013,train,131
+North Lincolnshire,E06000013,bus,1036
+North Lincolnshire,E06000013,taxi,233
+North Lincolnshire,E06000013,motorcycle,378
+North Lincolnshire,E06000013,carDriver,47177
+North Lincolnshire,E06000013,carPassenger,4265
+North Lincolnshire,E06000013,bicycle,2307
+North Lincolnshire,E06000013,foot,6617
+North Lincolnshire,E06000013,other,781
+North Lincolnshire,E06000013,noWork,93457
+North Norfolk,E07000147,home,10106
+North Norfolk,E07000147,metro,36
+North Norfolk,E07000147,train,289
+North Norfolk,E07000147,bus,367
+North Norfolk,E07000147,taxi,106
+North Norfolk,E07000147,motorcycle,268
+North Norfolk,E07000147,carDriver,23868
+North Norfolk,E07000147,carPassenger,1398
+North Norfolk,E07000147,bicycle,808
+North Norfolk,E07000147,foot,3865
+North Norfolk,E07000147,other,545
+North Norfolk,E07000147,noWork,61321
+North Northamptonshire,E06000061,home,42162
+North Northamptonshire,E06000061,metro,107
+North Northamptonshire,E06000061,train,921
+North Northamptonshire,E06000061,bus,2469
+North Northamptonshire,E06000061,taxi,1739
+North Northamptonshire,E06000061,motorcycle,604
+North Northamptonshire,E06000061,carDriver,101925
+North Northamptonshire,E06000061,carPassenger,10782
+North Northamptonshire,E06000061,bicycle,2905
+North Northamptonshire,E06000061,foot,13596
+North Northamptonshire,E06000061,other,1645
+North Northamptonshire,E06000061,noWork,180670
+North Somerset,E06000024,home,33466
+North Somerset,E06000024,metro,30
+North Somerset,E06000024,train,801
+North Somerset,E06000024,bus,1782
+North Somerset,E06000024,taxi,386
+North Somerset,E06000024,motorcycle,509
+North Somerset,E06000024,carDriver,51958
+North Somerset,E06000024,carPassenger,3798
+North Somerset,E06000024,bicycle,1951
+North Somerset,E06000024,foot,7185
+North Somerset,E06000024,other,833
+North Somerset,E06000024,noWork,114026
+North Tyneside,E08000022,home,30738
+North Tyneside,E08000022,metro,3041
+North Tyneside,E08000022,train,681
+North Tyneside,E08000022,bus,4343
+North Tyneside,E08000022,taxi,791
+North Tyneside,E08000022,motorcycle,294
+North Tyneside,E08000022,carDriver,43934
+North Tyneside,E08000022,carPassenger,4121
+North Tyneside,E08000022,bicycle,1885
+North Tyneside,E08000022,foot,6177
+North Tyneside,E08000022,other,1260
+North Tyneside,E08000022,noWork,111702
+North Warwickshire,E07000218,home,8411
+North Warwickshire,E07000218,metro,9
+North Warwickshire,E07000218,train,189
+North Warwickshire,E07000218,bus,397
+North Warwickshire,E07000218,taxi,117
+North Warwickshire,E07000218,motorcycle,116
+North Warwickshire,E07000218,carDriver,18812
+North Warwickshire,E07000218,carPassenger,1430
+North Warwickshire,E07000218,bicycle,280
+North Warwickshire,E07000218,foot,1748
+North Warwickshire,E07000218,other,246
+North Warwickshire,E07000218,noWork,33281
+North West Leicestershire,E07000134,home,14874
+North West Leicestershire,E07000134,metro,18
+North West Leicestershire,E07000134,train,66
+North West Leicestershire,E07000134,bus,669
+North West Leicestershire,E07000134,taxi,165
+North West Leicestershire,E07000134,motorcycle,262
+North West Leicestershire,E07000134,carDriver,30052
+North West Leicestershire,E07000134,carPassenger,1952
+North West Leicestershire,E07000134,bicycle,595
+North West Leicestershire,E07000134,foot,2922
+North West Leicestershire,E07000134,other,385
+North West Leicestershire,E07000134,noWork,52744
+Northumberland,E06000057,home,38430
+Northumberland,E06000057,metro,206
+Northumberland,E06000057,train,610
+Northumberland,E06000057,bus,3995
+Northumberland,E06000057,taxi,586
+Northumberland,E06000057,motorcycle,286
+Northumberland,E06000057,carDriver,76220
+Northumberland,E06000057,carPassenger,5930
+Northumberland,E06000057,bicycle,1463
+Northumberland,E06000057,foot,11346
+Northumberland,E06000057,other,1705
+Northumberland,E06000057,noWork,179790
+Norwich,E07000148,home,19468
+Norwich,E07000148,metro,58
+Norwich,E07000148,train,321
+Norwich,E07000148,bus,3096
+Norwich,E07000148,taxi,494
+Norwich,E07000148,motorcycle,570
+Norwich,E07000148,carDriver,24555
+Norwich,E07000148,carPassenger,2753
+Norwich,E07000148,bicycle,4044
+Norwich,E07000148,foot,9611
+Norwich,E07000148,other,751
+Norwich,E07000148,noWork,78202
+Nottingham,E06000018,home,32915
+Nottingham,E06000018,metro,2760
+Nottingham,E06000018,train,810
+Nottingham,E06000018,bus,15217
+Nottingham,E06000018,taxi,1496
+Nottingham,E06000018,motorcycle,553
+Nottingham,E06000018,carDriver,50069
+Nottingham,E06000018,carPassenger,5931
+Nottingham,E06000018,bicycle,3565
+Nottingham,E06000018,foot,13748
+Nottingham,E06000018,other,1803
+Nottingham,E06000018,noWork,194765
+Nuneaton and Bedworth,E07000219,home,14461
+Nuneaton and Bedworth,E07000219,metro,20
+Nuneaton and Bedworth,E07000219,train,372
+Nuneaton and Bedworth,E07000219,bus,1472
+Nuneaton and Bedworth,E07000219,taxi,350
+Nuneaton and Bedworth,E07000219,motorcycle,253
+Nuneaton and Bedworth,E07000219,carDriver,36655
+Nuneaton and Bedworth,E07000219,carPassenger,3592
+Nuneaton and Bedworth,E07000219,bicycle,1096
+Nuneaton and Bedworth,E07000219,foot,4352
+Nuneaton and Bedworth,E07000219,other,491
+Nuneaton and Bedworth,E07000219,noWork,71083
+Oadby and Wigston,E07000135,home,7477
+Oadby and Wigston,E07000135,metro,24
+Oadby and Wigston,E07000135,train,95
+Oadby and Wigston,E07000135,bus,774
+Oadby and Wigston,E07000135,taxi,145
+Oadby and Wigston,E07000135,motorcycle,96
+Oadby and Wigston,E07000135,carDriver,14012
+Oadby and Wigston,E07000135,carPassenger,1042
+Oadby and Wigston,E07000135,bicycle,493
+Oadby and Wigston,E07000135,foot,1584
+Oadby and Wigston,E07000135,other,244
+Oadby and Wigston,E07000135,noWork,31756
+Oldham,E08000004,home,20903
+Oldham,E08000004,metro,2478
+Oldham,E08000004,train,466
+Oldham,E08000004,bus,4566
+Oldham,E08000004,taxi,1876
+Oldham,E08000004,motorcycle,252
+Oldham,E08000004,carDriver,51845
+Oldham,E08000004,carPassenger,5769
+Oldham,E08000004,bicycle,753
+Oldham,E08000004,foot,7975
+Oldham,E08000004,other,1324
+Oldham,E08000004,noWork,143882
+Oxford,E07000178,home,28427
+Oxford,E07000178,metro,77
+Oxford,E07000178,train,523
+Oxford,E07000178,bus,6493
+Oxford,E07000178,taxi,417
+Oxford,E07000178,motorcycle,375
+Oxford,E07000178,carDriver,17163
+Oxford,E07000178,carPassenger,1778
+Oxford,E07000178,bicycle,7724
+Oxford,E07000178,foot,9697
+Oxford,E07000178,other,650
+Oxford,E07000178,noWork,88714
+Pembrokeshire,W06000009,home,12179
+Pembrokeshire,W06000009,metro,30
+Pembrokeshire,W06000009,train,145
+Pembrokeshire,W06000009,bus,542
+Pembrokeshire,W06000009,taxi,200
+Pembrokeshire,W06000009,motorcycle,183
+Pembrokeshire,W06000009,carDriver,32274
+Pembrokeshire,W06000009,carPassenger,2326
+Pembrokeshire,W06000009,bicycle,333
+Pembrokeshire,W06000009,foot,4001
+Pembrokeshire,W06000009,other,553
+Pembrokeshire,W06000009,noWork,70595
+Pendle,E07000122,home,7461
+Pendle,E07000122,metro,19
+Pendle,E07000122,train,174
+Pendle,E07000122,bus,1151
+Pendle,E07000122,taxi,911
+Pendle,E07000122,motorcycle,105
+Pendle,E07000122,carDriver,22486
+Pendle,E07000122,carPassenger,2282
+Pendle,E07000122,bicycle,335
+Pendle,E07000122,foot,4296
+Pendle,E07000122,other,403
+Pendle,E07000122,noWork,56134
+Peterborough,E06000031,home,24747
+Peterborough,E06000031,metro,86
+Peterborough,E06000031,train,975
+Peterborough,E06000031,bus,3644
+Peterborough,E06000031,taxi,2289
+Peterborough,E06000031,motorcycle,421
+Peterborough,E06000031,carDriver,48971
+Peterborough,E06000031,carPassenger,7145
+Peterborough,E06000031,bicycle,3823
+Peterborough,E06000031,foot,7664
+Peterborough,E06000031,other,1203
+Peterborough,E06000031,noWork,114705
+Plymouth,E06000026,home,25656
+Plymouth,E06000026,metro,44
+Plymouth,E06000026,train,371
+Plymouth,E06000026,bus,7672
+Plymouth,E06000026,taxi,1201
+Plymouth,E06000026,motorcycle,1582
+Plymouth,E06000026,carDriver,61976
+Plymouth,E06000026,carPassenger,6220
+Plymouth,E06000026,bicycle,2554
+Plymouth,E06000026,foot,12221
+Plymouth,E06000026,other,1520
+Plymouth,E06000026,noWork,143677
+Portsmouth,E06000044,home,24315
+Portsmouth,E06000044,metro,63
+Portsmouth,E06000044,train,1894
+Portsmouth,E06000044,bus,4968
+Portsmouth,E06000044,taxi,1291
+Portsmouth,E06000044,motorcycle,807
+Portsmouth,E06000044,carDriver,40707
+Portsmouth,E06000044,carPassenger,4854
+Portsmouth,E06000044,bicycle,5128
+Portsmouth,E06000044,foot,12424
+Portsmouth,E06000044,other,1336
+Portsmouth,E06000044,noWork,110216
+Powys,W06000023,home,18698
+Powys,W06000023,metro,20
+Powys,W06000023,train,147
+Powys,W06000023,bus,297
+Powys,W06000023,taxi,87
+Powys,W06000023,motorcycle,154
+Powys,W06000023,carDriver,33599
+Powys,W06000023,carPassenger,1961
+Powys,W06000023,bicycle,536
+Powys,W06000023,foot,5669
+Powys,W06000023,other,557
+Powys,W06000023,noWork,71443
+Preston,E07000123,home,16614
+Preston,E07000123,metro,31
+Preston,E07000123,train,598
+Preston,E07000123,bus,4224
+Preston,E07000123,taxi,748
+Preston,E07000123,motorcycle,235
+Preston,E07000123,carDriver,32080
+Preston,E07000123,carPassenger,3899
+Preston,E07000123,bicycle,1156
+Preston,E07000123,foot,6403
+Preston,E07000123,other,646
+Preston,E07000123,noWork,81204
+Reading,E06000038,home,34950
+Reading,E06000038,metro,141
+Reading,E06000038,train,2412
+Reading,E06000038,bus,6584
+Reading,E06000038,taxi,318
+Reading,E06000038,motorcycle,349
+Reading,E06000038,carDriver,27914
+Reading,E06000038,carPassenger,2905
+Reading,E06000038,bicycle,2361
+Reading,E06000038,foot,10088
+Reading,E06000038,other,844
+Reading,E06000038,noWork,85358
+Redbridge,E09000026,home,49406
+Redbridge,E09000026,metro,20627
+Redbridge,E09000026,train,8539
+Redbridge,E09000026,bus,8172
+Redbridge,E09000026,taxi,850
+Redbridge,E09000026,motorcycle,638
+Redbridge,E09000026,carDriver,40221
+Redbridge,E09000026,carPassenger,2978
+Redbridge,E09000026,bicycle,1566
+Redbridge,E09000026,foot,6768
+Redbridge,E09000026,other,1862
+Redbridge,E09000026,noWork,168633
+Redcar and Cleveland,E06000003,home,10019
+Redcar and Cleveland,E06000003,metro,19
+Redcar and Cleveland,E06000003,train,556
+Redcar and Cleveland,E06000003,bus,1592
+Redcar and Cleveland,E06000003,taxi,758
+Redcar and Cleveland,E06000003,motorcycle,126
+Redcar and Cleveland,E06000003,carDriver,33885
+Redcar and Cleveland,E06000003,carPassenger,3032
+Redcar and Cleveland,E06000003,bicycle,632
+Redcar and Cleveland,E06000003,foot,4096
+Redcar and Cleveland,E06000003,other,907
+Redcar and Cleveland,E06000003,noWork,80910
+Redditch,E07000236,home,9872
+Redditch,E07000236,metro,17
+Redditch,E07000236,train,248
+Redditch,E07000236,bus,1333
+Redditch,E07000236,taxi,478
+Redditch,E07000236,motorcycle,134
+Redditch,E07000236,carDriver,24498
+Redditch,E07000236,carPassenger,2477
+Redditch,E07000236,bicycle,594
+Redditch,E07000236,foot,2673
+Redditch,E07000236,other,370
+Redditch,E07000236,noWork,44342
+Reigate and Banstead,E07000211,home,31589
+Reigate and Banstead,E07000211,metro,225
+Reigate and Banstead,E07000211,train,2933
+Reigate and Banstead,E07000211,bus,1664
+Reigate and Banstead,E07000211,taxi,382
+Reigate and Banstead,E07000211,motorcycle,396
+Reigate and Banstead,E07000211,carDriver,29864
+Reigate and Banstead,E07000211,carPassenger,1940
+Reigate and Banstead,E07000211,bicycle,733
+Reigate and Banstead,E07000211,foot,4695
+Reigate and Banstead,E07000211,other,706
+Reigate and Banstead,E07000211,noWork,75719
+Rhondda Cynon Taf,W06000016,home,22563
+Rhondda Cynon Taf,W06000016,metro,38
+Rhondda Cynon Taf,W06000016,train,1906
+Rhondda Cynon Taf,W06000016,bus,2752
+Rhondda Cynon Taf,W06000016,taxi,246
+Rhondda Cynon Taf,W06000016,motorcycle,283
+Rhondda Cynon Taf,W06000016,carDriver,62494
+Rhondda Cynon Taf,W06000016,carPassenger,6183
+Rhondda Cynon Taf,W06000016,bicycle,402
+Rhondda Cynon Taf,W06000016,foot,5742
+Rhondda Cynon Taf,W06000016,other,781
+Rhondda Cynon Taf,W06000016,noWork,134262
+Ribble Valley,E07000124,home,9005
+Ribble Valley,E07000124,metro,16
+Ribble Valley,E07000124,train,151
+Ribble Valley,E07000124,bus,246
+Ribble Valley,E07000124,taxi,67
+Ribble Valley,E07000124,motorcycle,85
+Ribble Valley,E07000124,carDriver,17171
+Ribble Valley,E07000124,carPassenger,938
+Ribble Valley,E07000124,bicycle,258
+Ribble Valley,E07000124,foot,2200
+Ribble Valley,E07000124,other,249
+Ribble Valley,E07000124,noWork,31176
+Richmond upon Thames,E09000027,home,57322
+Richmond upon Thames,E09000027,metro,2897
+Richmond upon Thames,E09000027,train,4319
+Richmond upon Thames,E09000027,bus,3929
+Richmond upon Thames,E09000027,taxi,276
+Richmond upon Thames,E09000027,motorcycle,649
+Richmond upon Thames,E09000027,carDriver,17106
+Richmond upon Thames,E09000027,carPassenger,962
+Richmond upon Thames,E09000027,bicycle,3888
+Richmond upon Thames,E09000027,foot,5386
+Richmond upon Thames,E09000027,other,832
+Richmond upon Thames,E09000027,noWork,97713
+Richmondshire,E07000166,home,6700
+Richmondshire,E07000166,metro,15
+Richmondshire,E07000166,train,77
+Richmondshire,E07000166,bus,196
+Richmondshire,E07000166,taxi,127
+Richmondshire,E07000166,motorcycle,77
+Richmondshire,E07000166,carDriver,13001
+Richmondshire,E07000166,carPassenger,906
+Richmondshire,E07000166,bicycle,307
+Richmondshire,E07000166,foot,2936
+Richmondshire,E07000166,other,337
+Richmondshire,E07000166,noWork,25097
+Rochdale,E08000005,home,20151
+Rochdale,E08000005,metro,829
+Rochdale,E08000005,train,804
+Rochdale,E08000005,bus,4612
+Rochdale,E08000005,taxi,1936
+Rochdale,E08000005,motorcycle,305
+Rochdale,E08000005,carDriver,51996
+Rochdale,E08000005,carPassenger,5249
+Rochdale,E08000005,bicycle,809
+Rochdale,E08000005,foot,6731
+Rochdale,E08000005,other,1038
+Rochdale,E08000005,noWork,129314
+Rochford,E07000075,home,14659
+Rochford,E07000075,metro,60
+Rochford,E07000075,train,1877
+Rochford,E07000075,bus,565
+Rochford,E07000075,taxi,116
+Rochford,E07000075,motorcycle,166
+Rochford,E07000075,carDriver,19583
+Rochford,E07000075,carPassenger,1200
+Rochford,E07000075,bicycle,278
+Rochford,E07000075,foot,1752
+Rochford,E07000075,other,405
+Rochford,E07000075,noWork,45003
+Rossendale,E07000125,home,8036
+Rossendale,E07000125,metro,18
+Rossendale,E07000125,train,68
+Rossendale,E07000125,bus,1026
+Rossendale,E07000125,taxi,256
+Rossendale,E07000125,motorcycle,119
+Rossendale,E07000125,carDriver,19570
+Rossendale,E07000125,carPassenger,1507
+Rossendale,E07000125,bicycle,153
+Rossendale,E07000125,foot,2060
+Rossendale,E07000125,other,303
+Rossendale,E07000125,noWork,37757
+Rother,E07000064,home,12306
+Rother,E07000064,metro,31
+Rother,E07000064,train,872
+Rother,E07000064,bus,332
+Rother,E07000064,taxi,131
+Rother,E07000064,motorcycle,200
+Rother,E07000064,carDriver,19187
+Rother,E07000064,carPassenger,1311
+Rother,E07000064,bicycle,345
+Rother,E07000064,foot,2800
+Rother,E07000064,other,417
+Rother,E07000064,noWork,55176
+Rotherham,E08000018,home,24750
+Rotherham,E08000018,metro,196
+Rotherham,E08000018,train,481
+Rotherham,E08000018,bus,4959
+Rotherham,E08000018,taxi,1084
+Rotherham,E08000018,motorcycle,402
+Rotherham,E08000018,carDriver,70478
+Rotherham,E08000018,carPassenger,6792
+Rotherham,E08000018,bicycle,893
+Rotherham,E08000018,foot,6618
+Rotherham,E08000018,other,1148
+Rotherham,E08000018,noWork,148004
+Rugby,E07000220,home,17792
+Rugby,E07000220,metro,37
+Rugby,E07000220,train,441
+Rugby,E07000220,bus,1109
+Rugby,E07000220,taxi,266
+Rugby,E07000220,motorcycle,189
+Rugby,E07000220,carDriver,29803
+Rugby,E07000220,carPassenger,2994
+Rugby,E07000220,bicycle,1111
+Rugby,E07000220,foot,3913
+Rugby,E07000220,other,454
+Rugby,E07000220,noWork,56257
+Runnymede,E07000212,home,16530
+Runnymede,E07000212,metro,122
+Runnymede,E07000212,train,1142
+Runnymede,E07000212,bus,492
+Runnymede,E07000212,taxi,183
+Runnymede,E07000212,motorcycle,230
+Runnymede,E07000212,carDriver,18611
+Runnymede,E07000212,carPassenger,1267
+Runnymede,E07000212,bicycle,705
+Runnymede,E07000212,foot,2759
+Runnymede,E07000212,other,417
+Runnymede,E07000212,noWork,45622
+Rushcliffe,E07000176,home,24680
+Rushcliffe,E07000176,metro,123
+Rushcliffe,E07000176,train,170
+Rushcliffe,E07000176,bus,1574
+Rushcliffe,E07000176,taxi,128
+Rushcliffe,E07000176,motorcycle,123
+Rushcliffe,E07000176,carDriver,24538
+Rushcliffe,E07000176,carPassenger,1395
+Rushcliffe,E07000176,bicycle,1041
+Rushcliffe,E07000176,foot,2786
+Rushcliffe,E07000176,other,420
+Rushcliffe,E07000176,noWork,62099
+Rushmoor,E07000092,home,15301
+Rushmoor,E07000092,metro,47
+Rushmoor,E07000092,train,1217
+Rushmoor,E07000092,bus,1526
+Rushmoor,E07000092,taxi,155
+Rushmoor,E07000092,motorcycle,293
+Rushmoor,E07000092,carDriver,26669
+Rushmoor,E07000092,carPassenger,2514
+Rushmoor,E07000092,bicycle,903
+Rushmoor,E07000092,foot,3835
+Rushmoor,E07000092,other,558
+Rushmoor,E07000092,noWork,46741
+Rutland,E06000017,home,6404
+Rutland,E06000017,metro,8
+Rutland,E06000017,train,99
+Rutland,E06000017,bus,70
+Rutland,E06000017,taxi,35
+Rutland,E06000017,motorcycle,59
+Rutland,E06000017,carDriver,9037
+Rutland,E06000017,carPassenger,516
+Rutland,E06000017,bicycle,368
+Rutland,E06000017,foot,2004
+Rutland,E06000017,other,184
+Rutland,E06000017,noWork,22266
+Ryedale,E07000167,home,7609
+Ryedale,E07000167,metro,12
+Ryedale,E07000167,train,89
+Ryedale,E07000167,bus,175
+Ryedale,E07000167,taxi,45
+Ryedale,E07000167,motorcycle,93
+Ryedale,E07000167,carDriver,13642
+Ryedale,E07000167,carPassenger,843
+Ryedale,E07000167,bicycle,543
+Ryedale,E07000167,foot,2630
+Ryedale,E07000167,other,281
+Ryedale,E07000167,noWork,28746
+Salford,E08000006,home,39039
+Salford,E08000006,metro,2028
+Salford,E08000006,train,1277
+Salford,E08000006,bus,8417
+Salford,E08000006,taxi,1839
+Salford,E08000006,motorcycle,383
+Salford,E08000006,carDriver,52459
+Salford,E08000006,carPassenger,5037
+Salford,E08000006,bicycle,2750
+Salford,E08000006,foot,13107
+Salford,E08000006,other,1269
+Salford,E08000006,noWork,142317
+Sandwell,E08000028,home,26347
+Sandwell,E08000028,metro,1401
+Sandwell,E08000028,train,2593
+Sandwell,E08000028,bus,11938
+Sandwell,E08000028,taxi,2306
+Sandwell,E08000028,motorcycle,523
+Sandwell,E08000028,carDriver,74590
+Sandwell,E08000028,carPassenger,8791
+Sandwell,E08000028,bicycle,1704
+Sandwell,E08000028,foot,9223
+Sandwell,E08000028,other,1656
+Sandwell,E08000028,noWork,200760
+Scarborough,E07000168,home,8837
+Scarborough,E07000168,metro,23
+Scarborough,E07000168,train,266
+Scarborough,E07000168,bus,1299
+Scarborough,E07000168,taxi,213
+Scarborough,E07000168,motorcycle,264
+Scarborough,E07000168,carDriver,23934
+Scarborough,E07000168,carPassenger,2449
+Scarborough,E07000168,bicycle,904
+Scarborough,E07000168,foot,7736
+Scarborough,E07000168,other,624
+Scarborough,E07000168,noWork,62186
+Sedgemoor,E07000188,home,13532
+Sedgemoor,E07000188,metro,30
+Sedgemoor,E07000188,train,204
+Sedgemoor,E07000188,bus,1483
+Sedgemoor,E07000188,taxi,123
+Sedgemoor,E07000188,motorcycle,374
+Sedgemoor,E07000188,carDriver,33463
+Sedgemoor,E07000188,carPassenger,2554
+Sedgemoor,E07000188,bicycle,1978
+Sedgemoor,E07000188,foot,4870
+Sedgemoor,E07000188,other,538
+Sedgemoor,E07000188,noWork,66196
+Sefton,E08000014,home,34750
+Sefton,E08000014,metro,176
+Sefton,E08000014,train,3911
+Sefton,E08000014,bus,4966
+Sefton,E08000014,taxi,1702
+Sefton,E08000014,motorcycle,419
+Sefton,E08000014,carDriver,59614
+Sefton,E08000014,carPassenger,6145
+Sefton,E08000014,bicycle,2626
+Sefton,E08000014,foot,8920
+Sefton,E08000014,other,1367
+Sefton,E08000014,noWork,154635
+Selby,E07000169,home,14331
+Selby,E07000169,metro,8
+Selby,E07000169,train,342
+Selby,E07000169,bus,596
+Selby,E07000169,taxi,72
+Selby,E07000169,motorcycle,190
+Selby,E07000169,carDriver,25137
+Selby,E07000169,carPassenger,1661
+Selby,E07000169,bicycle,764
+Selby,E07000169,foot,2687
+Selby,E07000169,other,338
+Selby,E07000169,noWork,45864
+Sevenoaks,E07000111,home,23775
+Sevenoaks,E07000111,metro,161
+Sevenoaks,E07000111,train,3063
+Sevenoaks,E07000111,bus,441
+Sevenoaks,E07000111,taxi,140
+Sevenoaks,E07000111,motorcycle,303
+Sevenoaks,E07000111,carDriver,23224
+Sevenoaks,E07000111,carPassenger,1522
+Sevenoaks,E07000111,bicycle,289
+Sevenoaks,E07000111,foot,2959
+Sevenoaks,E07000111,other,506
+Sevenoaks,E07000111,noWork,64130
+Sheffield,E08000019,home,69654
+Sheffield,E08000019,metro,2698
+Sheffield,E08000019,train,1747
+Sheffield,E08000019,bus,17868
+Sheffield,E08000019,taxi,2850
+Sheffield,E08000019,motorcycle,615
+Sheffield,E08000019,carDriver,109419
+Sheffield,E08000019,carPassenger,10550
+Sheffield,E08000019,bicycle,3530
+Sheffield,E08000019,foot,20612
+Sheffield,E08000019,other,2464
+Sheffield,E08000019,noWork,314514
+Shropshire,E06000051,home,41525
+Shropshire,E06000051,metro,35
+Shropshire,E06000051,train,762
+Shropshire,E06000051,bus,1110
+Shropshire,E06000051,taxi,731
+Shropshire,E06000051,motorcycle,428
+Shropshire,E06000051,carDriver,83469
+Shropshire,E06000051,carPassenger,6421
+Shropshire,E06000051,bicycle,2926
+Shropshire,E06000051,foot,13662
+Shropshire,E06000051,other,1353
+Shropshire,E06000051,noWork,171183
+Slough,E06000039,home,19976
+Slough,E06000039,metro,587
+Slough,E06000039,train,2323
+Slough,E06000039,bus,3147
+Slough,E06000039,taxi,928
+Slough,E06000039,motorcycle,330
+Slough,E06000039,carDriver,34407
+Slough,E06000039,carPassenger,3784
+Slough,E06000039,bicycle,1529
+Slough,E06000039,foot,5677
+Slough,E06000039,other,1011
+Slough,E06000039,noWork,84799
+Solihull,E08000029,home,35366
+Solihull,E08000029,metro,69
+Solihull,E08000029,train,1563
+Solihull,E08000029,bus,3673
+Solihull,E08000029,taxi,618
+Solihull,E08000029,motorcycle,243
+Solihull,E08000029,carDriver,47002
+Solihull,E08000029,carPassenger,3509
+Solihull,E08000029,bicycle,1000
+Solihull,E08000029,foot,4128
+Solihull,E08000029,other,768
+Solihull,E08000029,noWork,118301
+Somerset West and Taunton,E07000246,home,19392
+Somerset West and Taunton,E07000246,metro,25
+Somerset West and Taunton,E07000246,train,229
+Somerset West and Taunton,E07000246,bus,1019
+Somerset West and Taunton,E07000246,taxi,181
+Somerset West and Taunton,E07000246,motorcycle,456
+Somerset West and Taunton,E07000246,carDriver,37421
+Somerset West and Taunton,E07000246,carPassenger,2809
+Somerset West and Taunton,E07000246,bicycle,2563
+Somerset West and Taunton,E07000246,foot,8483
+Somerset West and Taunton,E07000246,other,715
+Somerset West and Taunton,E07000246,noWork,84151
+South Cambridgeshire,E07000012,home,36046
+South Cambridgeshire,E07000012,metro,64
+South Cambridgeshire,E07000012,train,685
+South Cambridgeshire,E07000012,bus,1604
+South Cambridgeshire,E07000012,taxi,172
+South Cambridgeshire,E07000012,motorcycle,430
+South Cambridgeshire,E07000012,carDriver,33507
+South Cambridgeshire,E07000012,carPassenger,2057
+South Cambridgeshire,E07000012,bicycle,3997
+South Cambridgeshire,E07000012,foot,3131
+South Cambridgeshire,E07000012,other,573
+South Cambridgeshire,E07000012,noWork,79852
+South Derbyshire,E07000039,home,14903
+South Derbyshire,E07000039,metro,25
+South Derbyshire,E07000039,train,127
+South Derbyshire,E07000039,bus,685
+South Derbyshire,E07000039,taxi,312
+South Derbyshire,E07000039,motorcycle,275
+South Derbyshire,E07000039,carDriver,32062
+South Derbyshire,E07000039,carPassenger,2064
+South Derbyshire,E07000039,bicycle,485
+South Derbyshire,E07000039,foot,2555
+South Derbyshire,E07000039,other,411
+South Derbyshire,E07000039,noWork,53302
+South Gloucestershire,E06000025,home,52349
+South Gloucestershire,E06000025,metro,40
+South Gloucestershire,E06000025,train,438
+South Gloucestershire,E06000025,bus,4442
+South Gloucestershire,E06000025,taxi,276
+South Gloucestershire,E06000025,motorcycle,968
+South Gloucestershire,E06000025,carDriver,71696
+South Gloucestershire,E06000025,carPassenger,4890
+South Gloucestershire,E06000025,bicycle,3060
+South Gloucestershire,E06000025,foot,8371
+South Gloucestershire,E06000025,other,1080
+South Gloucestershire,E06000025,noWork,142812
+South Hams,E07000044,home,13451
+South Hams,E07000044,metro,28
+South Hams,E07000044,train,137
+South Hams,E07000044,bus,491
+South Hams,E07000044,taxi,59
+South Hams,E07000044,motorcycle,299
+South Hams,E07000044,carDriver,20416
+South Hams,E07000044,carPassenger,1183
+South Hams,E07000044,bicycle,412
+South Hams,E07000044,foot,3601
+South Hams,E07000044,other,510
+South Hams,E07000044,noWork,48043
+South Holland,E07000140,home,7959
+South Holland,E07000140,metro,25
+South Holland,E07000140,train,138
+South Holland,E07000140,bus,286
+South Holland,E07000140,taxi,116
+South Holland,E07000140,motorcycle,198
+South Holland,E07000140,carDriver,28900
+South Holland,E07000140,carPassenger,2723
+South Holland,E07000140,bicycle,1484
+South Holland,E07000140,foot,2997
+South Holland,E07000140,other,410
+South Holland,E07000140,noWork,49888
+South Kesteven,E07000141,home,19428
+South Kesteven,E07000141,metro,32
+South Kesteven,E07000141,train,416
+South Kesteven,E07000141,bus,567
+South Kesteven,E07000141,taxi,216
+South Kesteven,E07000141,motorcycle,258
+South Kesteven,E07000141,carDriver,36422
+South Kesteven,E07000141,carPassenger,2605
+South Kesteven,E07000141,bicycle,1259
+South Kesteven,E07000141,foot,6419
+South Kesteven,E07000141,other,572
+South Kesteven,E07000141,noWork,75210
+South Lakeland,E07000031,home,13692
+South Lakeland,E07000031,metro,18
+South Lakeland,E07000031,train,291
+South Lakeland,E07000031,bus,462
+South Lakeland,E07000031,taxi,173
+South Lakeland,E07000031,motorcycle,179
+South Lakeland,E07000031,carDriver,25555
+South Lakeland,E07000031,carPassenger,1772
+South Lakeland,E07000031,bicycle,963
+South Lakeland,E07000031,foot,6460
+South Lakeland,E07000031,other,574
+South Lakeland,E07000031,noWork,54313
+South Norfolk,E07000149,home,21339
+South Norfolk,E07000149,metro,32
+South Norfolk,E07000149,train,223
+South Norfolk,E07000149,bus,1037
+South Norfolk,E07000149,taxi,108
+South Norfolk,E07000149,motorcycle,329
+South Norfolk,E07000149,carDriver,37209
+South Norfolk,E07000149,carPassenger,2046
+South Norfolk,E07000149,bicycle,1322
+South Norfolk,E07000149,foot,3404
+South Norfolk,E07000149,other,699
+South Norfolk,E07000149,noWork,74199
+South Oxfordshire,E07000179,home,32709
+South Oxfordshire,E07000179,metro,73
+South Oxfordshire,E07000179,train,897
+South Oxfordshire,E07000179,bus,1168
+South Oxfordshire,E07000179,taxi,81
+South Oxfordshire,E07000179,motorcycle,289
+South Oxfordshire,E07000179,carDriver,31562
+South Oxfordshire,E07000179,carPassenger,2097
+South Oxfordshire,E07000179,bicycle,1637
+South Oxfordshire,E07000179,foot,5393
+South Oxfordshire,E07000179,other,568
+South Oxfordshire,E07000179,noWork,72609
+South Ribble,E07000126,home,15731
+South Ribble,E07000126,metro,15
+South Ribble,E07000126,train,305
+South Ribble,E07000126,bus,1087
+South Ribble,E07000126,taxi,200
+South Ribble,E07000126,motorcycle,210
+South Ribble,E07000126,carDriver,30627
+South Ribble,E07000126,carPassenger,2245
+South Ribble,E07000126,bicycle,971
+South Ribble,E07000126,foot,2904
+South Ribble,E07000126,other,416
+South Ribble,E07000126,noWork,56324
+South Somerset,E07000189,home,20337
+South Somerset,E07000189,metro,38
+South Somerset,E07000189,train,145
+South Somerset,E07000189,bus,379
+South Somerset,E07000189,taxi,143
+South Somerset,E07000189,motorcycle,448
+South Somerset,E07000189,carDriver,45716
+South Somerset,E07000189,carPassenger,3288
+South Somerset,E07000189,bicycle,1341
+South Somerset,E07000189,foot,8412
+South Somerset,E07000189,other,684
+South Somerset,E07000189,noWork,91740
+South Staffordshire,E07000196,home,14069
+South Staffordshire,E07000196,metro,54
+South Staffordshire,E07000196,train,504
+South Staffordshire,E07000196,bus,622
+South Staffordshire,E07000196,taxi,171
+South Staffordshire,E07000196,motorcycle,170
+South Staffordshire,E07000196,carDriver,30339
+South Staffordshire,E07000196,carPassenger,1881
+South Staffordshire,E07000196,bicycle,364
+South Staffordshire,E07000196,foot,2088
+South Staffordshire,E07000196,other,437
+South Staffordshire,E07000196,noWork,59773
+South Tyneside,E08000023,home,14779
+South Tyneside,E08000023,metro,2230
+South Tyneside,E08000023,train,585
+South Tyneside,E08000023,bus,3360
+South Tyneside,E08000023,taxi,299
+South Tyneside,E08000023,motorcycle,212
+South Tyneside,E08000023,carDriver,31575
+South Tyneside,E08000023,carPassenger,2883
+South Tyneside,E08000023,bicycle,1123
+South Tyneside,E08000023,foot,4273
+South Tyneside,E08000023,other,1189
+South Tyneside,E08000023,noWork,85268
+Southampton,E06000045,home,30282
+Southampton,E06000045,metro,84
+Southampton,E06000045,train,1430
+Southampton,E06000045,bus,7835
+Southampton,E06000045,taxi,861
+Southampton,E06000045,motorcycle,787
+Southampton,E06000045,carDriver,51655
+Southampton,E06000045,carPassenger,5945
+Southampton,E06000045,bicycle,3605
+Southampton,E06000045,foot,14255
+Southampton,E06000045,other,1493
+Southampton,E06000045,noWork,130694
+Southend-on-Sea,E06000033,home,27823
+Southend-on-Sea,E06000033,metro,242
+Southend-on-Sea,E06000033,train,4523
+Southend-on-Sea,E06000033,bus,2601
+Southend-on-Sea,E06000033,taxi,390
+Southend-on-Sea,E06000033,motorcycle,378
+Southend-on-Sea,E06000033,carDriver,33110
+Southend-on-Sea,E06000033,carPassenger,2865
+Southend-on-Sea,E06000033,bicycle,1766
+Southend-on-Sea,E06000033,foot,8570
+Southend-on-Sea,E06000033,other,991
+Southend-on-Sea,E06000033,noWork,97427
+Southwark,E09000028,home,80842
+Southwark,E09000028,metro,14000
+Southwark,E09000028,train,7054
+Southwark,E09000028,bus,23288
+Southwark,E09000028,taxi,791
+Southwark,E09000028,motorcycle,1132
+Southwark,E09000028,carDriver,14701
+Southwark,E09000028,carPassenger,882
+Southwark,E09000028,bicycle,9537
+Southwark,E09000028,foot,12998
+Southwark,E09000028,other,1723
+Southwark,E09000028,noWork,140689
+Spelthorne,E07000213,home,18497
+Spelthorne,E07000213,metro,470
+Spelthorne,E07000213,train,1477
+Spelthorne,E07000213,bus,1826
+Spelthorne,E07000213,taxi,144
+Spelthorne,E07000213,motorcycle,416
+Spelthorne,E07000213,carDriver,23540
+Spelthorne,E07000213,carPassenger,1335
+Spelthorne,E07000213,bicycle,971
+Spelthorne,E07000213,foot,2323
+Spelthorne,E07000213,other,543
+Spelthorne,E07000213,noWork,51417
+St Albans,E07000240,home,38594
+St Albans,E07000240,metro,243
+St Albans,E07000240,train,2464
+St Albans,E07000240,bus,732
+St Albans,E07000240,taxi,221
+St Albans,E07000240,motorcycle,189
+St Albans,E07000240,carDriver,23272
+St Albans,E07000240,carPassenger,1478
+St Albans,E07000240,bicycle,764
+St Albans,E07000240,foot,4371
+St Albans,E07000240,other,543
+St Albans,E07000240,noWork,75296
+St. Helens,E08000013,home,18973
+St. Helens,E08000013,metro,29
+St. Helens,E08000013,train,951
+St. Helens,E08000013,bus,2931
+St. Helens,E08000013,taxi,914
+St. Helens,E08000013,motorcycle,289
+St. Helens,E08000013,carDriver,47168
+St. Helens,E08000013,carPassenger,4802
+St. Helens,E08000013,bicycle,966
+St. Helens,E08000013,foot,4823
+St. Helens,E08000013,other,776
+St. Helens,E08000013,noWork,100625
+Stafford,E07000197,home,19775
+Stafford,E07000197,metro,26
+Stafford,E07000197,train,478
+Stafford,E07000197,bus,678
+Stafford,E07000197,taxi,252
+Stafford,E07000197,motorcycle,264
+Stafford,E07000197,carDriver,35046
+Stafford,E07000197,carPassenger,2612
+Stafford,E07000197,bicycle,1300
+Stafford,E07000197,foot,4851
+Stafford,E07000197,other,484
+Stafford,E07000197,noWork,71101
+Staffordshire Moorlands,E07000198,home,10949
+Staffordshire Moorlands,E07000198,metro,13
+Staffordshire Moorlands,E07000198,train,97
+Staffordshire Moorlands,E07000198,bus,410
+Staffordshire Moorlands,E07000198,taxi,131
+Staffordshire Moorlands,E07000198,motorcycle,151
+Staffordshire Moorlands,E07000198,carDriver,27416
+Staffordshire Moorlands,E07000198,carPassenger,1995
+Staffordshire Moorlands,E07000198,bicycle,315
+Staffordshire Moorlands,E07000198,foot,3141
+Staffordshire Moorlands,E07000198,other,415
+Staffordshire Moorlands,E07000198,noWork,50810
+Stevenage,E07000243,home,12876
+Stevenage,E07000243,metro,105
+Stevenage,E07000243,train,1421
+Stevenage,E07000243,bus,1219
+Stevenage,E07000243,taxi,365
+Stevenage,E07000243,motorcycle,199
+Stevenage,E07000243,carDriver,22141
+Stevenage,E07000243,carPassenger,2220
+Stevenage,E07000243,bicycle,894
+Stevenage,E07000243,foot,3594
+Stevenage,E07000243,other,426
+Stevenage,E07000243,noWork,44035
+Stockport,E08000007,home,50157
+Stockport,E08000007,metro,289
+Stockport,E08000007,train,2142
+Stockport,E08000007,bus,5417
+Stockport,E08000007,taxi,745
+Stockport,E08000007,motorcycle,366
+Stockport,E08000007,carDriver,64214
+Stockport,E08000007,carPassenger,4588
+Stockport,E08000007,bicycle,2303
+Stockport,E08000007,foot,8377
+Stockport,E08000007,other,1210
+Stockport,E08000007,noWork,154967
+Stockton-on-Tees,E06000004,home,18809
+Stockton-on-Tees,E06000004,metro,45
+Stockton-on-Tees,E06000004,train,526
+Stockton-on-Tees,E06000004,bus,2256
+Stockton-on-Tees,E06000004,taxi,1319
+Stockton-on-Tees,E06000004,motorcycle,195
+Stockton-on-Tees,E06000004,carDriver,50924
+Stockton-on-Tees,E06000004,carPassenger,4392
+Stockton-on-Tees,E06000004,bicycle,1260
+Stockton-on-Tees,E06000004,foot,5439
+Stockton-on-Tees,E06000004,other,1278
+Stockton-on-Tees,E06000004,noWork,110152
+Stoke-on-Trent,E06000021,home,17161
+Stoke-on-Trent,E06000021,metro,33
+Stoke-on-Trent,E06000021,train,452
+Stoke-on-Trent,E06000021,bus,3679
+Stoke-on-Trent,E06000021,taxi,3933
+Stoke-on-Trent,E06000021,motorcycle,561
+Stoke-on-Trent,E06000021,carDriver,65636
+Stoke-on-Trent,E06000021,carPassenger,8760
+Stoke-on-Trent,E06000021,bicycle,1620
+Stoke-on-Trent,E06000021,foot,9618
+Stoke-on-Trent,E06000021,other,1127
+Stoke-on-Trent,E06000021,noWork,145789
+Stratford-on-Avon,E07000221,home,26151
+Stratford-on-Avon,E07000221,metro,34
+Stratford-on-Avon,E07000221,train,251
+Stratford-on-Avon,E07000221,bus,371
+Stratford-on-Avon,E07000221,taxi,98
+Stratford-on-Avon,E07000221,motorcycle,200
+Stratford-on-Avon,E07000221,carDriver,31378
+Stratford-on-Avon,E07000221,carPassenger,1932
+Stratford-on-Avon,E07000221,bicycle,809
+Stratford-on-Avon,E07000221,foot,4521
+Stratford-on-Avon,E07000221,other,491
+Stratford-on-Avon,E07000221,noWork,68489
+Stroud,E07000082,home,20942
+Stroud,E07000082,metro,25
+Stroud,E07000082,train,176
+Stroud,E07000082,bus,664
+Stroud,E07000082,taxi,66
+Stroud,E07000082,motorcycle,290
+Stroud,E07000082,carDriver,30820
+Stroud,E07000082,carPassenger,1960
+Stroud,E07000082,bicycle,860
+Stroud,E07000082,foot,3657
+Stroud,E07000082,other,459
+Stroud,E07000082,noWork,61185
+Sunderland,E08000024,home,27418
+Sunderland,E08000024,metro,1066
+Sunderland,E08000024,train,520
+Sunderland,E08000024,bus,7848
+Sunderland,E08000024,taxi,888
+Sunderland,E08000024,motorcycle,305
+Sunderland,E08000024,carDriver,60684
+Sunderland,E08000024,carPassenger,6697
+Sunderland,E08000024,bicycle,1499
+Sunderland,E08000024,foot,8803
+Sunderland,E08000024,other,1423
+Sunderland,E08000024,noWork,157021
+Surrey Heath,E07000214,home,18509
+Surrey Heath,E07000214,metro,35
+Surrey Heath,E07000214,train,681
+Surrey Heath,E07000214,bus,521
+Surrey Heath,E07000214,taxi,92
+Surrey Heath,E07000214,motorcycle,190
+Surrey Heath,E07000214,carDriver,20502
+Surrey Heath,E07000214,carPassenger,1308
+Surrey Heath,E07000214,bicycle,484
+Surrey Heath,E07000214,foot,2634
+Surrey Heath,E07000214,other,407
+Surrey Heath,E07000214,noWork,45090
+Sutton,E09000029,home,38024
+Sutton,E09000029,metro,3815
+Sutton,E09000029,train,6442
+Sutton,E09000029,bus,6899
+Sutton,E09000029,taxi,436
+Sutton,E09000029,motorcycle,952
+Sutton,E09000029,carDriver,36070
+Sutton,E09000029,carPassenger,2412
+Sutton,E09000029,bicycle,1561
+Sutton,E09000029,foot,6484
+Sutton,E09000029,other,1129
+Sutton,E09000029,noWork,105415
+Swale,E07000113,home,17587
+Swale,E07000113,metro,73
+Swale,E07000113,train,2200
+Swale,E07000113,bus,477
+Swale,E07000113,taxi,214
+Swale,E07000113,motorcycle,387
+Swale,E07000113,carDriver,37930
+Swale,E07000113,carPassenger,2990
+Swale,E07000113,bicycle,935
+Swale,E07000113,foot,5725
+Swale,E07000113,other,684
+Swale,E07000113,noWork,82474
+Swansea,W06000011,home,25495
+Swansea,W06000011,metro,53
+Swansea,W06000011,train,440
+Swansea,W06000011,bus,2859
+Swansea,W06000011,taxi,812
+Swansea,W06000011,motorcycle,334
+Swansea,W06000011,carDriver,56355
+Swansea,W06000011,carPassenger,5259
+Swansea,W06000011,bicycle,1101
+Swansea,W06000011,foot,6984
+Swansea,W06000011,other,919
+Swansea,W06000011,noWork,137877
+Swindon,E06000030,home,36022
+Swindon,E06000030,metro,64
+Swindon,E06000030,train,514
+Swindon,E06000030,bus,6612
+Swindon,E06000030,taxi,830
+Swindon,E06000030,motorcycle,559
+Swindon,E06000030,carDriver,55279
+Swindon,E06000030,carPassenger,6049
+Swindon,E06000030,bicycle,3289
+Swindon,E06000030,foot,7517
+Swindon,E06000030,other,1131
+Swindon,E06000030,noWork,115544
+Tameside,E08000008,home,25970
+Tameside,E08000008,metro,895
+Tameside,E08000008,train,1326
+Tameside,E08000008,bus,5818
+Tameside,E08000008,taxi,1013
+Tameside,E08000008,motorcycle,336
+Tameside,E08000008,carDriver,55422
+Tameside,E08000008,carPassenger,4889
+Tameside,E08000008,bicycle,1199
+Tameside,E08000008,foot,7739
+Tameside,E08000008,other,1047
+Tameside,E08000008,noWork,125417
+Tamworth,E07000199,home,8238
+Tamworth,E07000199,metro,10
+Tamworth,E07000199,train,337
+Tamworth,E07000199,bus,794
+Tamworth,E07000199,taxi,253
+Tamworth,E07000199,motorcycle,179
+Tamworth,E07000199,carDriver,22401
+Tamworth,E07000199,carPassenger,2382
+Tamworth,E07000199,bicycle,739
+Tamworth,E07000199,foot,2533
+Tamworth,E07000199,other,293
+Tamworth,E07000199,noWork,40489
+Tandridge,E07000215,home,18441
+Tandridge,E07000215,metro,113
+Tandridge,E07000215,train,1949
+Tandridge,E07000215,bus,610
+Tandridge,E07000215,taxi,104
+Tandridge,E07000215,motorcycle,191
+Tandridge,E07000215,carDriver,17606
+Tandridge,E07000215,carPassenger,1063
+Tandridge,E07000215,bicycle,192
+Tandridge,E07000215,foot,1920
+Tandridge,E07000215,other,385
+Tandridge,E07000215,noWork,45299
+Teignbridge,E07000045,home,17497
+Teignbridge,E07000045,metro,22
+Teignbridge,E07000045,train,612
+Teignbridge,E07000045,bus,1059
+Teignbridge,E07000045,taxi,121
+Teignbridge,E07000045,motorcycle,432
+Teignbridge,E07000045,carDriver,33785
+Teignbridge,E07000045,carPassenger,2228
+Teignbridge,E07000045,bicycle,779
+Teignbridge,E07000045,foot,5013
+Teignbridge,E07000045,other,590
+Teignbridge,E07000045,noWork,72666
+Telford and Wrekin,E06000020,home,20430
+Telford and Wrekin,E06000020,metro,41
+Telford and Wrekin,E06000020,train,525
+Telford and Wrekin,E06000020,bus,1134
+Telford and Wrekin,E06000020,taxi,2347
+Telford and Wrekin,E06000020,motorcycle,364
+Telford and Wrekin,E06000020,carDriver,48046
+Telford and Wrekin,E06000020,carPassenger,5392
+Telford and Wrekin,E06000020,bicycle,1297
+Telford and Wrekin,E06000020,foot,5159
+Telford and Wrekin,E06000020,other,762
+Telford and Wrekin,E06000020,noWork,100044
+Tendring,E07000076,home,13322
+Tendring,E07000076,metro,77
+Tendring,E07000076,train,1090
+Tendring,E07000076,bus,642
+Tendring,E07000076,taxi,288
+Tendring,E07000076,motorcycle,309
+Tendring,E07000076,carDriver,33570
+Tendring,E07000076,carPassenger,2432
+Tendring,E07000076,bicycle,1018
+Tendring,E07000076,foot,4895
+Tendring,E07000076,other,638
+Tendring,E07000076,noWork,90008
+Test Valley,E07000093,home,23856
+Test Valley,E07000093,metro,33
+Test Valley,E07000093,train,510
+Test Valley,E07000093,bus,570
+Test Valley,E07000093,taxi,247
+Test Valley,E07000093,motorcycle,256
+Test Valley,E07000093,carDriver,31784
+Test Valley,E07000093,carPassenger,2418
+Test Valley,E07000093,bicycle,1102
+Test Valley,E07000093,foot,4528
+Test Valley,E07000093,other,562
+Test Valley,E07000093,noWork,64631
+Tewkesbury,E07000083,home,15532
+Tewkesbury,E07000083,metro,21
+Tewkesbury,E07000083,train,79
+Tewkesbury,E07000083,bus,1034
+Tewkesbury,E07000083,taxi,43
+Tewkesbury,E07000083,motorcycle,206
+Tewkesbury,E07000083,carDriver,24174
+Tewkesbury,E07000083,carPassenger,1520
+Tewkesbury,E07000083,bicycle,1088
+Tewkesbury,E07000083,foot,2489
+Tewkesbury,E07000083,other,336
+Tewkesbury,E07000083,noWork,48360
+Thanet,E07000114,home,14408
+Thanet,E07000114,metro,72
+Thanet,E07000114,train,1448
+Thanet,E07000114,bus,2076
+Thanet,E07000114,taxi,561
+Thanet,E07000114,motorcycle,362
+Thanet,E07000114,carDriver,29473
+Thanet,E07000114,carPassenger,3166
+Thanet,E07000114,bicycle,1194
+Thanet,E07000114,foot,5787
+Thanet,E07000114,other,641
+Thanet,E07000114,noWork,81397
+Three Rivers,E07000102,home,19608
+Three Rivers,E07000102,metro,1698
+Three Rivers,E07000102,train,1101
+Three Rivers,E07000102,bus,491
+Three Rivers,E07000102,taxi,153
+Three Rivers,E07000102,motorcycle,165
+Three Rivers,E07000102,carDriver,19817
+Three Rivers,E07000102,carPassenger,1170
+Three Rivers,E07000102,bicycle,403
+Three Rivers,E07000102,foot,1948
+Three Rivers,E07000102,other,395
+Three Rivers,E07000102,noWork,46823
+Thurrock,E06000034,home,21081
+Thurrock,E06000034,metro,1980
+Thurrock,E06000034,train,6046
+Thurrock,E06000034,bus,2602
+Thurrock,E06000034,taxi,555
+Thurrock,E06000034,motorcycle,530
+Thurrock,E06000034,carDriver,43245
+Thurrock,E06000034,carPassenger,3548
+Thurrock,E06000034,bicycle,1016
+Thurrock,E06000034,foot,4355
+Thurrock,E06000034,other,990
+Thurrock,E06000034,noWork,90052
+Tonbridge and Malling,E07000115,home,23812
+Tonbridge and Malling,E07000115,metro,78
+Tonbridge and Malling,E07000115,train,2200
+Tonbridge and Malling,E07000115,bus,603
+Tonbridge and Malling,E07000115,taxi,123
+Tonbridge and Malling,E07000115,motorcycle,283
+Tonbridge and Malling,E07000115,carDriver,30531
+Tonbridge and Malling,E07000115,carPassenger,1984
+Tonbridge and Malling,E07000115,bicycle,564
+Tonbridge and Malling,E07000115,foot,3712
+Tonbridge and Malling,E07000115,other,539
+Tonbridge and Malling,E07000115,noWork,67775
+Torbay,E06000027,home,12155
+Torbay,E06000027,metro,20
+Torbay,E06000027,train,340
+Torbay,E06000027,bus,1971
+Torbay,E06000027,taxi,379
+Torbay,E06000027,motorcycle,580
+Torbay,E06000027,carDriver,31532
+Torbay,E06000027,carPassenger,3068
+Torbay,E06000027,bicycle,702
+Torbay,E06000027,foot,7442
+Torbay,E06000027,other,746
+Torbay,E06000027,noWork,80389
+Torfaen,W06000020,home,9051
+Torfaen,W06000020,metro,14
+Torfaen,W06000020,train,189
+Torfaen,W06000020,bus,896
+Torfaen,W06000020,taxi,359
+Torfaen,W06000020,motorcycle,182
+Torfaen,W06000020,carDriver,25181
+Torfaen,W06000020,carPassenger,2129
+Torfaen,W06000020,bicycle,199
+Torfaen,W06000020,foot,2184
+Torfaen,W06000020,other,270
+Torfaen,W06000020,noWork,51621
+Torridge,E07000046,home,7776
+Torridge,E07000046,metro,7
+Torridge,E07000046,train,45
+Torridge,E07000046,bus,604
+Torridge,E07000046,taxi,68
+Torridge,E07000046,motorcycle,152
+Torridge,E07000046,carDriver,16989
+Torridge,E07000046,carPassenger,1174
+Torridge,E07000046,bicycle,217
+Torridge,E07000046,foot,2746
+Torridge,E07000046,other,273
+Torridge,E07000046,noWork,38061
+Tower Hamlets,E09000030,home,78219
+Tower Hamlets,E09000030,metro,21452
+Tower Hamlets,E09000030,train,7111
+Tower Hamlets,E09000030,bus,9010
+Tower Hamlets,E09000030,taxi,896
+Tower Hamlets,E09000030,motorcycle,787
+Tower Hamlets,E09000030,carDriver,14106
+Tower Hamlets,E09000030,carPassenger,985
+Tower Hamlets,E09000030,bicycle,7208
+Tower Hamlets,E09000030,foot,13900
+Tower Hamlets,E09000030,other,1721
+Tower Hamlets,E09000030,noWork,154914
+Trafford,E08000009,home,45450
+Trafford,E08000009,metro,2476
+Trafford,E08000009,train,520
+Trafford,E08000009,bus,3068
+Trafford,E08000009,taxi,771
+Trafford,E08000009,motorcycle,230
+Trafford,E08000009,carDriver,46255
+Trafford,E08000009,carPassenger,3126
+Trafford,E08000009,bicycle,2499
+Trafford,E08000009,foot,6204
+Trafford,E08000009,other,959
+Trafford,E08000009,noWork,123494
+Tunbridge Wells,E07000116,home,23633
+Tunbridge Wells,E07000116,metro,67
+Tunbridge Wells,E07000116,train,1724
+Tunbridge Wells,E07000116,bus,835
+Tunbridge Wells,E07000116,taxi,130
+Tunbridge Wells,E07000116,motorcycle,192
+Tunbridge Wells,E07000116,carDriver,21856
+Tunbridge Wells,E07000116,carPassenger,1629
+Tunbridge Wells,E07000116,bicycle,506
+Tunbridge Wells,E07000116,foot,4855
+Tunbridge Wells,E07000116,other,473
+Tunbridge Wells,E07000116,noWork,59413
+Uttlesford,E07000077,home,18011
+Uttlesford,E07000077,metro,125
+Uttlesford,E07000077,train,991
+Uttlesford,E07000077,bus,294
+Uttlesford,E07000077,taxi,89
+Uttlesford,E07000077,motorcycle,127
+Uttlesford,E07000077,carDriver,21785
+Uttlesford,E07000077,carPassenger,1131
+Uttlesford,E07000077,bicycle,319
+Uttlesford,E07000077,foot,2453
+Uttlesford,E07000077,other,415
+Uttlesford,E07000077,noWork,45598
+Vale of Glamorgan,W06000014,home,20395
+Vale of Glamorgan,W06000014,metro,38
+Vale of Glamorgan,W06000014,train,1363
+Vale of Glamorgan,W06000014,bus,925
+Vale of Glamorgan,W06000014,taxi,222
+Vale of Glamorgan,W06000014,motorcycle,214
+Vale of Glamorgan,W06000014,carDriver,30055
+Vale of Glamorgan,W06000014,carPassenger,2064
+Vale of Glamorgan,W06000014,bicycle,626
+Vale of Glamorgan,W06000014,foot,3510
+Vale of Glamorgan,W06000014,other,506
+Vale of Glamorgan,W06000014,noWork,72024
+Vale of White Horse,E07000180,home,29239
+Vale of White Horse,E07000180,metro,41
+Vale of White Horse,E07000180,train,344
+Vale of White Horse,E07000180,bus,1941
+Vale of White Horse,E07000180,taxi,103
+Vale of White Horse,E07000180,motorcycle,344
+Vale of White Horse,E07000180,carDriver,29825
+Vale of White Horse,E07000180,carPassenger,1988
+Vale of White Horse,E07000180,bicycle,2313
+Vale of White Horse,E07000180,foot,4229
+Vale of White Horse,E07000180,other,495
+Vale of White Horse,E07000180,noWork,68049
+Wakefield,E08000036,home,36965
+Wakefield,E08000036,metro,58
+Wakefield,E08000036,train,1555
+Wakefield,E08000036,bus,6240
+Wakefield,E08000036,taxi,2150
+Wakefield,E08000036,motorcycle,632
+Wakefield,E08000036,carDriver,92253
+Wakefield,E08000036,carPassenger,9602
+Wakefield,E08000036,bicycle,1834
+Wakefield,E08000036,foot,11976
+Wakefield,E08000036,other,1377
+Wakefield,E08000036,noWork,188729
+Walsall,E08000030,home,22044
+Walsall,E08000030,metro,270
+Walsall,E08000030,train,1101
+Walsall,E08000030,bus,7237
+Walsall,E08000030,taxi,1532
+Walsall,E08000030,motorcycle,414
+Walsall,E08000030,carDriver,68776
+Walsall,E08000030,carPassenger,6944
+Walsall,E08000030,bicycle,1415
+Walsall,E08000030,foot,7690
+Walsall,E08000030,other,1111
+Walsall,E08000030,noWork,165591
+Waltham Forest,E09000031,home,52765
+Waltham Forest,E09000031,metro,25097
+Waltham Forest,E09000031,train,6810
+Waltham Forest,E09000031,bus,10142
+Waltham Forest,E09000031,taxi,762
+Waltham Forest,E09000031,motorcycle,858
+Waltham Forest,E09000031,carDriver,27532
+Waltham Forest,E09000031,carPassenger,1974
+Waltham Forest,E09000031,bicycle,4975
+Waltham Forest,E09000031,foot,7773
+Waltham Forest,E09000031,other,1684
+Waltham Forest,E09000031,noWork,138054
+Wandsworth,E09000032,home,107639
+Wandsworth,E09000032,metro,16503
+Wandsworth,E09000032,train,7948
+Wandsworth,E09000032,bus,13863
+Wandsworth,E09000032,taxi,821
+Wandsworth,E09000032,motorcycle,1747
+Wandsworth,E09000032,carDriver,17724
+Wandsworth,E09000032,carPassenger,1041
+Wandsworth,E09000032,bicycle,9146
+Wandsworth,E09000032,foot,12338
+Wandsworth,E09000032,other,1671
+Wandsworth,E09000032,noWork,137064
+Warrington,E06000007,home,32647
+Warrington,E06000007,metro,51
+Warrington,E06000007,train,686
+Warrington,E06000007,bus,2056
+Warrington,E06000007,taxi,764
+Warrington,E06000007,motorcycle,408
+Warrington,E06000007,carDriver,52839
+Warrington,E06000007,carPassenger,4639
+Warrington,E06000007,bicycle,2552
+Warrington,E06000007,foot,5666
+Warrington,E06000007,other,883
+Warrington,E06000007,noWork,107783
+Warwick,E07000222,home,32535
+Warwick,E07000222,metro,47
+Warwick,E07000222,train,635
+Warwick,E07000222,bus,896
+Warwick,E07000222,taxi,193
+Warwick,E07000222,motorcycle,183
+Warwick,E07000222,carDriver,28640
+Warwick,E07000222,carPassenger,2140
+Warwick,E07000222,bicycle,1402
+Warwick,E07000222,foot,5567
+Warwick,E07000222,other,510
+Warwick,E07000222,noWork,75705
+Watford,E07000103,home,17899
+Watford,E07000103,metro,1547
+Watford,E07000103,train,1872
+Watford,E07000103,bus,1636
+Watford,E07000103,taxi,312
+Watford,E07000103,motorcycle,258
+Watford,E07000103,carDriver,19958
+Watford,E07000103,carPassenger,1620
+Watford,E07000103,bicycle,996
+Watford,E07000103,foot,6181
+Watford,E07000103,other,582
+Watford,E07000103,noWork,49387
+Waverley,E07000216,home,28929
+Waverley,E07000216,metro,65
+Waverley,E07000216,train,1269
+Waverley,E07000216,bus,450
+Waverley,E07000216,taxi,73
+Waverley,E07000216,motorcycle,233
+Waverley,E07000216,carDriver,23326
+Waverley,E07000216,carPassenger,1557
+Waverley,E07000216,bicycle,579
+Waverley,E07000216,foot,3743
+Waverley,E07000216,other,498
+Waverley,E07000216,noWork,67507
+Wealden,E07000065,home,26043
+Wealden,E07000065,metro,49
+Wealden,E07000065,train,1255
+Wealden,E07000065,bus,696
+Wealden,E07000065,taxi,150
+Wealden,E07000065,motorcycle,253
+Wealden,E07000065,carDriver,38611
+Wealden,E07000065,carPassenger,2319
+Wealden,E07000065,bicycle,530
+Wealden,E07000065,foot,3989
+Wealden,E07000065,other,647
+Wealden,E07000065,noWork,85608
+Welwyn Hatfield,E07000241,home,21001
+Welwyn Hatfield,E07000241,metro,399
+Welwyn Hatfield,E07000241,train,2056
+Welwyn Hatfield,E07000241,bus,1238
+Welwyn Hatfield,E07000241,taxi,615
+Welwyn Hatfield,E07000241,motorcycle,230
+Welwyn Hatfield,E07000241,carDriver,24092
+Welwyn Hatfield,E07000241,carPassenger,2071
+Welwyn Hatfield,E07000241,bicycle,1259
+Welwyn Hatfield,E07000241,foot,4651
+Welwyn Hatfield,E07000241,other,538
+Welwyn Hatfield,E07000241,noWork,61684
+West Berkshire,E06000037,home,33988
+West Berkshire,E06000037,metro,65
+West Berkshire,E06000037,train,918
+West Berkshire,E06000037,bus,1217
+West Berkshire,E06000037,taxi,133
+West Berkshire,E06000037,motorcycle,292
+West Berkshire,E06000037,carDriver,35715
+West Berkshire,E06000037,carPassenger,2773
+West Berkshire,E06000037,bicycle,1250
+West Berkshire,E06000037,foot,5310
+West Berkshire,E06000037,other,651
+West Berkshire,E06000037,noWork,79141
+West Devon,E07000047,home,7973
+West Devon,E07000047,metro,11
+West Devon,E07000047,train,56
+West Devon,E07000047,bus,284
+West Devon,E07000047,taxi,38
+West Devon,E07000047,motorcycle,126
+West Devon,E07000047,carDriver,13172
+West Devon,E07000047,carPassenger,829
+West Devon,E07000047,bicycle,235
+West Devon,E07000047,foot,2353
+West Devon,E07000047,other,307
+West Devon,E07000047,noWork,31712
+West Lancashire,E07000127,home,13497
+West Lancashire,E07000127,metro,31
+West Lancashire,E07000127,train,695
+West Lancashire,E07000127,bus,753
+West Lancashire,E07000127,taxi,835
+West Lancashire,E07000127,motorcycle,141
+West Lancashire,E07000127,carDriver,29653
+West Lancashire,E07000127,carPassenger,2781
+West Lancashire,E07000127,bicycle,731
+West Lancashire,E07000127,foot,3904
+West Lancashire,E07000127,other,525
+West Lancashire,E07000127,noWork,63883
+West Lindsey,E07000142,home,10950
+West Lindsey,E07000142,metro,16
+West Lindsey,E07000142,train,166
+West Lindsey,E07000142,bus,287
+West Lindsey,E07000142,taxi,108
+West Lindsey,E07000142,motorcycle,173
+West Lindsey,E07000142,carDriver,24887
+West Lindsey,E07000142,carPassenger,1549
+West Lindsey,E07000142,bicycle,563
+West Lindsey,E07000142,foot,3063
+West Lindsey,E07000142,other,374
+West Lindsey,E07000142,noWork,53017
+West Northamptonshire,E06000062,home,62832
+West Northamptonshire,E06000062,metro,151
+West Northamptonshire,E06000062,train,1249
+West Northamptonshire,E06000062,bus,7640
+West Northamptonshire,E06000062,taxi,1282
+West Northamptonshire,E06000062,motorcycle,722
+West Northamptonshire,E06000062,carDriver,110576
+West Northamptonshire,E06000062,carPassenger,11275
+West Northamptonshire,E06000062,bicycle,3308
+West Northamptonshire,E06000062,foot,14950
+West Northamptonshire,E06000062,other,2009
+West Northamptonshire,E06000062,noWork,209730
+West Oxfordshire,E07000181,home,20629
+West Oxfordshire,E07000181,metro,42
+West Oxfordshire,E07000181,train,272
+West Oxfordshire,E07000181,bus,1156
+West Oxfordshire,E07000181,taxi,57
+West Oxfordshire,E07000181,motorcycle,263
+West Oxfordshire,E07000181,carDriver,28364
+West Oxfordshire,E07000181,carPassenger,1849
+West Oxfordshire,E07000181,bicycle,1432
+West Oxfordshire,E07000181,foot,4394
+West Oxfordshire,E07000181,other,466
+West Oxfordshire,E07000181,noWork,55311
+West Suffolk,E07000245,home,21104
+West Suffolk,E07000245,metro,67
+West Suffolk,E07000245,train,353
+West Suffolk,E07000245,bus,1056
+West Suffolk,E07000245,taxi,309
+West Suffolk,E07000245,motorcycle,404
+West Suffolk,E07000245,carDriver,51600
+West Suffolk,E07000245,carPassenger,3729
+West Suffolk,E07000245,bicycle,2073
+West Suffolk,E07000245,foot,8080
+West Suffolk,E07000245,other,848
+West Suffolk,E07000245,noWork,90329
+Westminster,E09000033,home,56766
+Westminster,E09000033,metro,9768
+Westminster,E09000033,train,2080
+Westminster,E09000033,bus,7075
+Westminster,E09000033,taxi,993
+Westminster,E09000033,motorcycle,569
+Westminster,E09000033,carDriver,6703
+Westminster,E09000033,carPassenger,542
+Westminster,E09000033,bicycle,3600
+Westminster,E09000033,foot,12238
+Westminster,E09000033,other,1409
+Westminster,E09000033,noWork,102494
+Wigan,E08000010,home,34432
+Wigan,E08000010,metro,61
+Wigan,E08000010,train,1227
+Wigan,E08000010,bus,5514
+Wigan,E08000010,taxi,1172
+Wigan,E08000010,motorcycle,597
+Wigan,E08000010,carDriver,89571
+Wigan,E08000010,carPassenger,8167
+Wigan,E08000010,bicycle,1850
+Wigan,E08000010,foot,10678
+Wigan,E08000010,other,1345
+Wigan,E08000010,noWork,174716
+Wiltshire,E06000054,home,85967
+Wiltshire,E06000054,metro,152
+Wiltshire,E06000054,train,1738
+Wiltshire,E06000054,bus,3845
+Wiltshire,E06000054,taxi,468
+Wiltshire,E06000054,motorcycle,1103
+Wiltshire,E06000054,carDriver,122462
+Wiltshire,E06000054,carPassenger,8743
+Wiltshire,E06000054,bicycle,4445
+Wiltshire,E06000054,foot,21174
+Wiltshire,E06000054,other,2244
+Wiltshire,E06000054,noWork,257988
+Winchester,E07000094,home,26249
+Winchester,E07000094,metro,61
+Winchester,E07000094,train,578
+Winchester,E07000094,bus,865
+Winchester,E07000094,taxi,106
+Winchester,E07000094,motorcycle,219
+Winchester,E07000094,carDriver,24217
+Winchester,E07000094,carPassenger,1628
+Winchester,E07000094,bicycle,802
+Winchester,E07000094,foot,5324
+Winchester,E07000094,other,524
+Winchester,E07000094,noWork,66871
+Windsor and Maidenhead,E06000040,home,36565
+Windsor and Maidenhead,E06000040,metro,206
+Windsor and Maidenhead,E06000040,train,1862
+Windsor and Maidenhead,E06000040,bus,444
+Windsor and Maidenhead,E06000040,taxi,331
+Windsor and Maidenhead,E06000040,motorcycle,247
+Windsor and Maidenhead,E06000040,carDriver,27949
+Windsor and Maidenhead,E06000040,carPassenger,1948
+Windsor and Maidenhead,E06000040,bicycle,1006
+Windsor and Maidenhead,E06000040,foot,4969
+Windsor and Maidenhead,E06000040,other,774
+Windsor and Maidenhead,E06000040,noWork,77194
+Wirral,E08000015,home,37299
+Wirral,E08000015,metro,332
+Wirral,E08000015,train,3643
+Wirral,E08000015,bus,6123
+Wirral,E08000015,taxi,1290
+Wirral,E08000015,motorcycle,598
+Wirral,E08000015,carDriver,71581
+Wirral,E08000015,carPassenger,6033
+Wirral,E08000015,bicycle,1874
+Wirral,E08000015,foot,9101
+Wirral,E08000015,other,1626
+Wirral,E08000015,noWork,180696
+Woking,E07000217,home,23570
+Woking,E07000217,metro,108
+Woking,E07000217,train,1951
+Woking,E07000217,bus,615
+Woking,E07000217,taxi,261
+Woking,E07000217,motorcycle,247
+Woking,E07000217,carDriver,19735
+Woking,E07000217,carPassenger,1563
+Woking,E07000217,bicycle,902
+Woking,E07000217,foot,3275
+Woking,E07000217,other,517
+Woking,E07000217,noWork,51201
+Wokingham,E06000041,home,45352
+Wokingham,E06000041,metro,124
+Wokingham,E06000041,train,1376
+Wokingham,E06000041,bus,1336
+Wokingham,E06000041,taxi,122
+Wokingham,E06000041,motorcycle,264
+Wokingham,E06000041,carDriver,33381
+Wokingham,E06000041,carPassenger,2121
+Wokingham,E06000041,bicycle,1157
+Wokingham,E06000041,foot,3578
+Wokingham,E06000041,other,656
+Wokingham,E06000041,noWork,88035
+Wolverhampton,E08000031,home,21002
+Wolverhampton,E08000031,metro,1157
+Wolverhampton,E08000031,train,1672
+Wolverhampton,E08000031,bus,6938
+Wolverhampton,E08000031,taxi,2102
+Wolverhampton,E08000031,motorcycle,342
+Wolverhampton,E08000031,carDriver,60083
+Wolverhampton,E08000031,carPassenger,7188
+Wolverhampton,E08000031,bicycle,1718
+Wolverhampton,E08000031,foot,7890
+Wolverhampton,E08000031,other,1218
+Wolverhampton,E08000031,noWork,152418
+Worcester,E07000237,home,13607
+Worcester,E07000237,metro,26
+Worcester,E07000237,train,582
+Worcester,E07000237,bus,1064
+Worcester,E07000237,taxi,290
+Worcester,E07000237,motorcycle,217
+Worcester,E07000237,carDriver,25742
+Worcester,E07000237,carPassenger,2510
+Worcester,E07000237,bicycle,1335
+Worcester,E07000237,foot,5833
+Worcester,E07000237,other,425
+Worcester,E07000237,noWork,52243
+Worthing,E07000229,home,16767
+Worthing,E07000229,metro,40
+Worthing,E07000229,train,1426
+Worthing,E07000229,bus,1053
+Worthing,E07000229,taxi,217
+Worthing,E07000229,motorcycle,306
+Worthing,E07000229,carDriver,23647
+Worthing,E07000229,carPassenger,2019
+Worthing,E07000229,bicycle,1763
+Worthing,E07000229,foot,5821
+Worthing,E07000229,other,499
+Worthing,E07000229,noWork,57781
+Wrexham,W06000006,home,11277
+Wrexham,W06000006,metro,14
+Wrexham,W06000006,train,223
+Wrexham,W06000006,bus,1525
+Wrexham,W06000006,taxi,687
+Wrexham,W06000006,motorcycle,238
+Wrexham,W06000006,carDriver,38061
+Wrexham,W06000006,carPassenger,4361
+Wrexham,W06000006,bicycle,683
+Wrexham,W06000006,foot,4242
+Wrexham,W06000006,other,496
+Wrexham,W06000006,noWork,73312
+Wychavon,E07000238,home,19207
+Wychavon,E07000238,metro,29
+Wychavon,E07000238,train,372
+Wychavon,E07000238,bus,510
+Wychavon,E07000238,taxi,118
+Wychavon,E07000238,motorcycle,214
+Wychavon,E07000238,carDriver,35289
+Wychavon,E07000238,carPassenger,2445
+Wychavon,E07000238,bicycle,863
+Wychavon,E07000238,foot,4080
+Wychavon,E07000238,other,534
+Wychavon,E07000238,noWork,68832
+Wyre,E07000128,home,12479
+Wyre,E07000128,metro,227
+Wyre,E07000128,train,247
+Wyre,E07000128,bus,1128
+Wyre,E07000128,taxi,191
+Wyre,E07000128,motorcycle,198
+Wyre,E07000128,carDriver,26895
+Wyre,E07000128,carPassenger,1989
+Wyre,E07000128,bicycle,834
+Wyre,E07000128,foot,3038
+Wyre,E07000128,other,611
+Wyre,E07000128,noWork,64111
+Wyre Forest,E07000239,home,10559
+Wyre Forest,E07000239,metro,17
+Wyre Forest,E07000239,train,464
+Wyre Forest,E07000239,bus,364
+Wyre Forest,E07000239,taxi,318
+Wyre Forest,E07000239,motorcycle,199
+Wyre Forest,E07000239,carDriver,27431
+Wyre Forest,E07000239,carPassenger,2307
+Wyre Forest,E07000239,bicycle,546
+Wyre Forest,E07000239,foot,3254
+Wyre Forest,E07000239,other,331
+Wyre Forest,E07000239,noWork,55818
+York,E06000014,home,34159
+York,E06000014,metro,53
+York,E06000014,train,593
+York,E06000014,bus,3194
+York,E06000014,taxi,384
+York,E06000014,motorcycle,526
+York,E06000014,carDriver,35183
+York,E06000014,carPassenger,2826
+York,E06000014,bicycle,7001
+York,E06000014,foot,11480
+York,E06000014,other,797
+York,E06000014,noWork,106623
