@@ -1,0 +1,9992 @@
+[
+ {
+   "code": "E06000001",
+   "category": "vGood",
+   "value": 39817,
+   "areaName": "Hartlepool"
+ },
+ {
+   "code": "E06000001",
+   "category": "good",
+   "value": 30749,
+   "areaName": "Hartlepool"
+ },
+ {
+   "code": "E06000001",
+   "category": "fair",
+   "value": 14415,
+   "areaName": "Hartlepool"
+ },
+ {
+   "code": "E06000001",
+   "category": "bad",
+   "value": 5625,
+   "areaName": "Hartlepool"
+ },
+ {
+   "code": "E06000001",
+   "category": "vBad",
+   "value": 1732,
+   "areaName": "Hartlepool"
+ },
+ {
+   "code": "E06000002",
+   "category": "vGood",
+   "value": 67207,
+   "areaName": "Middlesbrough"
+ },
+ {
+   "code": "E06000002",
+   "category": "good",
+   "value": 46382,
+   "areaName": "Middlesbrough"
+ },
+ {
+   "code": "E06000002",
+   "category": "fair",
+   "value": 19821,
+   "areaName": "Middlesbrough"
+ },
+ {
+   "code": "E06000002",
+   "category": "bad",
+   "value": 7969,
+   "areaName": "Middlesbrough"
+ },
+ {
+   "code": "E06000002",
+   "category": "vBad",
+   "value": 2545,
+   "areaName": "Middlesbrough"
+ },
+ {
+   "code": "E06000003",
+   "category": "vGood",
+   "value": 58085,
+   "areaName": "Redcar and Cleveland"
+ },
+ {
+   "code": "E06000003",
+   "category": "good",
+   "value": 46416,
+   "areaName": "Redcar and Cleveland"
+ },
+ {
+   "code": "E06000003",
+   "category": "fair",
+   "value": 21633,
+   "areaName": "Redcar and Cleveland"
+ },
+ {
+   "code": "E06000003",
+   "category": "bad",
+   "value": 7916,
+   "areaName": "Redcar and Cleveland"
+ },
+ {
+   "code": "E06000003",
+   "category": "vBad",
+   "value": 2481,
+   "areaName": "Redcar and Cleveland"
+ },
+ {
+   "code": "E06000004",
+   "category": "vGood",
+   "value": 91479,
+   "areaName": "Stockton-on-Tees"
+ },
+ {
+   "code": "E06000004",
+   "category": "good",
+   "value": 65521,
+   "areaName": "Stockton-on-Tees"
+ },
+ {
+   "code": "E06000004",
+   "category": "fair",
+   "value": 27307,
+   "areaName": "Stockton-on-Tees"
+ },
+ {
+   "code": "E06000004",
+   "category": "bad",
+   "value": 9392,
+   "areaName": "Stockton-on-Tees"
+ },
+ {
+   "code": "E06000004",
+   "category": "vBad",
+   "value": 2896,
+   "areaName": "Stockton-on-Tees"
+ },
+ {
+   "code": "E06000005",
+   "category": "vGood",
+   "value": 48749,
+   "areaName": "Darlington"
+ },
+ {
+   "code": "E06000005",
+   "category": "good",
+   "value": 37324,
+   "areaName": "Darlington"
+ },
+ {
+   "code": "E06000005",
+   "category": "fair",
+   "value": 15383,
+   "areaName": "Darlington"
+ },
+ {
+   "code": "E06000005",
+   "category": "bad",
+   "value": 5016,
+   "areaName": "Darlington"
+ },
+ {
+   "code": "E06000005",
+   "category": "vBad",
+   "value": 1328,
+   "areaName": "Darlington"
+ },
+ {
+   "code": "E06000006",
+   "category": "vGood",
+   "value": 59066,
+   "areaName": "Halton"
+ },
+ {
+   "code": "E06000006",
+   "category": "good",
+   "value": 41455,
+   "areaName": "Halton"
+ },
+ {
+   "code": "E06000006",
+   "category": "fair",
+   "value": 18088,
+   "areaName": "Halton"
+ },
+ {
+   "code": "E06000006",
+   "category": "bad",
+   "value": 7491,
+   "areaName": "Halton"
+ },
+ {
+   "code": "E06000006",
+   "category": "vBad",
+   "value": 2380,
+   "areaName": "Halton"
+ },
+ {
+   "code": "E06000011",
+   "category": "vGood",
+   "value": 153547,
+   "areaName": "East Riding of Yorkshire"
+ },
+ {
+   "code": "E06000011",
+   "category": "good",
+   "value": 121117,
+   "areaName": "East Riding of Yorkshire"
+ },
+ {
+   "code": "E06000011",
+   "category": "fair",
+   "value": 49161,
+   "areaName": "East Riding of Yorkshire"
+ },
+ {
+   "code": "E06000011",
+   "category": "bad",
+   "value": 14088,
+   "areaName": "East Riding of Yorkshire"
+ },
+ {
+   "code": "E06000011",
+   "category": "vBad",
+   "value": 4302,
+   "areaName": "East Riding of Yorkshire"
+ },
+ {
+   "code": "E06000012",
+   "category": "vGood",
+   "value": 67586,
+   "areaName": "North East Lincolnshire"
+ },
+ {
+   "code": "E06000012",
+   "category": "good",
+   "value": 54939,
+   "areaName": "North East Lincolnshire"
+ },
+ {
+   "code": "E06000012",
+   "category": "fair",
+   "value": 24237,
+   "areaName": "North East Lincolnshire"
+ },
+ {
+   "code": "E06000012",
+   "category": "bad",
+   "value": 7911,
+   "areaName": "North East Lincolnshire"
+ },
+ {
+   "code": "E06000012",
+   "category": "vBad",
+   "value": 2293,
+   "areaName": "North East Lincolnshire"
+ },
+ {
+   "code": "E06000014",
+   "category": "vGood",
+   "value": 98610,
+   "areaName": "York"
+ },
+ {
+   "code": "E06000014",
+   "category": "good",
+   "value": 71033,
+   "areaName": "York"
+ },
+ {
+   "code": "E06000014",
+   "category": "fair",
+   "value": 24604,
+   "areaName": "York"
+ },
+ {
+   "code": "E06000014",
+   "category": "bad",
+   "value": 6788,
+   "areaName": "York"
+ },
+ {
+   "code": "E06000014",
+   "category": "vBad",
+   "value": 1786,
+   "areaName": "York"
+ },
+ {
+   "code": "E06000015",
+   "category": "vGood",
+   "value": 119809,
+   "areaName": "Derby"
+ },
+ {
+   "code": "E06000015",
+   "category": "good",
+   "value": 90551,
+   "areaName": "Derby"
+ },
+ {
+   "code": "E06000015",
+   "category": "fair",
+   "value": 35857,
+   "areaName": "Derby"
+ },
+ {
+   "code": "E06000015",
+   "category": "bad",
+   "value": 11542,
+   "areaName": "Derby"
+ },
+ {
+   "code": "E06000015",
+   "category": "vBad",
+   "value": 3605,
+   "areaName": "Derby"
+ },
+ {
+   "code": "E06000017",
+   "category": "vGood",
+   "value": 20666,
+   "areaName": "Rutland"
+ },
+ {
+   "code": "E06000017",
+   "category": "good",
+   "value": 14063,
+   "areaName": "Rutland"
+ },
+ {
+   "code": "E06000017",
+   "category": "fair",
+   "value": 4869,
+   "areaName": "Rutland"
+ },
+ {
+   "code": "E06000017",
+   "category": "bad",
+   "value": 1169,
+   "areaName": "Rutland"
+ },
+ {
+   "code": "E06000017",
+   "category": "vBad",
+   "value": 282,
+   "areaName": "Rutland"
+ },
+ {
+   "code": "E06000018",
+   "category": "vGood",
+   "value": 153956,
+   "areaName": "Nottingham"
+ },
+ {
+   "code": "E06000018",
+   "category": "good",
+   "value": 108292,
+   "areaName": "Nottingham"
+ },
+ {
+   "code": "E06000018",
+   "category": "fair",
+   "value": 41863,
+   "areaName": "Nottingham"
+ },
+ {
+   "code": "E06000018",
+   "category": "bad",
+   "value": 14787,
+   "areaName": "Nottingham"
+ },
+ {
+   "code": "E06000018",
+   "category": "vBad",
+   "value": 4734,
+   "areaName": "Nottingham"
+ },
+ {
+   "code": "E06000019",
+   "category": "vGood",
+   "value": 85521,
+   "areaName": "Herefordshire"
+ },
+ {
+   "code": "E06000019",
+   "category": "good",
+   "value": 65655,
+   "areaName": "Herefordshire"
+ },
+ {
+   "code": "E06000019",
+   "category": "fair",
+   "value": 26040,
+   "areaName": "Herefordshire"
+ },
+ {
+   "code": "E06000019",
+   "category": "bad",
+   "value": 7641,
+   "areaName": "Herefordshire"
+ },
+ {
+   "code": "E06000019",
+   "category": "vBad",
+   "value": 2177,
+   "areaName": "Herefordshire"
+ },
+ {
+   "code": "E06000020",
+   "category": "vGood",
+   "value": 85273,
+   "areaName": "Telford and Wrekin"
+ },
+ {
+   "code": "E06000020",
+   "category": "good",
+   "value": 63231,
+   "areaName": "Telford and Wrekin"
+ },
+ {
+   "code": "E06000020",
+   "category": "fair",
+   "value": 25683,
+   "areaName": "Telford and Wrekin"
+ },
+ {
+   "code": "E06000020",
+   "category": "bad",
+   "value": 8812,
+   "areaName": "Telford and Wrekin"
+ },
+ {
+   "code": "E06000020",
+   "category": "vBad",
+   "value": 2542,
+   "areaName": "Telford and Wrekin"
+ },
+ {
+   "code": "E06000021",
+   "category": "vGood",
+   "value": 110241,
+   "areaName": "Stoke-on-Trent"
+ },
+ {
+   "code": "E06000021",
+   "category": "good",
+   "value": 90840,
+   "areaName": "Stoke-on-Trent"
+ },
+ {
+   "code": "E06000021",
+   "category": "fair",
+   "value": 38276,
+   "areaName": "Stoke-on-Trent"
+ },
+ {
+   "code": "E06000021",
+   "category": "bad",
+   "value": 14546,
+   "areaName": "Stoke-on-Trent"
+ },
+ {
+   "code": "E06000021",
+   "category": "vBad",
+   "value": 4466,
+   "areaName": "Stoke-on-Trent"
+ },
+ {
+   "code": "E06000023",
+   "category": "vGood",
+   "value": 240060,
+   "areaName": "Bristol"
+ },
+ {
+   "code": "E06000023",
+   "category": "good",
+   "value": 154643,
+   "areaName": "Bristol"
+ },
+ {
+   "code": "E06000023",
+   "category": "fair",
+   "value": 54311,
+   "areaName": "Bristol"
+ },
+ {
+   "code": "E06000023",
+   "category": "bad",
+   "value": 18032,
+   "areaName": "Bristol"
+ },
+ {
+   "code": "E06000023",
+   "category": "vBad",
+   "value": 5419,
+   "areaName": "Bristol"
+ },
+ {
+   "code": "E06000024",
+   "category": "vGood",
+   "value": 103098,
+   "areaName": "North Somerset"
+ },
+ {
+   "code": "E06000024",
+   "category": "good",
+   "value": 73421,
+   "areaName": "North Somerset"
+ },
+ {
+   "code": "E06000024",
+   "category": "fair",
+   "value": 28789,
+   "areaName": "North Somerset"
+ },
+ {
+   "code": "E06000024",
+   "category": "bad",
+   "value": 8897,
+   "areaName": "North Somerset"
+ },
+ {
+   "code": "E06000024",
+   "category": "vBad",
+   "value": 2522,
+   "areaName": "North Somerset"
+ },
+ {
+   "code": "E06000026",
+   "category": "vGood",
+   "value": 121117,
+   "areaName": "Plymouth"
+ },
+ {
+   "code": "E06000026",
+   "category": "good",
+   "value": 89371,
+   "areaName": "Plymouth"
+ },
+ {
+   "code": "E06000026",
+   "category": "fair",
+   "value": 37196,
+   "areaName": "Plymouth"
+ },
+ {
+   "code": "E06000026",
+   "category": "bad",
+   "value": 13109,
+   "areaName": "Plymouth"
+ },
+ {
+   "code": "E06000026",
+   "category": "vBad",
+   "value": 3902,
+   "areaName": "Plymouth"
+ },
+ {
+   "code": "E06000027",
+   "category": "vGood",
+   "value": 58842,
+   "areaName": "Torbay"
+ },
+ {
+   "code": "E06000027",
+   "category": "good",
+   "value": 47697,
+   "areaName": "Torbay"
+ },
+ {
+   "code": "E06000027",
+   "category": "fair",
+   "value": 22578,
+   "areaName": "Torbay"
+ },
+ {
+   "code": "E06000027",
+   "category": "bad",
+   "value": 7894,
+   "areaName": "Torbay"
+ },
+ {
+   "code": "E06000027",
+   "category": "vBad",
+   "value": 2313,
+   "areaName": "Torbay"
+ },
+ {
+   "code": "E06000031",
+   "category": "vGood",
+   "value": 99550,
+   "areaName": "Peterborough"
+ },
+ {
+   "code": "E06000031",
+   "category": "good",
+   "value": 77378,
+   "areaName": "Peterborough"
+ },
+ {
+   "code": "E06000031",
+   "category": "fair",
+   "value": 27730,
+   "areaName": "Peterborough"
+ },
+ {
+   "code": "E06000031",
+   "category": "bad",
+   "value": 8582,
+   "areaName": "Peterborough"
+ },
+ {
+   "code": "E06000031",
+   "category": "vBad",
+   "value": 2433,
+   "areaName": "Peterborough"
+ },
+ {
+   "code": "E06000032",
+   "category": "vGood",
+   "value": 109654,
+   "areaName": "Luton"
+ },
+ {
+   "code": "E06000032",
+   "category": "good",
+   "value": 77855,
+   "areaName": "Luton"
+ },
+ {
+   "code": "E06000032",
+   "category": "fair",
+   "value": 27073,
+   "areaName": "Luton"
+ },
+ {
+   "code": "E06000032",
+   "category": "bad",
+   "value": 8162,
+   "areaName": "Luton"
+ },
+ {
+   "code": "E06000032",
+   "category": "vBad",
+   "value": 2517,
+   "areaName": "Luton"
+ },
+ {
+   "code": "E06000035",
+   "category": "vGood",
+   "value": 132845,
+   "areaName": "Medway"
+ },
+ {
+   "code": "E06000035",
+   "category": "good",
+   "value": 96739,
+   "areaName": "Medway"
+ },
+ {
+   "code": "E06000035",
+   "category": "fair",
+   "value": 35907,
+   "areaName": "Medway"
+ },
+ {
+   "code": "E06000035",
+   "category": "bad",
+   "value": 11171,
+   "areaName": "Medway"
+ },
+ {
+   "code": "E06000035",
+   "category": "vBad",
+   "value": 3113,
+   "areaName": "Medway"
+ },
+ {
+   "code": "E06000036",
+   "category": "vGood",
+   "value": 65829,
+   "areaName": "Bracknell Forest"
+ },
+ {
+   "code": "E06000036",
+   "category": "good",
+   "value": 42515,
+   "areaName": "Bracknell Forest"
+ },
+ {
+   "code": "E06000036",
+   "category": "fair",
+   "value": 12273,
+   "areaName": "Bracknell Forest"
+ },
+ {
+   "code": "E06000036",
+   "category": "bad",
+   "value": 3147,
+   "areaName": "Bracknell Forest"
+ },
+ {
+   "code": "E06000036",
+   "category": "vBad",
+   "value": 846,
+   "areaName": "Bracknell Forest"
+ },
+ {
+   "code": "E06000037",
+   "category": "vGood",
+   "value": 82413,
+   "areaName": "West Berkshire"
+ },
+ {
+   "code": "E06000037",
+   "category": "good",
+   "value": 55946,
+   "areaName": "West Berkshire"
+ },
+ {
+   "code": "E06000037",
+   "category": "fair",
+   "value": 17685,
+   "areaName": "West Berkshire"
+ },
+ {
+   "code": "E06000037",
+   "category": "bad",
+   "value": 4319,
+   "areaName": "West Berkshire"
+ },
+ {
+   "code": "E06000037",
+   "category": "vBad",
+   "value": 1086,
+   "areaName": "West Berkshire"
+ },
+ {
+   "code": "E06000038",
+   "category": "vGood",
+   "value": 89196,
+   "areaName": "Reading"
+ },
+ {
+   "code": "E06000038",
+   "category": "good",
+   "value": 60019,
+   "areaName": "Reading"
+ },
+ {
+   "code": "E06000038",
+   "category": "fair",
+   "value": 18627,
+   "areaName": "Reading"
+ },
+ {
+   "code": "E06000038",
+   "category": "bad",
+   "value": 5018,
+   "areaName": "Reading"
+ },
+ {
+   "code": "E06000038",
+   "category": "vBad",
+   "value": 1364,
+   "areaName": "Reading"
+ },
+ {
+   "code": "E06000039",
+   "category": "vGood",
+   "value": 81941,
+   "areaName": "Slough"
+ },
+ {
+   "code": "E06000039",
+   "category": "good",
+   "value": 53816,
+   "areaName": "Slough"
+ },
+ {
+   "code": "E06000039",
+   "category": "fair",
+   "value": 16804,
+   "areaName": "Slough"
+ },
+ {
+   "code": "E06000039",
+   "category": "bad",
+   "value": 4625,
+   "areaName": "Slough"
+ },
+ {
+   "code": "E06000039",
+   "category": "vBad",
+   "value": 1314,
+   "areaName": "Slough"
+ },
+ {
+   "code": "E06000040",
+   "category": "vGood",
+   "value": 85594,
+   "areaName": "Windsor and Maidenhead"
+ },
+ {
+   "code": "E06000040",
+   "category": "good",
+   "value": 48793,
+   "areaName": "Windsor and Maidenhead"
+ },
+ {
+   "code": "E06000040",
+   "category": "fair",
+   "value": 14471,
+   "areaName": "Windsor and Maidenhead"
+ },
+ {
+   "code": "E06000040",
+   "category": "bad",
+   "value": 3636,
+   "areaName": "Windsor and Maidenhead"
+ },
+ {
+   "code": "E06000040",
+   "category": "vBad",
+   "value": 1002,
+   "areaName": "Windsor and Maidenhead"
+ },
+ {
+   "code": "E06000041",
+   "category": "vGood",
+   "value": 97553,
+   "areaName": "Wokingham"
+ },
+ {
+   "code": "E06000041",
+   "category": "good",
+   "value": 58866,
+   "areaName": "Wokingham"
+ },
+ {
+   "code": "E06000041",
+   "category": "fair",
+   "value": 16372,
+   "areaName": "Wokingham"
+ },
+ {
+   "code": "E06000041",
+   "category": "bad",
+   "value": 3676,
+   "areaName": "Wokingham"
+ },
+ {
+   "code": "E06000041",
+   "category": "vBad",
+   "value": 1033,
+   "areaName": "Wokingham"
+ },
+ {
+   "code": "E06000042",
+   "category": "vGood",
+   "value": 146636,
+   "areaName": "Milton Keynes"
+ },
+ {
+   "code": "E06000042",
+   "category": "good",
+   "value": 96796,
+   "areaName": "Milton Keynes"
+ },
+ {
+   "code": "E06000042",
+   "category": "fair",
+   "value": 31721,
+   "areaName": "Milton Keynes"
+ },
+ {
+   "code": "E06000042",
+   "category": "bad",
+   "value": 9239,
+   "areaName": "Milton Keynes"
+ },
+ {
+   "code": "E06000042",
+   "category": "vBad",
+   "value": 2668,
+   "areaName": "Milton Keynes"
+ },
+ {
+   "code": "E06000043",
+   "category": "vGood",
+   "value": 139078,
+   "areaName": "Brighton and Hove"
+ },
+ {
+   "code": "E06000043",
+   "category": "good",
+   "value": 91878,
+   "areaName": "Brighton and Hove"
+ },
+ {
+   "code": "E06000043",
+   "category": "fair",
+   "value": 32118,
+   "areaName": "Brighton and Hove"
+ },
+ {
+   "code": "E06000043",
+   "category": "bad",
+   "value": 10757,
+   "areaName": "Brighton and Hove"
+ },
+ {
+   "code": "E06000043",
+   "category": "vBad",
+   "value": 3272,
+   "areaName": "Brighton and Hove"
+ },
+ {
+   "code": "E06000044",
+   "category": "vGood",
+   "value": 98505,
+   "areaName": "Portsmouth"
+ },
+ {
+   "code": "E06000044",
+   "category": "good",
+   "value": 72447,
+   "areaName": "Portsmouth"
+ },
+ {
+   "code": "E06000044",
+   "category": "fair",
+   "value": 26740,
+   "areaName": "Portsmouth"
+ },
+ {
+   "code": "E06000044",
+   "category": "bad",
+   "value": 8000,
+   "areaName": "Portsmouth"
+ },
+ {
+   "code": "E06000044",
+   "category": "vBad",
+   "value": 2311,
+   "areaName": "Portsmouth"
+ },
+ {
+   "code": "E06000045",
+   "category": "vGood",
+   "value": 118703,
+   "areaName": "Southampton"
+ },
+ {
+   "code": "E06000045",
+   "category": "good",
+   "value": 87353,
+   "areaName": "Southampton"
+ },
+ {
+   "code": "E06000045",
+   "category": "fair",
+   "value": 30497,
+   "areaName": "Southampton"
+ },
+ {
+   "code": "E06000045",
+   "category": "bad",
+   "value": 9536,
+   "areaName": "Southampton"
+ },
+ {
+   "code": "E06000045",
+   "category": "vBad",
+   "value": 2833,
+   "areaName": "Southampton"
+ },
+ {
+   "code": "E06000047",
+   "category": "vGood",
+   "value": 224293,
+   "areaName": "County Durham"
+ },
+ {
+   "code": "E06000047",
+   "category": "good",
+   "value": 176980,
+   "areaName": "County Durham"
+ },
+ {
+   "code": "E06000047",
+   "category": "fair",
+   "value": 81624,
+   "areaName": "County Durham"
+ },
+ {
+   "code": "E06000047",
+   "category": "bad",
+   "value": 30167,
+   "areaName": "County Durham"
+ },
+ {
+   "code": "E06000047",
+   "category": "vBad",
+   "value": 9004,
+   "areaName": "County Durham"
+ },
+ {
+   "code": "E06000050",
+   "category": "vGood",
+   "value": 174349,
+   "areaName": "Cheshire West and Chester"
+ },
+ {
+   "code": "E06000050",
+   "category": "good",
+   "value": 118810,
+   "areaName": "Cheshire West and Chester"
+ },
+ {
+   "code": "E06000050",
+   "category": "fair",
+   "value": 45293,
+   "areaName": "Cheshire West and Chester"
+ },
+ {
+   "code": "E06000050",
+   "category": "bad",
+   "value": 14499,
+   "areaName": "Cheshire West and Chester"
+ },
+ {
+   "code": "E06000050",
+   "category": "vBad",
+   "value": 4199,
+   "areaName": "Cheshire West and Chester"
+ },
+ {
+   "code": "E06000051",
+   "category": "vGood",
+   "value": 150899,
+   "areaName": "Shropshire"
+ },
+ {
+   "code": "E06000051",
+   "category": "good",
+   "value": 112330,
+   "areaName": "Shropshire"
+ },
+ {
+   "code": "E06000051",
+   "category": "fair",
+   "value": 43932,
+   "areaName": "Shropshire"
+ },
+ {
+   "code": "E06000051",
+   "category": "bad",
+   "value": 12796,
+   "areaName": "Shropshire"
+ },
+ {
+   "code": "E06000051",
+   "category": "vBad",
+   "value": 3649,
+   "areaName": "Shropshire"
+ },
+ {
+   "code": "E06000053",
+   "category": "vGood",
+   "value": 1054,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "good",
+   "value": 677,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "fair",
+   "value": 240,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "bad",
+   "value": 66,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "vBad",
+   "value": 17,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000054",
+   "category": "vGood",
+   "value": 252803,
+   "areaName": "Wiltshire"
+ },
+ {
+   "code": "E06000054",
+   "category": "good",
+   "value": 173908,
+   "areaName": "Wiltshire"
+ },
+ {
+   "code": "E06000054",
+   "category": "fair",
+   "value": 62034,
+   "areaName": "Wiltshire"
+ },
+ {
+   "code": "E06000054",
+   "category": "bad",
+   "value": 16995,
+   "areaName": "Wiltshire"
+ },
+ {
+   "code": "E06000054",
+   "category": "vBad",
+   "value": 4593,
+   "areaName": "Wiltshire"
+ },
+ {
+   "code": "E06000055",
+   "category": "vGood",
+   "value": 90419,
+   "areaName": "Bedford"
+ },
+ {
+   "code": "E06000055",
+   "category": "good",
+   "value": 64772,
+   "areaName": "Bedford"
+ },
+ {
+   "code": "E06000055",
+   "category": "fair",
+   "value": 21942,
+   "areaName": "Bedford"
+ },
+ {
+   "code": "E06000055",
+   "category": "bad",
+   "value": 6357,
+   "areaName": "Bedford"
+ },
+ {
+   "code": "E06000055",
+   "category": "vBad",
+   "value": 1735,
+   "areaName": "Bedford"
+ },
+ {
+   "code": "E06000056",
+   "category": "vGood",
+   "value": 148210,
+   "areaName": "Central Bedfordshire"
+ },
+ {
+   "code": "E06000056",
+   "category": "good",
+   "value": 101486,
+   "areaName": "Central Bedfordshire"
+ },
+ {
+   "code": "E06000056",
+   "category": "fair",
+   "value": 33332,
+   "areaName": "Central Bedfordshire"
+ },
+ {
+   "code": "E06000056",
+   "category": "bad",
+   "value": 8817,
+   "areaName": "Central Bedfordshire"
+ },
+ {
+   "code": "E06000056",
+   "category": "vBad",
+   "value": 2407,
+   "areaName": "Central Bedfordshire"
+ },
+ {
+   "code": "E06000057",
+   "category": "vGood",
+   "value": 140289,
+   "areaName": "Northumberland"
+ },
+ {
+   "code": "E06000057",
+   "category": "good",
+   "value": 110887,
+   "areaName": "Northumberland"
+ },
+ {
+   "code": "E06000057",
+   "category": "fair",
+   "value": 49447,
+   "areaName": "Northumberland"
+ },
+ {
+   "code": "E06000057",
+   "category": "bad",
+   "value": 15644,
+   "areaName": "Northumberland"
+ },
+ {
+   "code": "E06000057",
+   "category": "vBad",
+   "value": 4300,
+   "areaName": "Northumberland"
+ },
+ {
+   "code": "E06000058",
+   "category": "vGood",
+   "value": 190242,
+   "areaName": "Bournemouth Christchurch and Poole"
+ },
+ {
+   "code": "E06000058",
+   "category": "good",
+   "value": 136523,
+   "areaName": "Bournemouth Christchurch and Poole"
+ },
+ {
+   "code": "E06000058",
+   "category": "fair",
+   "value": 52466,
+   "areaName": "Bournemouth Christchurch and Poole"
+ },
+ {
+   "code": "E06000058",
+   "category": "bad",
+   "value": 16230,
+   "areaName": "Bournemouth Christchurch and Poole"
+ },
+ {
+   "code": "E06000058",
+   "category": "vBad",
+   "value": 4735,
+   "areaName": "Bournemouth Christchurch and Poole"
+ },
+ {
+   "code": "E06000059",
+   "category": "vGood",
+   "value": 170366,
+   "areaName": "Dorset"
+ },
+ {
+   "code": "E06000059",
+   "category": "good",
+   "value": 135867,
+   "areaName": "Dorset"
+ },
+ {
+   "code": "E06000059",
+   "category": "fair",
+   "value": 54010,
+   "areaName": "Dorset"
+ },
+ {
+   "code": "E06000059",
+   "category": "bad",
+   "value": 15166,
+   "areaName": "Dorset"
+ },
+ {
+   "code": "E06000059",
+   "category": "vBad",
+   "value": 4170,
+   "areaName": "Dorset"
+ },
+ {
+   "code": "E06000060",
+   "category": "vGood",
+   "value": 293915,
+   "areaName": "Buckinghamshire"
+ },
+ {
+   "code": "E06000060",
+   "category": "good",
+   "value": 183564,
+   "areaName": "Buckinghamshire"
+ },
+ {
+   "code": "E06000060",
+   "category": "fair",
+   "value": 57178,
+   "areaName": "Buckinghamshire"
+ },
+ {
+   "code": "E06000060",
+   "category": "bad",
+   "value": 14525,
+   "areaName": "Buckinghamshire"
+ },
+ {
+   "code": "E06000060",
+   "category": "vBad",
+   "value": 3897,
+   "areaName": "Buckinghamshire"
+ },
+ {
+   "code": "E06000061",
+   "category": "vGood",
+   "value": 166047,
+   "areaName": "North Northamptonshire"
+ },
+ {
+   "code": "E06000061",
+   "category": "good",
+   "value": 128657,
+   "areaName": "North Northamptonshire"
+ },
+ {
+   "code": "E06000061",
+   "category": "fair",
+   "value": 47271,
+   "areaName": "North Northamptonshire"
+ },
+ {
+   "code": "E06000061",
+   "category": "bad",
+   "value": 13718,
+   "areaName": "North Northamptonshire"
+ },
+ {
+   "code": "E06000061",
+   "category": "vBad",
+   "value": 3831,
+   "areaName": "North Northamptonshire"
+ },
+ {
+   "code": "E06000062",
+   "category": "vGood",
+   "value": 209457,
+   "areaName": "West Northamptonshire"
+ },
+ {
+   "code": "E06000062",
+   "category": "good",
+   "value": 149226,
+   "areaName": "West Northamptonshire"
+ },
+ {
+   "code": "E06000062",
+   "category": "fair",
+   "value": 49482,
+   "areaName": "West Northamptonshire"
+ },
+ {
+   "code": "E06000062",
+   "category": "bad",
+   "value": 13891,
+   "areaName": "West Northamptonshire"
+ },
+ {
+   "code": "E06000062",
+   "category": "vBad",
+   "value": 3669,
+   "areaName": "West Northamptonshire"
+ },
+ {
+   "code": "E07000008",
+   "category": "vGood",
+   "value": 80195,
+   "areaName": "Cambridge"
+ },
+ {
+   "code": "E07000008",
+   "category": "good",
+   "value": 46807,
+   "areaName": "Cambridge"
+ },
+ {
+   "code": "E07000008",
+   "category": "fair",
+   "value": 13957,
+   "areaName": "Cambridge"
+ },
+ {
+   "code": "E07000008",
+   "category": "bad",
+   "value": 3715,
+   "areaName": "Cambridge"
+ },
+ {
+   "code": "E07000008",
+   "category": "vBad",
+   "value": 1001,
+   "areaName": "Cambridge"
+ },
+ {
+   "code": "E07000009",
+   "category": "vGood",
+   "value": 42423,
+   "areaName": "East Cambridgeshire"
+ },
+ {
+   "code": "E07000009",
+   "category": "good",
+   "value": 30830,
+   "areaName": "East Cambridgeshire"
+ },
+ {
+   "code": "E07000009",
+   "category": "fair",
+   "value": 10879,
+   "areaName": "East Cambridgeshire"
+ },
+ {
+   "code": "E07000009",
+   "category": "bad",
+   "value": 2859,
+   "areaName": "East Cambridgeshire"
+ },
+ {
+   "code": "E07000009",
+   "category": "vBad",
+   "value": 771,
+   "areaName": "East Cambridgeshire"
+ },
+ {
+   "code": "E07000010",
+   "category": "vGood",
+   "value": 41264,
+   "areaName": "Fenland"
+ },
+ {
+   "code": "E07000010",
+   "category": "good",
+   "value": 38407,
+   "areaName": "Fenland"
+ },
+ {
+   "code": "E07000010",
+   "category": "fair",
+   "value": 16256,
+   "areaName": "Fenland"
+ },
+ {
+   "code": "E07000010",
+   "category": "bad",
+   "value": 5064,
+   "areaName": "Fenland"
+ },
+ {
+   "code": "E07000010",
+   "category": "vBad",
+   "value": 1471,
+   "areaName": "Fenland"
+ },
+ {
+   "code": "E07000012",
+   "category": "vGood",
+   "value": 84637,
+   "areaName": "South Cambridgeshire"
+ },
+ {
+   "code": "E07000012",
+   "category": "good",
+   "value": 54501,
+   "areaName": "South Cambridgeshire"
+ },
+ {
+   "code": "E07000012",
+   "category": "fair",
+   "value": 17419,
+   "areaName": "South Cambridgeshire"
+ },
+ {
+   "code": "E07000012",
+   "category": "bad",
+   "value": 4313,
+   "areaName": "South Cambridgeshire"
+ },
+ {
+   "code": "E07000012",
+   "category": "vBad",
+   "value": 1246,
+   "areaName": "South Cambridgeshire"
+ },
+ {
+   "code": "E07000026",
+   "category": "vGood",
+   "value": 43162,
+   "areaName": "Allerdale"
+ },
+ {
+   "code": "E07000026",
+   "category": "good",
+   "value": 32866,
+   "areaName": "Allerdale"
+ },
+ {
+   "code": "E07000026",
+   "category": "fair",
+   "value": 14357,
+   "areaName": "Allerdale"
+ },
+ {
+   "code": "E07000026",
+   "category": "bad",
+   "value": 4498,
+   "areaName": "Allerdale"
+ },
+ {
+   "code": "E07000026",
+   "category": "vBad",
+   "value": 1271,
+   "areaName": "Allerdale"
+ },
+ {
+   "code": "E07000027",
+   "category": "vGood",
+   "value": 29262,
+   "areaName": "Barrow-in-Furness"
+ },
+ {
+   "code": "E07000027",
+   "category": "good",
+   "value": 23259,
+   "areaName": "Barrow-in-Furness"
+ },
+ {
+   "code": "E07000027",
+   "category": "fair",
+   "value": 10057,
+   "areaName": "Barrow-in-Furness"
+ },
+ {
+   "code": "E07000027",
+   "category": "bad",
+   "value": 3792,
+   "areaName": "Barrow-in-Furness"
+ },
+ {
+   "code": "E07000027",
+   "category": "vBad",
+   "value": 1037,
+   "areaName": "Barrow-in-Furness"
+ },
+ {
+   "code": "E07000028",
+   "category": "vGood",
+   "value": 50139,
+   "areaName": "Carlisle"
+ },
+ {
+   "code": "E07000028",
+   "category": "good",
+   "value": 38022,
+   "areaName": "Carlisle"
+ },
+ {
+   "code": "E07000028",
+   "category": "fair",
+   "value": 15476,
+   "areaName": "Carlisle"
+ },
+ {
+   "code": "E07000028",
+   "category": "bad",
+   "value": 4971,
+   "areaName": "Carlisle"
+ },
+ {
+   "code": "E07000028",
+   "category": "vBad",
+   "value": 1416,
+   "areaName": "Carlisle"
+ },
+ {
+   "code": "E07000029",
+   "category": "vGood",
+   "value": 29807,
+   "areaName": "Copeland"
+ },
+ {
+   "code": "E07000029",
+   "category": "good",
+   "value": 22281,
+   "areaName": "Copeland"
+ },
+ {
+   "code": "E07000029",
+   "category": "fair",
+   "value": 10387,
+   "areaName": "Copeland"
+ },
+ {
+   "code": "E07000029",
+   "category": "bad",
+   "value": 3572,
+   "areaName": "Copeland"
+ },
+ {
+   "code": "E07000029",
+   "category": "vBad",
+   "value": 1029,
+   "areaName": "Copeland"
+ },
+ {
+   "code": "E07000030",
+   "category": "vGood",
+   "value": 25678,
+   "areaName": "Eden"
+ },
+ {
+   "code": "E07000030",
+   "category": "good",
+   "value": 19370,
+   "areaName": "Eden"
+ },
+ {
+   "code": "E07000030",
+   "category": "fair",
+   "value": 7256,
+   "areaName": "Eden"
+ },
+ {
+   "code": "E07000030",
+   "category": "bad",
+   "value": 1908,
+   "areaName": "Eden"
+ },
+ {
+   "code": "E07000030",
+   "category": "vBad",
+   "value": 523,
+   "areaName": "Eden"
+ },
+ {
+   "code": "E07000031",
+   "category": "vGood",
+   "value": 50056,
+   "areaName": "South Lakeland"
+ },
+ {
+   "code": "E07000031",
+   "category": "good",
+   "value": 36405,
+   "areaName": "South Lakeland"
+ },
+ {
+   "code": "E07000031",
+   "category": "fair",
+   "value": 13384,
+   "areaName": "South Lakeland"
+ },
+ {
+   "code": "E07000031",
+   "category": "bad",
+   "value": 3630,
+   "areaName": "South Lakeland"
+ },
+ {
+   "code": "E07000031",
+   "category": "vBad",
+   "value": 975,
+   "areaName": "South Lakeland"
+ },
+ {
+   "code": "E07000032",
+   "category": "vGood",
+   "value": 56072,
+   "areaName": "Amber Valley"
+ },
+ {
+   "code": "E07000032",
+   "category": "good",
+   "value": 44733,
+   "areaName": "Amber Valley"
+ },
+ {
+   "code": "E07000032",
+   "category": "fair",
+   "value": 18298,
+   "areaName": "Amber Valley"
+ },
+ {
+   "code": "E07000032",
+   "category": "bad",
+   "value": 5613,
+   "areaName": "Amber Valley"
+ },
+ {
+   "code": "E07000032",
+   "category": "vBad",
+   "value": 1492,
+   "areaName": "Amber Valley"
+ },
+ {
+   "code": "E07000033",
+   "category": "vGood",
+   "value": 33546,
+   "areaName": "Bolsover"
+ },
+ {
+   "code": "E07000033",
+   "category": "good",
+   "value": 27509,
+   "areaName": "Bolsover"
+ },
+ {
+   "code": "E07000033",
+   "category": "fair",
+   "value": 12940,
+   "areaName": "Bolsover"
+ },
+ {
+   "code": "E07000033",
+   "category": "bad",
+   "value": 4844,
+   "areaName": "Bolsover"
+ },
+ {
+   "code": "E07000033",
+   "category": "vBad",
+   "value": 1434,
+   "areaName": "Bolsover"
+ },
+ {
+   "code": "E07000034",
+   "category": "vGood",
+   "value": 42969,
+   "areaName": "Chesterfield"
+ },
+ {
+   "code": "E07000034",
+   "category": "good",
+   "value": 36035,
+   "areaName": "Chesterfield"
+ },
+ {
+   "code": "E07000034",
+   "category": "fair",
+   "value": 17062,
+   "areaName": "Chesterfield"
+ },
+ {
+   "code": "E07000034",
+   "category": "bad",
+   "value": 5874,
+   "areaName": "Chesterfield"
+ },
+ {
+   "code": "E07000034",
+   "category": "vBad",
+   "value": 1629,
+   "areaName": "Chesterfield"
+ },
+ {
+   "code": "E07000035",
+   "category": "vGood",
+   "value": 34005,
+   "areaName": "Derbyshire Dales"
+ },
+ {
+   "code": "E07000035",
+   "category": "good",
+   "value": 24678,
+   "areaName": "Derbyshire Dales"
+ },
+ {
+   "code": "E07000035",
+   "category": "fair",
+   "value": 9585,
+   "areaName": "Derbyshire Dales"
+ },
+ {
+   "code": "E07000035",
+   "category": "bad",
+   "value": 2534,
+   "areaName": "Derbyshire Dales"
+ },
+ {
+   "code": "E07000035",
+   "category": "vBad",
+   "value": 738,
+   "areaName": "Derbyshire Dales"
+ },
+ {
+   "code": "E07000036",
+   "category": "vGood",
+   "value": 50053,
+   "areaName": "Erewash"
+ },
+ {
+   "code": "E07000036",
+   "category": "good",
+   "value": 39919,
+   "areaName": "Erewash"
+ },
+ {
+   "code": "E07000036",
+   "category": "fair",
+   "value": 16552,
+   "areaName": "Erewash"
+ },
+ {
+   "code": "E07000036",
+   "category": "bad",
+   "value": 5020,
+   "areaName": "Erewash"
+ },
+ {
+   "code": "E07000036",
+   "category": "vBad",
+   "value": 1362,
+   "areaName": "Erewash"
+ },
+ {
+   "code": "E07000037",
+   "category": "vGood",
+   "value": 43301,
+   "areaName": "High Peak"
+ },
+ {
+   "code": "E07000037",
+   "category": "good",
+   "value": 31083,
+   "areaName": "High Peak"
+ },
+ {
+   "code": "E07000037",
+   "category": "fair",
+   "value": 12007,
+   "areaName": "High Peak"
+ },
+ {
+   "code": "E07000037",
+   "category": "bad",
+   "value": 3535,
+   "areaName": "High Peak"
+ },
+ {
+   "code": "E07000037",
+   "category": "vBad",
+   "value": 1007,
+   "areaName": "High Peak"
+ },
+ {
+   "code": "E07000038",
+   "category": "vGood",
+   "value": 44381,
+   "areaName": "North East Derbyshire"
+ },
+ {
+   "code": "E07000038",
+   "category": "good",
+   "value": 35060,
+   "areaName": "North East Derbyshire"
+ },
+ {
+   "code": "E07000038",
+   "category": "fair",
+   "value": 15945,
+   "areaName": "North East Derbyshire"
+ },
+ {
+   "code": "E07000038",
+   "category": "bad",
+   "value": 5166,
+   "areaName": "North East Derbyshire"
+ },
+ {
+   "code": "E07000038",
+   "category": "vBad",
+   "value": 1449,
+   "areaName": "North East Derbyshire"
+ },
+ {
+   "code": "E07000041",
+   "category": "vGood",
+   "value": 66498,
+   "areaName": "Exeter"
+ },
+ {
+   "code": "E07000041",
+   "category": "good",
+   "value": 43054,
+   "areaName": "Exeter"
+ },
+ {
+   "code": "E07000041",
+   "category": "fair",
+   "value": 15152,
+   "areaName": "Exeter"
+ },
+ {
+   "code": "E07000041",
+   "category": "bad",
+   "value": 4665,
+   "areaName": "Exeter"
+ },
+ {
+   "code": "E07000041",
+   "category": "vBad",
+   "value": 1340,
+   "areaName": "Exeter"
+ },
+ {
+   "code": "E07000042",
+   "category": "vGood",
+   "value": 39073,
+   "areaName": "Mid Devon"
+ },
+ {
+   "code": "E07000042",
+   "category": "good",
+   "value": 28866,
+   "areaName": "Mid Devon"
+ },
+ {
+   "code": "E07000042",
+   "category": "fair",
+   "value": 10954,
+   "areaName": "Mid Devon"
+ },
+ {
+   "code": "E07000042",
+   "category": "bad",
+   "value": 3085,
+   "areaName": "Mid Devon"
+ },
+ {
+   "code": "E07000042",
+   "category": "vBad",
+   "value": 874,
+   "areaName": "Mid Devon"
+ },
+ {
+   "code": "E07000043",
+   "category": "vGood",
+   "value": 46135,
+   "areaName": "North Devon"
+ },
+ {
+   "code": "E07000043",
+   "category": "good",
+   "value": 33154,
+   "areaName": "North Devon"
+ },
+ {
+   "code": "E07000043",
+   "category": "fair",
+   "value": 13705,
+   "areaName": "North Devon"
+ },
+ {
+   "code": "E07000043",
+   "category": "bad",
+   "value": 4352,
+   "areaName": "North Devon"
+ },
+ {
+   "code": "E07000043",
+   "category": "vBad",
+   "value": 1265,
+   "areaName": "North Devon"
+ },
+ {
+   "code": "E07000045",
+   "category": "vGood",
+   "value": 61426,
+   "areaName": "Teignbridge"
+ },
+ {
+   "code": "E07000045",
+   "category": "good",
+   "value": 47053,
+   "areaName": "Teignbridge"
+ },
+ {
+   "code": "E07000045",
+   "category": "fair",
+   "value": 19026,
+   "areaName": "Teignbridge"
+ },
+ {
+   "code": "E07000045",
+   "category": "bad",
+   "value": 5739,
+   "areaName": "Teignbridge"
+ },
+ {
+   "code": "E07000045",
+   "category": "vBad",
+   "value": 1559,
+   "areaName": "Teignbridge"
+ },
+ {
+   "code": "E07000046",
+   "category": "vGood",
+   "value": 29852,
+   "areaName": "Torridge"
+ },
+ {
+   "code": "E07000046",
+   "category": "good",
+   "value": 23713,
+   "areaName": "Torridge"
+ },
+ {
+   "code": "E07000046",
+   "category": "fair",
+   "value": 10453,
+   "areaName": "Torridge"
+ },
+ {
+   "code": "E07000046",
+   "category": "bad",
+   "value": 3216,
+   "areaName": "Torridge"
+ },
+ {
+   "code": "E07000046",
+   "category": "vBad",
+   "value": 880,
+   "areaName": "Torridge"
+ },
+ {
+   "code": "E07000047",
+   "category": "vGood",
+   "value": 26007,
+   "areaName": "West Devon"
+ },
+ {
+   "code": "E07000047",
+   "category": "good",
+   "value": 19802,
+   "areaName": "West Devon"
+ },
+ {
+   "code": "E07000047",
+   "category": "fair",
+   "value": 8236,
+   "areaName": "West Devon"
+ },
+ {
+   "code": "E07000047",
+   "category": "bad",
+   "value": 2380,
+   "areaName": "West Devon"
+ },
+ {
+   "code": "E07000047",
+   "category": "vBad",
+   "value": 671,
+   "areaName": "West Devon"
+ },
+ {
+   "code": "E07000061",
+   "category": "vGood",
+   "value": 43956,
+   "areaName": "Eastbourne"
+ },
+ {
+   "code": "E07000061",
+   "category": "good",
+   "value": 35844,
+   "areaName": "Eastbourne"
+ },
+ {
+   "code": "E07000061",
+   "category": "fair",
+   "value": 15503,
+   "areaName": "Eastbourne"
+ },
+ {
+   "code": "E07000061",
+   "category": "bad",
+   "value": 4946,
+   "areaName": "Eastbourne"
+ },
+ {
+   "code": "E07000061",
+   "category": "vBad",
+   "value": 1440,
+   "areaName": "Eastbourne"
+ },
+ {
+   "code": "E07000062",
+   "category": "vGood",
+   "value": 38395,
+   "areaName": "Hastings"
+ },
+ {
+   "code": "E07000062",
+   "category": "good",
+   "value": 31864,
+   "areaName": "Hastings"
+ },
+ {
+   "code": "E07000062",
+   "category": "fair",
+   "value": 14122,
+   "areaName": "Hastings"
+ },
+ {
+   "code": "E07000062",
+   "category": "bad",
+   "value": 5025,
+   "areaName": "Hastings"
+ },
+ {
+   "code": "E07000062",
+   "category": "vBad",
+   "value": 1588,
+   "areaName": "Hastings"
+ },
+ {
+   "code": "E07000063",
+   "category": "vGood",
+   "value": 45533,
+   "areaName": "Lewes"
+ },
+ {
+   "code": "E07000063",
+   "category": "good",
+   "value": 34732,
+   "areaName": "Lewes"
+ },
+ {
+   "code": "E07000063",
+   "category": "fair",
+   "value": 14156,
+   "areaName": "Lewes"
+ },
+ {
+   "code": "E07000063",
+   "category": "bad",
+   "value": 4297,
+   "areaName": "Lewes"
+ },
+ {
+   "code": "E07000063",
+   "category": "vBad",
+   "value": 1187,
+   "areaName": "Lewes"
+ },
+ {
+   "code": "E07000067",
+   "category": "vGood",
+   "value": 73375,
+   "areaName": "Braintree"
+ },
+ {
+   "code": "E07000067",
+   "category": "good",
+   "value": 55346,
+   "areaName": "Braintree"
+ },
+ {
+   "code": "E07000067",
+   "category": "fair",
+   "value": 19655,
+   "areaName": "Braintree"
+ },
+ {
+   "code": "E07000067",
+   "category": "bad",
+   "value": 5431,
+   "areaName": "Braintree"
+ },
+ {
+   "code": "E07000067",
+   "category": "vBad",
+   "value": 1461,
+   "areaName": "Braintree"
+ },
+ {
+   "code": "E07000068",
+   "category": "vGood",
+   "value": 41588,
+   "areaName": "Brentwood"
+ },
+ {
+   "code": "E07000068",
+   "category": "good",
+   "value": 24413,
+   "areaName": "Brentwood"
+ },
+ {
+   "code": "E07000068",
+   "category": "fair",
+   "value": 8141,
+   "areaName": "Brentwood"
+ },
+ {
+   "code": "E07000068",
+   "category": "bad",
+   "value": 2214,
+   "areaName": "Brentwood"
+ },
+ {
+   "code": "E07000068",
+   "category": "vBad",
+   "value": 691,
+   "areaName": "Brentwood"
+ },
+ {
+   "code": "E07000069",
+   "category": "vGood",
+   "value": 40925,
+   "areaName": "Castle Point"
+ },
+ {
+   "code": "E07000069",
+   "category": "good",
+   "value": 31438,
+   "areaName": "Castle Point"
+ },
+ {
+   "code": "E07000069",
+   "category": "fair",
+   "value": 12324,
+   "areaName": "Castle Point"
+ },
+ {
+   "code": "E07000069",
+   "category": "bad",
+   "value": 3807,
+   "areaName": "Castle Point"
+ },
+ {
+   "code": "E07000069",
+   "category": "vBad",
+   "value": 1093,
+   "areaName": "Castle Point"
+ },
+ {
+   "code": "E07000070",
+   "category": "vGood",
+   "value": 93611,
+   "areaName": "Chelmsford"
+ },
+ {
+   "code": "E07000070",
+   "category": "good",
+   "value": 61388,
+   "areaName": "Chelmsford"
+ },
+ {
+   "code": "E07000070",
+   "category": "fair",
+   "value": 19993,
+   "areaName": "Chelmsford"
+ },
+ {
+   "code": "E07000070",
+   "category": "bad",
+   "value": 5089,
+   "areaName": "Chelmsford"
+ },
+ {
+   "code": "E07000070",
+   "category": "vBad",
+   "value": 1442,
+   "areaName": "Chelmsford"
+ },
+ {
+   "code": "E07000071",
+   "category": "vGood",
+   "value": 94777,
+   "areaName": "Colchester"
+ },
+ {
+   "code": "E07000071",
+   "category": "good",
+   "value": 66963,
+   "areaName": "Colchester"
+ },
+ {
+   "code": "E07000071",
+   "category": "fair",
+   "value": 22916,
+   "areaName": "Colchester"
+ },
+ {
+   "code": "E07000071",
+   "category": "bad",
+   "value": 6281,
+   "areaName": "Colchester"
+ },
+ {
+   "code": "E07000071",
+   "category": "vBad",
+   "value": 1778,
+   "areaName": "Colchester"
+ },
+ {
+   "code": "E07000072",
+   "category": "vGood",
+   "value": 69924,
+   "areaName": "Epping Forest"
+ },
+ {
+   "code": "E07000072",
+   "category": "good",
+   "value": 44362,
+   "areaName": "Epping Forest"
+ },
+ {
+   "code": "E07000072",
+   "category": "fair",
+   "value": 15163,
+   "areaName": "Epping Forest"
+ },
+ {
+   "code": "E07000072",
+   "category": "bad",
+   "value": 4214,
+   "areaName": "Epping Forest"
+ },
+ {
+   "code": "E07000072",
+   "category": "vBad",
+   "value": 1317,
+   "areaName": "Epping Forest"
+ },
+ {
+   "code": "E07000074",
+   "category": "vGood",
+   "value": 30903,
+   "areaName": "Maldon"
+ },
+ {
+   "code": "E07000074",
+   "category": "good",
+   "value": 23469,
+   "areaName": "Maldon"
+ },
+ {
+   "code": "E07000074",
+   "category": "fair",
+   "value": 8677,
+   "areaName": "Maldon"
+ },
+ {
+   "code": "E07000074",
+   "category": "bad",
+   "value": 2487,
+   "areaName": "Maldon"
+ },
+ {
+   "code": "E07000074",
+   "category": "vBad",
+   "value": 672,
+   "areaName": "Maldon"
+ },
+ {
+   "code": "E07000076",
+   "category": "vGood",
+   "value": 58492,
+   "areaName": "Tendring"
+ },
+ {
+   "code": "E07000076",
+   "category": "good",
+   "value": 52819,
+   "areaName": "Tendring"
+ },
+ {
+   "code": "E07000076",
+   "category": "fair",
+   "value": 25460,
+   "areaName": "Tendring"
+ },
+ {
+   "code": "E07000076",
+   "category": "bad",
+   "value": 8891,
+   "areaName": "Tendring"
+ },
+ {
+   "code": "E07000076",
+   "category": "vBad",
+   "value": 2630,
+   "areaName": "Tendring"
+ },
+ {
+   "code": "E07000079",
+   "category": "vGood",
+   "value": 45781,
+   "areaName": "Cotswold"
+ },
+ {
+   "code": "E07000079",
+   "category": "good",
+   "value": 31041,
+   "areaName": "Cotswold"
+ },
+ {
+   "code": "E07000079",
+   "category": "fair",
+   "value": 10559,
+   "areaName": "Cotswold"
+ },
+ {
+   "code": "E07000079",
+   "category": "bad",
+   "value": 2698,
+   "areaName": "Cotswold"
+ },
+ {
+   "code": "E07000079",
+   "category": "vBad",
+   "value": 753,
+   "areaName": "Cotswold"
+ },
+ {
+   "code": "E07000080",
+   "category": "vGood",
+   "value": 38990,
+   "areaName": "Forest of Dean"
+ },
+ {
+   "code": "E07000080",
+   "category": "good",
+   "value": 30908,
+   "areaName": "Forest of Dean"
+ },
+ {
+   "code": "E07000080",
+   "category": "fair",
+   "value": 12355,
+   "areaName": "Forest of Dean"
+ },
+ {
+   "code": "E07000080",
+   "category": "bad",
+   "value": 3662,
+   "areaName": "Forest of Dean"
+ },
+ {
+   "code": "E07000080",
+   "category": "vBad",
+   "value": 1089,
+   "areaName": "Forest of Dean"
+ },
+ {
+   "code": "E07000082",
+   "category": "vGood",
+   "value": 58893,
+   "areaName": "Stroud"
+ },
+ {
+   "code": "E07000082",
+   "category": "good",
+   "value": 42058,
+   "areaName": "Stroud"
+ },
+ {
+   "code": "E07000082",
+   "category": "fair",
+   "value": 15125,
+   "areaName": "Stroud"
+ },
+ {
+   "code": "E07000082",
+   "category": "bad",
+   "value": 4014,
+   "areaName": "Stroud"
+ },
+ {
+   "code": "E07000082",
+   "category": "vBad",
+   "value": 1012,
+   "areaName": "Stroud"
+ },
+ {
+   "code": "E07000084",
+   "category": "vGood",
+   "value": 92794,
+   "areaName": "Basingstoke and Deane"
+ },
+ {
+   "code": "E07000084",
+   "category": "good",
+   "value": 64764,
+   "areaName": "Basingstoke and Deane"
+ },
+ {
+   "code": "E07000084",
+   "category": "fair",
+   "value": 20776,
+   "areaName": "Basingstoke and Deane"
+ },
+ {
+   "code": "E07000084",
+   "category": "bad",
+   "value": 5419,
+   "areaName": "Basingstoke and Deane"
+ },
+ {
+   "code": "E07000084",
+   "category": "vBad",
+   "value": 1404,
+   "areaName": "Basingstoke and Deane"
+ },
+ {
+   "code": "E07000085",
+   "category": "vGood",
+   "value": 63828,
+   "areaName": "East Hampshire"
+ },
+ {
+   "code": "E07000085",
+   "category": "good",
+   "value": 43139,
+   "areaName": "East Hampshire"
+ },
+ {
+   "code": "E07000085",
+   "category": "fair",
+   "value": 14273,
+   "areaName": "East Hampshire"
+ },
+ {
+   "code": "E07000085",
+   "category": "bad",
+   "value": 3599,
+   "areaName": "East Hampshire"
+ },
+ {
+   "code": "E07000085",
+   "category": "vBad",
+   "value": 905,
+   "areaName": "East Hampshire"
+ },
+ {
+   "code": "E07000086",
+   "category": "vGood",
+   "value": 67981,
+   "areaName": "Eastleigh"
+ },
+ {
+   "code": "E07000086",
+   "category": "good",
+   "value": 47400,
+   "areaName": "Eastleigh"
+ },
+ {
+   "code": "E07000086",
+   "category": "fair",
+   "value": 15896,
+   "areaName": "Eastleigh"
+ },
+ {
+   "code": "E07000086",
+   "category": "bad",
+   "value": 4088,
+   "areaName": "Eastleigh"
+ },
+ {
+   "code": "E07000086",
+   "category": "vBad",
+   "value": 1078,
+   "areaName": "Eastleigh"
+ },
+ {
+   "code": "E07000087",
+   "category": "vGood",
+   "value": 55185,
+   "areaName": "Fareham"
+ },
+ {
+   "code": "E07000087",
+   "category": "good",
+   "value": 40519,
+   "areaName": "Fareham"
+ },
+ {
+   "code": "E07000087",
+   "category": "fair",
+   "value": 14190,
+   "areaName": "Fareham"
+ },
+ {
+   "code": "E07000087",
+   "category": "bad",
+   "value": 3698,
+   "areaName": "Fareham"
+ },
+ {
+   "code": "E07000087",
+   "category": "vBad",
+   "value": 921,
+   "areaName": "Fareham"
+ },
+ {
+   "code": "E07000088",
+   "category": "vGood",
+   "value": 35504,
+   "areaName": "Gosport"
+ },
+ {
+   "code": "E07000088",
+   "category": "good",
+   "value": 29829,
+   "areaName": "Gosport"
+ },
+ {
+   "code": "E07000088",
+   "category": "fair",
+   "value": 12134,
+   "areaName": "Gosport"
+ },
+ {
+   "code": "E07000088",
+   "category": "bad",
+   "value": 3587,
+   "areaName": "Gosport"
+ },
+ {
+   "code": "E07000088",
+   "category": "vBad",
+   "value": 898,
+   "areaName": "Gosport"
+ },
+ {
+   "code": "E07000089",
+   "category": "vGood",
+   "value": 54555,
+   "areaName": "Hart"
+ },
+ {
+   "code": "E07000089",
+   "category": "good",
+   "value": 32704,
+   "areaName": "Hart"
+ },
+ {
+   "code": "E07000089",
+   "category": "fair",
+   "value": 9344,
+   "areaName": "Hart"
+ },
+ {
+   "code": "E07000089",
+   "category": "bad",
+   "value": 2177,
+   "areaName": "Hart"
+ },
+ {
+   "code": "E07000089",
+   "category": "vBad",
+   "value": 628,
+   "areaName": "Hart"
+ },
+ {
+   "code": "E07000091",
+   "category": "vGood",
+   "value": 81075,
+   "areaName": "New Forest"
+ },
+ {
+   "code": "E07000091",
+   "category": "good",
+   "value": 62425,
+   "areaName": "New Forest"
+ },
+ {
+   "code": "E07000091",
+   "category": "fair",
+   "value": 23866,
+   "areaName": "New Forest"
+ },
+ {
+   "code": "E07000091",
+   "category": "bad",
+   "value": 6534,
+   "areaName": "New Forest"
+ },
+ {
+   "code": "E07000091",
+   "category": "vBad",
+   "value": 1885,
+   "areaName": "New Forest"
+ },
+ {
+   "code": "E07000092",
+   "category": "vGood",
+   "value": 49428,
+   "areaName": "Rushmoor"
+ },
+ {
+   "code": "E07000092",
+   "category": "good",
+   "value": 34814,
+   "areaName": "Rushmoor"
+ },
+ {
+   "code": "E07000092",
+   "category": "fair",
+   "value": 11769,
+   "areaName": "Rushmoor"
+ },
+ {
+   "code": "E07000092",
+   "category": "bad",
+   "value": 2965,
+   "areaName": "Rushmoor"
+ },
+ {
+   "code": "E07000092",
+   "category": "vBad",
+   "value": 780,
+   "areaName": "Rushmoor"
+ },
+ {
+   "code": "E07000093",
+   "category": "vGood",
+   "value": 65696,
+   "areaName": "Test Valley"
+ },
+ {
+   "code": "E07000093",
+   "category": "good",
+   "value": 44842,
+   "areaName": "Test Valley"
+ },
+ {
+   "code": "E07000093",
+   "category": "fair",
+   "value": 14925,
+   "areaName": "Test Valley"
+ },
+ {
+   "code": "E07000093",
+   "category": "bad",
+   "value": 3958,
+   "areaName": "Test Valley"
+ },
+ {
+   "code": "E07000093",
+   "category": "vBad",
+   "value": 1071,
+   "areaName": "Test Valley"
+ },
+ {
+   "code": "E07000094",
+   "category": "vGood",
+   "value": 67850,
+   "areaName": "Winchester"
+ },
+ {
+   "code": "E07000094",
+   "category": "good",
+   "value": 41989,
+   "areaName": "Winchester"
+ },
+ {
+   "code": "E07000094",
+   "category": "fair",
+   "value": 13236,
+   "areaName": "Winchester"
+ },
+ {
+   "code": "E07000094",
+   "category": "bad",
+   "value": 3466,
+   "areaName": "Winchester"
+ },
+ {
+   "code": "E07000094",
+   "category": "vBad",
+   "value": 902,
+   "areaName": "Winchester"
+ },
+ {
+   "code": "E07000095",
+   "category": "vGood",
+   "value": 49630,
+   "areaName": "Broxbourne"
+ },
+ {
+   "code": "E07000095",
+   "category": "good",
+   "value": 33422,
+   "areaName": "Broxbourne"
+ },
+ {
+   "code": "E07000095",
+   "category": "fair",
+   "value": 11621,
+   "areaName": "Broxbourne"
+ },
+ {
+   "code": "E07000095",
+   "category": "bad",
+   "value": 3354,
+   "areaName": "Broxbourne"
+ },
+ {
+   "code": "E07000095",
+   "category": "vBad",
+   "value": 980,
+   "areaName": "Broxbourne"
+ },
+ {
+   "code": "E07000096",
+   "category": "vGood",
+   "value": 80604,
+   "areaName": "Dacorum"
+ },
+ {
+   "code": "E07000096",
+   "category": "good",
+   "value": 51271,
+   "areaName": "Dacorum"
+ },
+ {
+   "code": "E07000096",
+   "category": "fair",
+   "value": 17171,
+   "areaName": "Dacorum"
+ },
+ {
+   "code": "E07000096",
+   "category": "bad",
+   "value": 4784,
+   "areaName": "Dacorum"
+ },
+ {
+   "code": "E07000096",
+   "category": "vBad",
+   "value": 1251,
+   "areaName": "Dacorum"
+ },
+ {
+   "code": "E07000098",
+   "category": "vGood",
+   "value": 57652,
+   "areaName": "Hertsmere"
+ },
+ {
+   "code": "E07000098",
+   "category": "good",
+   "value": 34388,
+   "areaName": "Hertsmere"
+ },
+ {
+   "code": "E07000098",
+   "category": "fair",
+   "value": 11602,
+   "areaName": "Hertsmere"
+ },
+ {
+   "code": "E07000098",
+   "category": "bad",
+   "value": 3205,
+   "areaName": "Hertsmere"
+ },
+ {
+   "code": "E07000098",
+   "category": "vBad",
+   "value": 981,
+   "areaName": "Hertsmere"
+ },
+ {
+   "code": "E07000099",
+   "category": "vGood",
+   "value": 67385,
+   "areaName": "North Hertfordshire"
+ },
+ {
+   "code": "E07000099",
+   "category": "good",
+   "value": 45317,
+   "areaName": "North Hertfordshire"
+ },
+ {
+   "code": "E07000099",
+   "category": "fair",
+   "value": 15363,
+   "areaName": "North Hertfordshire"
+ },
+ {
+   "code": "E07000099",
+   "category": "bad",
+   "value": 4089,
+   "areaName": "North Hertfordshire"
+ },
+ {
+   "code": "E07000099",
+   "category": "vBad",
+   "value": 1056,
+   "areaName": "North Hertfordshire"
+ },
+ {
+   "code": "E07000102",
+   "category": "vGood",
+   "value": 50330,
+   "areaName": "Three Rivers"
+ },
+ {
+   "code": "E07000102",
+   "category": "good",
+   "value": 30357,
+   "areaName": "Three Rivers"
+ },
+ {
+   "code": "E07000102",
+   "category": "fair",
+   "value": 9788,
+   "areaName": "Three Rivers"
+ },
+ {
+   "code": "E07000102",
+   "category": "bad",
+   "value": 2586,
+   "areaName": "Three Rivers"
+ },
+ {
+   "code": "E07000102",
+   "category": "vBad",
+   "value": 710,
+   "areaName": "Three Rivers"
+ },
+ {
+   "code": "E07000106",
+   "category": "vGood",
+   "value": 74034,
+   "areaName": "Canterbury"
+ },
+ {
+   "code": "E07000106",
+   "category": "good",
+   "value": 54597,
+   "areaName": "Canterbury"
+ },
+ {
+   "code": "E07000106",
+   "category": "fair",
+   "value": 20762,
+   "areaName": "Canterbury"
+ },
+ {
+   "code": "E07000106",
+   "category": "bad",
+   "value": 6224,
+   "areaName": "Canterbury"
+ },
+ {
+   "code": "E07000106",
+   "category": "vBad",
+   "value": 1812,
+   "areaName": "Canterbury"
+ },
+ {
+   "code": "E07000107",
+   "category": "vGood",
+   "value": 61128,
+   "areaName": "Dartford"
+ },
+ {
+   "code": "E07000107",
+   "category": "good",
+   "value": 38680,
+   "areaName": "Dartford"
+ },
+ {
+   "code": "E07000107",
+   "category": "fair",
+   "value": 12556,
+   "areaName": "Dartford"
+ },
+ {
+   "code": "E07000107",
+   "category": "bad",
+   "value": 3390,
+   "areaName": "Dartford"
+ },
+ {
+   "code": "E07000107",
+   "category": "vBad",
+   "value": 999,
+   "areaName": "Dartford"
+ },
+ {
+   "code": "E07000108",
+   "category": "vGood",
+   "value": 51455,
+   "areaName": "Dover"
+ },
+ {
+   "code": "E07000108",
+   "category": "good",
+   "value": 40711,
+   "areaName": "Dover"
+ },
+ {
+   "code": "E07000108",
+   "category": "fair",
+   "value": 17036,
+   "areaName": "Dover"
+ },
+ {
+   "code": "E07000108",
+   "category": "bad",
+   "value": 5611,
+   "areaName": "Dover"
+ },
+ {
+   "code": "E07000108",
+   "category": "vBad",
+   "value": 1597,
+   "areaName": "Dover"
+ },
+ {
+   "code": "E07000109",
+   "category": "vGood",
+   "value": 52013,
+   "areaName": "Gravesham"
+ },
+ {
+   "code": "E07000109",
+   "category": "good",
+   "value": 36416,
+   "areaName": "Gravesham"
+ },
+ {
+   "code": "E07000109",
+   "category": "fair",
+   "value": 13291,
+   "areaName": "Gravesham"
+ },
+ {
+   "code": "E07000109",
+   "category": "bad",
+   "value": 4088,
+   "areaName": "Gravesham"
+ },
+ {
+   "code": "E07000109",
+   "category": "vBad",
+   "value": 1092,
+   "areaName": "Gravesham"
+ },
+ {
+   "code": "E07000110",
+   "category": "vGood",
+   "value": 87494,
+   "areaName": "Maidstone"
+ },
+ {
+   "code": "E07000110",
+   "category": "good",
+   "value": 59781,
+   "areaName": "Maidstone"
+ },
+ {
+   "code": "E07000110",
+   "category": "fair",
+   "value": 21018,
+   "areaName": "Maidstone"
+ },
+ {
+   "code": "E07000110",
+   "category": "bad",
+   "value": 5832,
+   "areaName": "Maidstone"
+ },
+ {
+   "code": "E07000110",
+   "category": "vBad",
+   "value": 1657,
+   "areaName": "Maidstone"
+ },
+ {
+   "code": "E07000111",
+   "category": "vGood",
+   "value": 63410,
+   "areaName": "Sevenoaks"
+ },
+ {
+   "code": "E07000111",
+   "category": "good",
+   "value": 38931,
+   "areaName": "Sevenoaks"
+ },
+ {
+   "code": "E07000111",
+   "category": "fair",
+   "value": 13407,
+   "areaName": "Sevenoaks"
+ },
+ {
+   "code": "E07000111",
+   "category": "bad",
+   "value": 3660,
+   "areaName": "Sevenoaks"
+ },
+ {
+   "code": "E07000111",
+   "category": "vBad",
+   "value": 1107,
+   "areaName": "Sevenoaks"
+ },
+ {
+   "code": "E07000113",
+   "category": "vGood",
+   "value": 68967,
+   "areaName": "Swale"
+ },
+ {
+   "code": "E07000113",
+   "category": "good",
+   "value": 52738,
+   "areaName": "Swale"
+ },
+ {
+   "code": "E07000113",
+   "category": "fair",
+   "value": 21338,
+   "areaName": "Swale"
+ },
+ {
+   "code": "E07000113",
+   "category": "bad",
+   "value": 6688,
+   "areaName": "Swale"
+ },
+ {
+   "code": "E07000113",
+   "category": "vBad",
+   "value": 1947,
+   "areaName": "Swale"
+ },
+ {
+   "code": "E07000114",
+   "category": "vGood",
+   "value": 59000,
+   "areaName": "Thanet"
+ },
+ {
+   "code": "E07000114",
+   "category": "good",
+   "value": 49262,
+   "areaName": "Thanet"
+ },
+ {
+   "code": "E07000114",
+   "category": "fair",
+   "value": 22148,
+   "areaName": "Thanet"
+ },
+ {
+   "code": "E07000114",
+   "category": "bad",
+   "value": 7823,
+   "areaName": "Thanet"
+ },
+ {
+   "code": "E07000114",
+   "category": "vBad",
+   "value": 2354,
+   "areaName": "Thanet"
+ },
+ {
+   "code": "E07000115",
+   "category": "vGood",
+   "value": 67896,
+   "areaName": "Tonbridge and Malling"
+ },
+ {
+   "code": "E07000115",
+   "category": "good",
+   "value": 44052,
+   "areaName": "Tonbridge and Malling"
+ },
+ {
+   "code": "E07000115",
+   "category": "fair",
+   "value": 14959,
+   "areaName": "Tonbridge and Malling"
+ },
+ {
+   "code": "E07000115",
+   "category": "bad",
+   "value": 4164,
+   "areaName": "Tonbridge and Malling"
+ },
+ {
+   "code": "E07000115",
+   "category": "vBad",
+   "value": 1130,
+   "areaName": "Tonbridge and Malling"
+ },
+ {
+   "code": "E07000116",
+   "category": "vGood",
+   "value": 60833,
+   "areaName": "Tunbridge Wells"
+ },
+ {
+   "code": "E07000116",
+   "category": "good",
+   "value": 37512,
+   "areaName": "Tunbridge Wells"
+ },
+ {
+   "code": "E07000116",
+   "category": "fair",
+   "value": 12586,
+   "areaName": "Tunbridge Wells"
+ },
+ {
+   "code": "E07000116",
+   "category": "bad",
+   "value": 3415,
+   "areaName": "Tunbridge Wells"
+ },
+ {
+   "code": "E07000116",
+   "category": "vBad",
+   "value": 965,
+   "areaName": "Tunbridge Wells"
+ },
+ {
+   "code": "E07000117",
+   "category": "vGood",
+   "value": 42648,
+   "areaName": "Burnley"
+ },
+ {
+   "code": "E07000117",
+   "category": "good",
+   "value": 31570,
+   "areaName": "Burnley"
+ },
+ {
+   "code": "E07000117",
+   "category": "fair",
+   "value": 13808,
+   "areaName": "Burnley"
+ },
+ {
+   "code": "E07000117",
+   "category": "bad",
+   "value": 5073,
+   "areaName": "Burnley"
+ },
+ {
+   "code": "E07000117",
+   "category": "vBad",
+   "value": 1546,
+   "areaName": "Burnley"
+ },
+ {
+   "code": "E07000118",
+   "category": "vGood",
+   "value": 57332,
+   "areaName": "Chorley"
+ },
+ {
+   "code": "E07000118",
+   "category": "good",
+   "value": 39109,
+   "areaName": "Chorley"
+ },
+ {
+   "code": "E07000118",
+   "category": "fair",
+   "value": 15198,
+   "areaName": "Chorley"
+ },
+ {
+   "code": "E07000118",
+   "category": "bad",
+   "value": 4735,
+   "areaName": "Chorley"
+ },
+ {
+   "code": "E07000118",
+   "category": "vBad",
+   "value": 1358,
+   "areaName": "Chorley"
+ },
+ {
+   "code": "E07000121",
+   "category": "vGood",
+   "value": 66454,
+   "areaName": "Lancaster"
+ },
+ {
+   "code": "E07000121",
+   "category": "good",
+   "value": 48857,
+   "areaName": "Lancaster"
+ },
+ {
+   "code": "E07000121",
+   "category": "fair",
+   "value": 19619,
+   "areaName": "Lancaster"
+ },
+ {
+   "code": "E07000121",
+   "category": "bad",
+   "value": 6214,
+   "areaName": "Lancaster"
+ },
+ {
+   "code": "E07000121",
+   "category": "vBad",
+   "value": 1790,
+   "areaName": "Lancaster"
+ },
+ {
+   "code": "E07000122",
+   "category": "vGood",
+   "value": 44752,
+   "areaName": "Pendle"
+ },
+ {
+   "code": "E07000122",
+   "category": "good",
+   "value": 32255,
+   "areaName": "Pendle"
+ },
+ {
+   "code": "E07000122",
+   "category": "fair",
+   "value": 13182,
+   "areaName": "Pendle"
+ },
+ {
+   "code": "E07000122",
+   "category": "bad",
+   "value": 4286,
+   "areaName": "Pendle"
+ },
+ {
+   "code": "E07000122",
+   "category": "vBad",
+   "value": 1285,
+   "areaName": "Pendle"
+ },
+ {
+   "code": "E07000123",
+   "category": "vGood",
+   "value": 71585,
+   "areaName": "Preston"
+ },
+ {
+   "code": "E07000123",
+   "category": "good",
+   "value": 48918,
+   "areaName": "Preston"
+ },
+ {
+   "code": "E07000123",
+   "category": "fair",
+   "value": 19091,
+   "areaName": "Preston"
+ },
+ {
+   "code": "E07000123",
+   "category": "bad",
+   "value": 6379,
+   "areaName": "Preston"
+ },
+ {
+   "code": "E07000123",
+   "category": "vBad",
+   "value": 1862,
+   "areaName": "Preston"
+ },
+ {
+   "code": "E07000125",
+   "category": "vGood",
+   "value": 33310,
+   "areaName": "Rossendale"
+ },
+ {
+   "code": "E07000125",
+   "category": "good",
+   "value": 23556,
+   "areaName": "Rossendale"
+ },
+ {
+   "code": "E07000125",
+   "category": "fair",
+   "value": 9673,
+   "areaName": "Rossendale"
+ },
+ {
+   "code": "E07000125",
+   "category": "bad",
+   "value": 3430,
+   "areaName": "Rossendale"
+ },
+ {
+   "code": "E07000125",
+   "category": "vBad",
+   "value": 904,
+   "areaName": "Rossendale"
+ },
+ {
+   "code": "E07000126",
+   "category": "vGood",
+   "value": 53172,
+   "areaName": "South Ribble"
+ },
+ {
+   "code": "E07000126",
+   "category": "good",
+   "value": 37823,
+   "areaName": "South Ribble"
+ },
+ {
+   "code": "E07000126",
+   "category": "fair",
+   "value": 14535,
+   "areaName": "South Ribble"
+ },
+ {
+   "code": "E07000126",
+   "category": "bad",
+   "value": 4318,
+   "areaName": "South Ribble"
+ },
+ {
+   "code": "E07000126",
+   "category": "vBad",
+   "value": 1187,
+   "areaName": "South Ribble"
+ },
+ {
+   "code": "E07000127",
+   "category": "vGood",
+   "value": 56460,
+   "areaName": "West Lancashire"
+ },
+ {
+   "code": "E07000127",
+   "category": "good",
+   "value": 38918,
+   "areaName": "West Lancashire"
+ },
+ {
+   "code": "E07000127",
+   "category": "fair",
+   "value": 15404,
+   "areaName": "West Lancashire"
+ },
+ {
+   "code": "E07000127",
+   "category": "bad",
+   "value": 5114,
+   "areaName": "West Lancashire"
+ },
+ {
+   "code": "E07000127",
+   "category": "vBad",
+   "value": 1534,
+   "areaName": "West Lancashire"
+ },
+ {
+   "code": "E07000128",
+   "category": "vGood",
+   "value": 49623,
+   "areaName": "Wyre"
+ },
+ {
+   "code": "E07000128",
+   "category": "good",
+   "value": 37251,
+   "areaName": "Wyre"
+ },
+ {
+   "code": "E07000128",
+   "category": "fair",
+   "value": 17326,
+   "areaName": "Wyre"
+ },
+ {
+   "code": "E07000128",
+   "category": "bad",
+   "value": 5902,
+   "areaName": "Wyre"
+ },
+ {
+   "code": "E07000128",
+   "category": "vBad",
+   "value": 1844,
+   "areaName": "Wyre"
+ },
+ {
+   "code": "E07000129",
+   "category": "vGood",
+   "value": 50473,
+   "areaName": "Blaby"
+ },
+ {
+   "code": "E07000129",
+   "category": "good",
+   "value": 35496,
+   "areaName": "Blaby"
+ },
+ {
+   "code": "E07000129",
+   "category": "fair",
+   "value": 12636,
+   "areaName": "Blaby"
+ },
+ {
+   "code": "E07000129",
+   "category": "bad",
+   "value": 3328,
+   "areaName": "Blaby"
+ },
+ {
+   "code": "E07000129",
+   "category": "vBad",
+   "value": 993,
+   "areaName": "Blaby"
+ },
+ {
+   "code": "E07000130",
+   "category": "vGood",
+   "value": 90255,
+   "areaName": "Charnwood"
+ },
+ {
+   "code": "E07000130",
+   "category": "good",
+   "value": 63617,
+   "areaName": "Charnwood"
+ },
+ {
+   "code": "E07000130",
+   "category": "fair",
+   "value": 22344,
+   "areaName": "Charnwood"
+ },
+ {
+   "code": "E07000130",
+   "category": "bad",
+   "value": 6051,
+   "areaName": "Charnwood"
+ },
+ {
+   "code": "E07000130",
+   "category": "vBad",
+   "value": 1704,
+   "areaName": "Charnwood"
+ },
+ {
+   "code": "E07000131",
+   "category": "vGood",
+   "value": 50282,
+   "areaName": "Harborough"
+ },
+ {
+   "code": "E07000131",
+   "category": "good",
+   "value": 32717,
+   "areaName": "Harborough"
+ },
+ {
+   "code": "E07000131",
+   "category": "fair",
+   "value": 11016,
+   "areaName": "Harborough"
+ },
+ {
+   "code": "E07000131",
+   "category": "bad",
+   "value": 2850,
+   "areaName": "Harborough"
+ },
+ {
+   "code": "E07000131",
+   "category": "vBad",
+   "value": 762,
+   "areaName": "Harborough"
+ },
+ {
+   "code": "E07000132",
+   "category": "vGood",
+   "value": 52913,
+   "areaName": "Hinckley and Bosworth"
+ },
+ {
+   "code": "E07000132",
+   "category": "good",
+   "value": 40394,
+   "areaName": "Hinckley and Bosworth"
+ },
+ {
+   "code": "E07000132",
+   "category": "fair",
+   "value": 14967,
+   "areaName": "Hinckley and Bosworth"
+ },
+ {
+   "code": "E07000132",
+   "category": "bad",
+   "value": 4164,
+   "areaName": "Hinckley and Bosworth"
+ },
+ {
+   "code": "E07000132",
+   "category": "vBad",
+   "value": 1202,
+   "areaName": "Hinckley and Bosworth"
+ },
+ {
+   "code": "E07000133",
+   "category": "vGood",
+   "value": 24748,
+   "areaName": "Melton"
+ },
+ {
+   "code": "E07000133",
+   "category": "good",
+   "value": 18186,
+   "areaName": "Melton"
+ },
+ {
+   "code": "E07000133",
+   "category": "fair",
+   "value": 6757,
+   "areaName": "Melton"
+ },
+ {
+   "code": "E07000133",
+   "category": "bad",
+   "value": 1622,
+   "areaName": "Melton"
+ },
+ {
+   "code": "E07000133",
+   "category": "vBad",
+   "value": 439,
+   "areaName": "Melton"
+ },
+ {
+   "code": "E07000134",
+   "category": "vGood",
+   "value": 49180,
+   "areaName": "North West Leicestershire"
+ },
+ {
+   "code": "E07000134",
+   "category": "good",
+   "value": 36846,
+   "areaName": "North West Leicestershire"
+ },
+ {
+   "code": "E07000134",
+   "category": "fair",
+   "value": 13648,
+   "areaName": "North West Leicestershire"
+ },
+ {
+   "code": "E07000134",
+   "category": "bad",
+   "value": 3916,
+   "areaName": "North West Leicestershire"
+ },
+ {
+   "code": "E07000134",
+   "category": "vBad",
+   "value": 1116,
+   "areaName": "North West Leicestershire"
+ },
+ {
+   "code": "E07000135",
+   "category": "vGood",
+   "value": 26568,
+   "areaName": "Oadby and Wigston"
+ },
+ {
+   "code": "E07000135",
+   "category": "good",
+   "value": 20744,
+   "areaName": "Oadby and Wigston"
+ },
+ {
+   "code": "E07000135",
+   "category": "fair",
+   "value": 7661,
+   "areaName": "Oadby and Wigston"
+ },
+ {
+   "code": "E07000135",
+   "category": "bad",
+   "value": 2170,
+   "areaName": "Oadby and Wigston"
+ },
+ {
+   "code": "E07000135",
+   "category": "vBad",
+   "value": 604,
+   "areaName": "Oadby and Wigston"
+ },
+ {
+   "code": "E07000137",
+   "category": "vGood",
+   "value": 53934,
+   "areaName": "East Lindsey"
+ },
+ {
+   "code": "E07000137",
+   "category": "good",
+   "value": 50793,
+   "areaName": "East Lindsey"
+ },
+ {
+   "code": "E07000137",
+   "category": "fair",
+   "value": 25949,
+   "areaName": "East Lindsey"
+ },
+ {
+   "code": "E07000137",
+   "category": "bad",
+   "value": 8969,
+   "areaName": "East Lindsey"
+ },
+ {
+   "code": "E07000137",
+   "category": "vBad",
+   "value": 2651,
+   "areaName": "East Lindsey"
+ },
+ {
+   "code": "E07000138",
+   "category": "vGood",
+   "value": 45492,
+   "areaName": "Lincoln"
+ },
+ {
+   "code": "E07000138",
+   "category": "good",
+   "value": 38213,
+   "areaName": "Lincoln"
+ },
+ {
+   "code": "E07000138",
+   "category": "fair",
+   "value": 14444,
+   "areaName": "Lincoln"
+ },
+ {
+   "code": "E07000138",
+   "category": "bad",
+   "value": 4461,
+   "areaName": "Lincoln"
+ },
+ {
+   "code": "E07000138",
+   "category": "vBad",
+   "value": 1203,
+   "areaName": "Lincoln"
+ },
+ {
+   "code": "E07000139",
+   "category": "vGood",
+   "value": 54648,
+   "areaName": "North Kesteven"
+ },
+ {
+   "code": "E07000139",
+   "category": "good",
+   "value": 41825,
+   "areaName": "North Kesteven"
+ },
+ {
+   "code": "E07000139",
+   "category": "fair",
+   "value": 15872,
+   "areaName": "North Kesteven"
+ },
+ {
+   "code": "E07000139",
+   "category": "bad",
+   "value": 4509,
+   "areaName": "North Kesteven"
+ },
+ {
+   "code": "E07000139",
+   "category": "vBad",
+   "value": 1220,
+   "areaName": "North Kesteven"
+ },
+ {
+   "code": "E07000140",
+   "category": "vGood",
+   "value": 39386,
+   "areaName": "South Holland"
+ },
+ {
+   "code": "E07000140",
+   "category": "good",
+   "value": 35883,
+   "areaName": "South Holland"
+ },
+ {
+   "code": "E07000140",
+   "category": "fair",
+   "value": 14451,
+   "areaName": "South Holland"
+ },
+ {
+   "code": "E07000140",
+   "category": "bad",
+   "value": 4268,
+   "areaName": "South Holland"
+ },
+ {
+   "code": "E07000140",
+   "category": "vBad",
+   "value": 1134,
+   "areaName": "South Holland"
+ },
+ {
+   "code": "E07000141",
+   "category": "vGood",
+   "value": 65973,
+   "areaName": "South Kesteven"
+ },
+ {
+   "code": "E07000141",
+   "category": "good",
+   "value": 51176,
+   "areaName": "South Kesteven"
+ },
+ {
+   "code": "E07000141",
+   "category": "fair",
+   "value": 19418,
+   "areaName": "South Kesteven"
+ },
+ {
+   "code": "E07000141",
+   "category": "bad",
+   "value": 5456,
+   "areaName": "South Kesteven"
+ },
+ {
+   "code": "E07000141",
+   "category": "vBad",
+   "value": 1381,
+   "areaName": "South Kesteven"
+ },
+ {
+   "code": "E07000143",
+   "category": "vGood",
+   "value": 60208,
+   "areaName": "Breckland"
+ },
+ {
+   "code": "E07000143",
+   "category": "good",
+   "value": 52416,
+   "areaName": "Breckland"
+ },
+ {
+   "code": "E07000143",
+   "category": "fair",
+   "value": 21131,
+   "areaName": "Breckland"
+ },
+ {
+   "code": "E07000143",
+   "category": "bad",
+   "value": 6109,
+   "areaName": "Breckland"
+ },
+ {
+   "code": "E07000143",
+   "category": "vBad",
+   "value": 1613,
+   "areaName": "Breckland"
+ },
+ {
+   "code": "E07000144",
+   "category": "vGood",
+   "value": 59373,
+   "areaName": "Broadland"
+ },
+ {
+   "code": "E07000144",
+   "category": "good",
+   "value": 47997,
+   "areaName": "Broadland"
+ },
+ {
+   "code": "E07000144",
+   "category": "fair",
+   "value": 18304,
+   "areaName": "Broadland"
+ },
+ {
+   "code": "E07000144",
+   "category": "bad",
+   "value": 4810,
+   "areaName": "Broadland"
+ },
+ {
+   "code": "E07000144",
+   "category": "vBad",
+   "value": 1237,
+   "areaName": "Broadland"
+ },
+ {
+   "code": "E07000145",
+   "category": "vGood",
+   "value": 40086,
+   "areaName": "Great Yarmouth"
+ },
+ {
+   "code": "E07000145",
+   "category": "good",
+   "value": 35834,
+   "areaName": "Great Yarmouth"
+ },
+ {
+   "code": "E07000145",
+   "category": "fair",
+   "value": 16599,
+   "areaName": "Great Yarmouth"
+ },
+ {
+   "code": "E07000145",
+   "category": "bad",
+   "value": 5610,
+   "areaName": "Great Yarmouth"
+ },
+ {
+   "code": "E07000145",
+   "category": "vBad",
+   "value": 1619,
+   "areaName": "Great Yarmouth"
+ },
+ {
+   "code": "E07000146",
+   "category": "vGood",
+   "value": 64413,
+   "areaName": "Kings Lynn and West Norfolk"
+ },
+ {
+   "code": "E07000146",
+   "category": "good",
+   "value": 56961,
+   "areaName": "Kings Lynn and West Norfolk"
+ },
+ {
+   "code": "E07000146",
+   "category": "fair",
+   "value": 23789,
+   "areaName": "Kings Lynn and West Norfolk"
+ },
+ {
+   "code": "E07000146",
+   "category": "bad",
+   "value": 7106,
+   "areaName": "Kings Lynn and West Norfolk"
+ },
+ {
+   "code": "E07000146",
+   "category": "vBad",
+   "value": 2056,
+   "areaName": "Kings Lynn and West Norfolk"
+ },
+ {
+   "code": "E07000148",
+   "category": "vGood",
+   "value": 63232,
+   "areaName": "Norwich"
+ },
+ {
+   "code": "E07000148",
+   "category": "good",
+   "value": 52223,
+   "areaName": "Norwich"
+ },
+ {
+   "code": "E07000148",
+   "category": "fair",
+   "value": 20346,
+   "areaName": "Norwich"
+ },
+ {
+   "code": "E07000148",
+   "category": "bad",
+   "value": 6382,
+   "areaName": "Norwich"
+ },
+ {
+   "code": "E07000148",
+   "category": "vBad",
+   "value": 1738,
+   "areaName": "Norwich"
+ },
+ {
+   "code": "E07000149",
+   "category": "vGood",
+   "value": 66743,
+   "areaName": "South Norfolk"
+ },
+ {
+   "code": "E07000149",
+   "category": "good",
+   "value": 50340,
+   "areaName": "South Norfolk"
+ },
+ {
+   "code": "E07000149",
+   "category": "fair",
+   "value": 18701,
+   "areaName": "South Norfolk"
+ },
+ {
+   "code": "E07000149",
+   "category": "bad",
+   "value": 4877,
+   "areaName": "South Norfolk"
+ },
+ {
+   "code": "E07000149",
+   "category": "vBad",
+   "value": 1287,
+   "areaName": "South Norfolk"
+ },
+ {
+   "code": "E07000163",
+   "category": "vGood",
+   "value": 27225,
+   "areaName": "Craven"
+ },
+ {
+   "code": "E07000163",
+   "category": "good",
+   "value": 19981,
+   "areaName": "Craven"
+ },
+ {
+   "code": "E07000163",
+   "category": "fair",
+   "value": 7305,
+   "areaName": "Craven"
+ },
+ {
+   "code": "E07000163",
+   "category": "bad",
+   "value": 1886,
+   "areaName": "Craven"
+ },
+ {
+   "code": "E07000163",
+   "category": "vBad",
+   "value": 530,
+   "areaName": "Craven"
+ },
+ {
+   "code": "E07000164",
+   "category": "vGood",
+   "value": 43195,
+   "areaName": "Hambleton"
+ },
+ {
+   "code": "E07000164",
+   "category": "good",
+   "value": 31946,
+   "areaName": "Hambleton"
+ },
+ {
+   "code": "E07000164",
+   "category": "fair",
+   "value": 11542,
+   "areaName": "Hambleton"
+ },
+ {
+   "code": "E07000164",
+   "category": "bad",
+   "value": 3121,
+   "areaName": "Hambleton"
+ },
+ {
+   "code": "E07000164",
+   "category": "vBad",
+   "value": 886,
+   "areaName": "Hambleton"
+ },
+ {
+   "code": "E07000165",
+   "category": "vGood",
+   "value": 82888,
+   "areaName": "Harrogate"
+ },
+ {
+   "code": "E07000165",
+   "category": "good",
+   "value": 54506,
+   "areaName": "Harrogate"
+ },
+ {
+   "code": "E07000165",
+   "category": "fair",
+   "value": 18981,
+   "areaName": "Harrogate"
+ },
+ {
+   "code": "E07000165",
+   "category": "bad",
+   "value": 4971,
+   "areaName": "Harrogate"
+ },
+ {
+   "code": "E07000165",
+   "category": "vBad",
+   "value": 1321,
+   "areaName": "Harrogate"
+ },
+ {
+   "code": "E07000166",
+   "category": "vGood",
+   "value": 24862,
+   "areaName": "Richmondshire"
+ },
+ {
+   "code": "E07000166",
+   "category": "good",
+   "value": 16864,
+   "areaName": "Richmondshire"
+ },
+ {
+   "code": "E07000166",
+   "category": "fair",
+   "value": 6058,
+   "areaName": "Richmondshire"
+ },
+ {
+   "code": "E07000166",
+   "category": "bad",
+   "value": 1550,
+   "areaName": "Richmondshire"
+ },
+ {
+   "code": "E07000166",
+   "category": "vBad",
+   "value": 443,
+   "areaName": "Richmondshire"
+ },
+ {
+   "code": "E07000167",
+   "category": "vGood",
+   "value": 25123,
+   "areaName": "Ryedale"
+ },
+ {
+   "code": "E07000167",
+   "category": "good",
+   "value": 19488,
+   "areaName": "Ryedale"
+ },
+ {
+   "code": "E07000167",
+   "category": "fair",
+   "value": 7563,
+   "areaName": "Ryedale"
+ },
+ {
+   "code": "E07000167",
+   "category": "bad",
+   "value": 1952,
+   "areaName": "Ryedale"
+ },
+ {
+   "code": "E07000167",
+   "category": "vBad",
+   "value": 581,
+   "areaName": "Ryedale"
+ },
+ {
+   "code": "E07000169",
+   "category": "vGood",
+   "value": 44845,
+   "areaName": "Selby"
+ },
+ {
+   "code": "E07000169",
+   "category": "good",
+   "value": 31791,
+   "areaName": "Selby"
+ },
+ {
+   "code": "E07000169",
+   "category": "fair",
+   "value": 11351,
+   "areaName": "Selby"
+ },
+ {
+   "code": "E07000169",
+   "category": "bad",
+   "value": 3138,
+   "areaName": "Selby"
+ },
+ {
+   "code": "E07000169",
+   "category": "vBad",
+   "value": 863,
+   "areaName": "Selby"
+ },
+ {
+   "code": "E07000170",
+   "category": "vGood",
+   "value": 53556,
+   "areaName": "Ashfield"
+ },
+ {
+   "code": "E07000170",
+   "category": "good",
+   "value": 43876,
+   "areaName": "Ashfield"
+ },
+ {
+   "code": "E07000170",
+   "category": "fair",
+   "value": 19912,
+   "areaName": "Ashfield"
+ },
+ {
+   "code": "E07000170",
+   "category": "bad",
+   "value": 6947,
+   "areaName": "Ashfield"
+ },
+ {
+   "code": "E07000170",
+   "category": "vBad",
+   "value": 2009,
+   "areaName": "Ashfield"
+ },
+ {
+   "code": "E07000171",
+   "category": "vGood",
+   "value": 51679,
+   "areaName": "Bassetlaw"
+ },
+ {
+   "code": "E07000171",
+   "category": "good",
+   "value": 40938,
+   "areaName": "Bassetlaw"
+ },
+ {
+   "code": "E07000171",
+   "category": "fair",
+   "value": 17862,
+   "areaName": "Bassetlaw"
+ },
+ {
+   "code": "E07000171",
+   "category": "bad",
+   "value": 5618,
+   "areaName": "Bassetlaw"
+ },
+ {
+   "code": "E07000171",
+   "category": "vBad",
+   "value": 1707,
+   "areaName": "Bassetlaw"
+ },
+ {
+   "code": "E07000172",
+   "category": "vGood",
+   "value": 51331,
+   "areaName": "Broxtowe"
+ },
+ {
+   "code": "E07000172",
+   "category": "good",
+   "value": 38407,
+   "areaName": "Broxtowe"
+ },
+ {
+   "code": "E07000172",
+   "category": "fair",
+   "value": 15476,
+   "areaName": "Broxtowe"
+ },
+ {
+   "code": "E07000172",
+   "category": "bad",
+   "value": 4462,
+   "areaName": "Broxtowe"
+ },
+ {
+   "code": "E07000172",
+   "category": "vBad",
+   "value": 1264,
+   "areaName": "Broxtowe"
+ },
+ {
+   "code": "E07000173",
+   "category": "vGood",
+   "value": 53976,
+   "areaName": "Gedling"
+ },
+ {
+   "code": "E07000173",
+   "category": "good",
+   "value": 40850,
+   "areaName": "Gedling"
+ },
+ {
+   "code": "E07000173",
+   "category": "fair",
+   "value": 16183,
+   "areaName": "Gedling"
+ },
+ {
+   "code": "E07000173",
+   "category": "bad",
+   "value": 4840,
+   "areaName": "Gedling"
+ },
+ {
+   "code": "E07000173",
+   "category": "vBad",
+   "value": 1414,
+   "areaName": "Gedling"
+ },
+ {
+   "code": "E07000175",
+   "category": "vGood",
+   "value": 54954,
+   "areaName": "Newark and Sherwood"
+ },
+ {
+   "code": "E07000175",
+   "category": "good",
+   "value": 43072,
+   "areaName": "Newark and Sherwood"
+ },
+ {
+   "code": "E07000175",
+   "category": "fair",
+   "value": 17806,
+   "areaName": "Newark and Sherwood"
+ },
+ {
+   "code": "E07000175",
+   "category": "bad",
+   "value": 5553,
+   "areaName": "Newark and Sherwood"
+ },
+ {
+   "code": "E07000175",
+   "category": "vBad",
+   "value": 1571,
+   "areaName": "Newark and Sherwood"
+ },
+ {
+   "code": "E07000176",
+   "category": "vGood",
+   "value": 63235,
+   "areaName": "Rushcliffe"
+ },
+ {
+   "code": "E07000176",
+   "category": "good",
+   "value": 38139,
+   "areaName": "Rushcliffe"
+ },
+ {
+   "code": "E07000176",
+   "category": "fair",
+   "value": 13096,
+   "areaName": "Rushcliffe"
+ },
+ {
+   "code": "E07000176",
+   "category": "bad",
+   "value": 3629,
+   "areaName": "Rushcliffe"
+ },
+ {
+   "code": "E07000176",
+   "category": "vBad",
+   "value": 978,
+   "areaName": "Rushcliffe"
+ },
+ {
+   "code": "E07000177",
+   "category": "vGood",
+   "value": 81759,
+   "areaName": "Cherwell"
+ },
+ {
+   "code": "E07000177",
+   "category": "good",
+   "value": 55298,
+   "areaName": "Cherwell"
+ },
+ {
+   "code": "E07000177",
+   "category": "fair",
+   "value": 17966,
+   "areaName": "Cherwell"
+ },
+ {
+   "code": "E07000177",
+   "category": "bad",
+   "value": 4699,
+   "areaName": "Cherwell"
+ },
+ {
+   "code": "E07000177",
+   "category": "vBad",
+   "value": 1296,
+   "areaName": "Cherwell"
+ },
+ {
+   "code": "E07000178",
+   "category": "vGood",
+   "value": 88767,
+   "areaName": "Oxford"
+ },
+ {
+   "code": "E07000178",
+   "category": "good",
+   "value": 52154,
+   "areaName": "Oxford"
+ },
+ {
+   "code": "E07000178",
+   "category": "fair",
+   "value": 15703,
+   "areaName": "Oxford"
+ },
+ {
+   "code": "E07000178",
+   "category": "bad",
+   "value": 4221,
+   "areaName": "Oxford"
+ },
+ {
+   "code": "E07000178",
+   "category": "vBad",
+   "value": 1194,
+   "areaName": "Oxford"
+ },
+ {
+   "code": "E07000179",
+   "category": "vGood",
+   "value": 79641,
+   "areaName": "South Oxfordshire"
+ },
+ {
+   "code": "E07000179",
+   "category": "good",
+   "value": 49194,
+   "areaName": "South Oxfordshire"
+ },
+ {
+   "code": "E07000179",
+   "category": "fair",
+   "value": 15408,
+   "areaName": "South Oxfordshire"
+ },
+ {
+   "code": "E07000179",
+   "category": "bad",
+   "value": 3831,
+   "areaName": "South Oxfordshire"
+ },
+ {
+   "code": "E07000179",
+   "category": "vBad",
+   "value": 1011,
+   "areaName": "South Oxfordshire"
+ },
+ {
+   "code": "E07000180",
+   "category": "vGood",
+   "value": 72726,
+   "areaName": "Vale of White Horse"
+ },
+ {
+   "code": "E07000180",
+   "category": "good",
+   "value": 46700,
+   "areaName": "Vale of White Horse"
+ },
+ {
+   "code": "E07000180",
+   "category": "fair",
+   "value": 14989,
+   "areaName": "Vale of White Horse"
+ },
+ {
+   "code": "E07000180",
+   "category": "bad",
+   "value": 3585,
+   "areaName": "Vale of White Horse"
+ },
+ {
+   "code": "E07000180",
+   "category": "vBad",
+   "value": 913,
+   "areaName": "Vale of White Horse"
+ },
+ {
+   "code": "E07000181",
+   "category": "vGood",
+   "value": 58560,
+   "areaName": "West Oxfordshire"
+ },
+ {
+   "code": "E07000181",
+   "category": "good",
+   "value": 38834,
+   "areaName": "West Oxfordshire"
+ },
+ {
+   "code": "E07000181",
+   "category": "fair",
+   "value": 12766,
+   "areaName": "West Oxfordshire"
+ },
+ {
+   "code": "E07000181",
+   "category": "bad",
+   "value": 3198,
+   "areaName": "West Oxfordshire"
+ },
+ {
+   "code": "E07000181",
+   "category": "vBad",
+   "value": 879,
+   "areaName": "West Oxfordshire"
+ },
+ {
+   "code": "E07000187",
+   "category": "vGood",
+   "value": 55396,
+   "areaName": "Mendip"
+ },
+ {
+   "code": "E07000187",
+   "category": "good",
+   "value": 40072,
+   "areaName": "Mendip"
+ },
+ {
+   "code": "E07000187",
+   "category": "fair",
+   "value": 15165,
+   "areaName": "Mendip"
+ },
+ {
+   "code": "E07000187",
+   "category": "bad",
+   "value": 4312,
+   "areaName": "Mendip"
+ },
+ {
+   "code": "E07000187",
+   "category": "vBad",
+   "value": 1145,
+   "areaName": "Mendip"
+ },
+ {
+   "code": "E07000188",
+   "category": "vGood",
+   "value": 55925,
+   "areaName": "Sedgemoor"
+ },
+ {
+   "code": "E07000188",
+   "category": "good",
+   "value": 44639,
+   "areaName": "Sedgemoor"
+ },
+ {
+   "code": "E07000188",
+   "category": "fair",
+   "value": 17763,
+   "areaName": "Sedgemoor"
+ },
+ {
+   "code": "E07000188",
+   "category": "bad",
+   "value": 5484,
+   "areaName": "Sedgemoor"
+ },
+ {
+   "code": "E07000188",
+   "category": "vBad",
+   "value": 1532,
+   "areaName": "Sedgemoor"
+ },
+ {
+   "code": "E07000189",
+   "category": "vGood",
+   "value": 79386,
+   "areaName": "South Somerset"
+ },
+ {
+   "code": "E07000189",
+   "category": "good",
+   "value": 61211,
+   "areaName": "South Somerset"
+ },
+ {
+   "code": "E07000189",
+   "category": "fair",
+   "value": 23507,
+   "areaName": "South Somerset"
+ },
+ {
+   "code": "E07000189",
+   "category": "bad",
+   "value": 6637,
+   "areaName": "South Somerset"
+ },
+ {
+   "code": "E07000189",
+   "category": "vBad",
+   "value": 1930,
+   "areaName": "South Somerset"
+ },
+ {
+   "code": "E07000192",
+   "category": "vGood",
+   "value": 43559,
+   "areaName": "Cannock Chase"
+ },
+ {
+   "code": "E07000192",
+   "category": "good",
+   "value": 35779,
+   "areaName": "Cannock Chase"
+ },
+ {
+   "code": "E07000192",
+   "category": "fair",
+   "value": 14742,
+   "areaName": "Cannock Chase"
+ },
+ {
+   "code": "E07000192",
+   "category": "bad",
+   "value": 4955,
+   "areaName": "Cannock Chase"
+ },
+ {
+   "code": "E07000192",
+   "category": "vBad",
+   "value": 1485,
+   "areaName": "Cannock Chase"
+ },
+ {
+   "code": "E07000193",
+   "category": "vGood",
+   "value": 57717,
+   "areaName": "East Staffordshire"
+ },
+ {
+   "code": "E07000193",
+   "category": "good",
+   "value": 43989,
+   "areaName": "East Staffordshire"
+ },
+ {
+   "code": "E07000193",
+   "category": "fair",
+   "value": 16319,
+   "areaName": "East Staffordshire"
+ },
+ {
+   "code": "E07000193",
+   "category": "bad",
+   "value": 4637,
+   "areaName": "East Staffordshire"
+ },
+ {
+   "code": "E07000193",
+   "category": "vBad",
+   "value": 1357,
+   "areaName": "East Staffordshire"
+ },
+ {
+   "code": "E07000194",
+   "category": "vGood",
+   "value": 50143,
+   "areaName": "Lichfield"
+ },
+ {
+   "code": "E07000194",
+   "category": "good",
+   "value": 37056,
+   "areaName": "Lichfield"
+ },
+ {
+   "code": "E07000194",
+   "category": "fair",
+   "value": 13924,
+   "areaName": "Lichfield"
+ },
+ {
+   "code": "E07000194",
+   "category": "bad",
+   "value": 4162,
+   "areaName": "Lichfield"
+ },
+ {
+   "code": "E07000194",
+   "category": "vBad",
+   "value": 1151,
+   "areaName": "Lichfield"
+ },
+ {
+   "code": "E07000195",
+   "category": "vGood",
+   "value": 54189,
+   "areaName": "Newcastle-under-Lyme"
+ },
+ {
+   "code": "E07000195",
+   "category": "good",
+   "value": 43520,
+   "areaName": "Newcastle-under-Lyme"
+ },
+ {
+   "code": "E07000195",
+   "category": "fair",
+   "value": 17878,
+   "areaName": "Newcastle-under-Lyme"
+ },
+ {
+   "code": "E07000195",
+   "category": "bad",
+   "value": 5972,
+   "areaName": "Newcastle-under-Lyme"
+ },
+ {
+   "code": "E07000195",
+   "category": "vBad",
+   "value": 1741,
+   "areaName": "Newcastle-under-Lyme"
+ },
+ {
+   "code": "E07000196",
+   "category": "vGood",
+   "value": 49718,
+   "areaName": "South Staffordshire"
+ },
+ {
+   "code": "E07000196",
+   "category": "good",
+   "value": 39468,
+   "areaName": "South Staffordshire"
+ },
+ {
+   "code": "E07000196",
+   "category": "fair",
+   "value": 15421,
+   "areaName": "South Staffordshire"
+ },
+ {
+   "code": "E07000196",
+   "category": "bad",
+   "value": 4538,
+   "areaName": "South Staffordshire"
+ },
+ {
+   "code": "E07000196",
+   "category": "vBad",
+   "value": 1327,
+   "areaName": "South Staffordshire"
+ },
+ {
+   "code": "E07000197",
+   "category": "vGood",
+   "value": 64032,
+   "areaName": "Stafford"
+ },
+ {
+   "code": "E07000197",
+   "category": "good",
+   "value": 47929,
+   "areaName": "Stafford"
+ },
+ {
+   "code": "E07000197",
+   "category": "fair",
+   "value": 18200,
+   "areaName": "Stafford"
+ },
+ {
+   "code": "E07000197",
+   "category": "bad",
+   "value": 5203,
+   "areaName": "Stafford"
+ },
+ {
+   "code": "E07000197",
+   "category": "vBad",
+   "value": 1503,
+   "areaName": "Stafford"
+ },
+ {
+   "code": "E07000199",
+   "category": "vGood",
+   "value": 35798,
+   "areaName": "Tamworth"
+ },
+ {
+   "code": "E07000199",
+   "category": "good",
+   "value": 27433,
+   "areaName": "Tamworth"
+ },
+ {
+   "code": "E07000199",
+   "category": "fair",
+   "value": 10922,
+   "areaName": "Tamworth"
+ },
+ {
+   "code": "E07000199",
+   "category": "bad",
+   "value": 3434,
+   "areaName": "Tamworth"
+ },
+ {
+   "code": "E07000199",
+   "category": "vBad",
+   "value": 1060,
+   "areaName": "Tamworth"
+ },
+ {
+   "code": "E07000200",
+   "category": "vGood",
+   "value": 42772,
+   "areaName": "Babergh"
+ },
+ {
+   "code": "E07000200",
+   "category": "good",
+   "value": 33135,
+   "areaName": "Babergh"
+ },
+ {
+   "code": "E07000200",
+   "category": "fair",
+   "value": 12352,
+   "areaName": "Babergh"
+ },
+ {
+   "code": "E07000200",
+   "category": "bad",
+   "value": 3225,
+   "areaName": "Babergh"
+ },
+ {
+   "code": "E07000200",
+   "category": "vBad",
+   "value": 854,
+   "areaName": "Babergh"
+ },
+ {
+   "code": "E07000203",
+   "category": "vGood",
+   "value": 48205,
+   "areaName": "Mid Suffolk"
+ },
+ {
+   "code": "E07000203",
+   "category": "good",
+   "value": 36960,
+   "areaName": "Mid Suffolk"
+ },
+ {
+   "code": "E07000203",
+   "category": "fair",
+   "value": 13204,
+   "areaName": "Mid Suffolk"
+ },
+ {
+   "code": "E07000203",
+   "category": "bad",
+   "value": 3454,
+   "areaName": "Mid Suffolk"
+ },
+ {
+   "code": "E07000203",
+   "category": "vBad",
+   "value": 876,
+   "areaName": "Mid Suffolk"
+ },
+ {
+   "code": "E07000207",
+   "category": "vGood",
+   "value": 81741,
+   "areaName": "Elmbridge"
+ },
+ {
+   "code": "E07000207",
+   "category": "good",
+   "value": 40971,
+   "areaName": "Elmbridge"
+ },
+ {
+   "code": "E07000207",
+   "category": "fair",
+   "value": 12067,
+   "areaName": "Elmbridge"
+ },
+ {
+   "code": "E07000207",
+   "category": "bad",
+   "value": 3038,
+   "areaName": "Elmbridge"
+ },
+ {
+   "code": "E07000207",
+   "category": "vBad",
+   "value": 938,
+   "areaName": "Elmbridge"
+ },
+ {
+   "code": "E07000208",
+   "category": "vGood",
+   "value": 43925,
+   "areaName": "Epsom and Ewell"
+ },
+ {
+   "code": "E07000208",
+   "category": "good",
+   "value": 26427,
+   "areaName": "Epsom and Ewell"
+ },
+ {
+   "code": "E07000208",
+   "category": "fair",
+   "value": 8110,
+   "areaName": "Epsom and Ewell"
+ },
+ {
+   "code": "E07000208",
+   "category": "bad",
+   "value": 1940,
+   "areaName": "Epsom and Ewell"
+ },
+ {
+   "code": "E07000208",
+   "category": "vBad",
+   "value": 536,
+   "areaName": "Epsom and Ewell"
+ },
+ {
+   "code": "E07000209",
+   "category": "vGood",
+   "value": 78671,
+   "areaName": "Guildford"
+ },
+ {
+   "code": "E07000209",
+   "category": "good",
+   "value": 46690,
+   "areaName": "Guildford"
+ },
+ {
+   "code": "E07000209",
+   "category": "fair",
+   "value": 13717,
+   "areaName": "Guildford"
+ },
+ {
+   "code": "E07000209",
+   "category": "bad",
+   "value": 3531,
+   "areaName": "Guildford"
+ },
+ {
+   "code": "E07000209",
+   "category": "vBad",
+   "value": 1041,
+   "areaName": "Guildford"
+ },
+ {
+   "code": "E07000210",
+   "category": "vGood",
+   "value": 45952,
+   "areaName": "Mole Valley"
+ },
+ {
+   "code": "E07000210",
+   "category": "good",
+   "value": 28806,
+   "areaName": "Mole Valley"
+ },
+ {
+   "code": "E07000210",
+   "category": "fair",
+   "value": 9411,
+   "areaName": "Mole Valley"
+ },
+ {
+   "code": "E07000210",
+   "category": "bad",
+   "value": 2501,
+   "areaName": "Mole Valley"
+ },
+ {
+   "code": "E07000210",
+   "category": "vBad",
+   "value": 716,
+   "areaName": "Mole Valley"
+ },
+ {
+   "code": "E07000211",
+   "category": "vGood",
+   "value": 81155,
+   "areaName": "Reigate and Banstead"
+ },
+ {
+   "code": "E07000211",
+   "category": "good",
+   "value": 49031,
+   "areaName": "Reigate and Banstead"
+ },
+ {
+   "code": "E07000211",
+   "category": "fair",
+   "value": 15541,
+   "areaName": "Reigate and Banstead"
+ },
+ {
+   "code": "E07000211",
+   "category": "bad",
+   "value": 3979,
+   "areaName": "Reigate and Banstead"
+ },
+ {
+   "code": "E07000211",
+   "category": "vBad",
+   "value": 1140,
+   "areaName": "Reigate and Banstead"
+ },
+ {
+   "code": "E07000212",
+   "category": "vGood",
+   "value": 46128,
+   "areaName": "Runnymede"
+ },
+ {
+   "code": "E07000212",
+   "category": "good",
+   "value": 29446,
+   "areaName": "Runnymede"
+ },
+ {
+   "code": "E07000212",
+   "category": "fair",
+   "value": 9344,
+   "areaName": "Runnymede"
+ },
+ {
+   "code": "E07000212",
+   "category": "bad",
+   "value": 2487,
+   "areaName": "Runnymede"
+ },
+ {
+   "code": "E07000212",
+   "category": "vBad",
+   "value": 674,
+   "areaName": "Runnymede"
+ },
+ {
+   "code": "E07000213",
+   "category": "vGood",
+   "value": 51913,
+   "areaName": "Spelthorne"
+ },
+ {
+   "code": "E07000213",
+   "category": "good",
+   "value": 35432,
+   "areaName": "Spelthorne"
+ },
+ {
+   "code": "E07000213",
+   "category": "fair",
+   "value": 11642,
+   "areaName": "Spelthorne"
+ },
+ {
+   "code": "E07000213",
+   "category": "bad",
+   "value": 3072,
+   "areaName": "Spelthorne"
+ },
+ {
+   "code": "E07000213",
+   "category": "vBad",
+   "value": 897,
+   "areaName": "Spelthorne"
+ },
+ {
+   "code": "E07000215",
+   "category": "vGood",
+   "value": 45917,
+   "areaName": "Tandridge"
+ },
+ {
+   "code": "E07000215",
+   "category": "good",
+   "value": 28955,
+   "areaName": "Tandridge"
+ },
+ {
+   "code": "E07000215",
+   "category": "fair",
+   "value": 9685,
+   "areaName": "Tandridge"
+ },
+ {
+   "code": "E07000215",
+   "category": "bad",
+   "value": 2570,
+   "areaName": "Tandridge"
+ },
+ {
+   "code": "E07000215",
+   "category": "vBad",
+   "value": 750,
+   "areaName": "Tandridge"
+ },
+ {
+   "code": "E07000216",
+   "category": "vGood",
+   "value": 70073,
+   "areaName": "Waverley"
+ },
+ {
+   "code": "E07000216",
+   "category": "good",
+   "value": 41167,
+   "areaName": "Waverley"
+ },
+ {
+   "code": "E07000216",
+   "category": "fair",
+   "value": 12883,
+   "areaName": "Waverley"
+ },
+ {
+   "code": "E07000216",
+   "category": "bad",
+   "value": 3236,
+   "areaName": "Waverley"
+ },
+ {
+   "code": "E07000216",
+   "category": "vBad",
+   "value": 870,
+   "areaName": "Waverley"
+ },
+ {
+   "code": "E07000217",
+   "category": "vGood",
+   "value": 55399,
+   "areaName": "Woking"
+ },
+ {
+   "code": "E07000217",
+   "category": "good",
+   "value": 34440,
+   "areaName": "Woking"
+ },
+ {
+   "code": "E07000217",
+   "category": "fair",
+   "value": 10559,
+   "areaName": "Woking"
+ },
+ {
+   "code": "E07000217",
+   "category": "bad",
+   "value": 2776,
+   "areaName": "Woking"
+ },
+ {
+   "code": "E07000217",
+   "category": "vBad",
+   "value": 768,
+   "areaName": "Woking"
+ },
+ {
+   "code": "E07000218",
+   "category": "vGood",
+   "value": 29587,
+   "areaName": "North Warwickshire"
+ },
+ {
+   "code": "E07000218",
+   "category": "good",
+   "value": 22596,
+   "areaName": "North Warwickshire"
+ },
+ {
+   "code": "E07000218",
+   "category": "fair",
+   "value": 9157,
+   "areaName": "North Warwickshire"
+ },
+ {
+   "code": "E07000218",
+   "category": "bad",
+   "value": 2864,
+   "areaName": "North Warwickshire"
+ },
+ {
+   "code": "E07000218",
+   "category": "vBad",
+   "value": 830,
+   "areaName": "North Warwickshire"
+ },
+ {
+   "code": "E07000219",
+   "category": "vGood",
+   "value": 59458,
+   "areaName": "Nuneaton and Bedworth"
+ },
+ {
+   "code": "E07000219",
+   "category": "good",
+   "value": 47478,
+   "areaName": "Nuneaton and Bedworth"
+ },
+ {
+   "code": "E07000219",
+   "category": "fair",
+   "value": 19379,
+   "areaName": "Nuneaton and Bedworth"
+ },
+ {
+   "code": "E07000219",
+   "category": "bad",
+   "value": 6075,
+   "areaName": "Nuneaton and Bedworth"
+ },
+ {
+   "code": "E07000219",
+   "category": "vBad",
+   "value": 1807,
+   "areaName": "Nuneaton and Bedworth"
+ },
+ {
+   "code": "E07000220",
+   "category": "vGood",
+   "value": 55844,
+   "areaName": "Rugby"
+ },
+ {
+   "code": "E07000220",
+   "category": "good",
+   "value": 39851,
+   "areaName": "Rugby"
+ },
+ {
+   "code": "E07000220",
+   "category": "fair",
+   "value": 13777,
+   "areaName": "Rugby"
+ },
+ {
+   "code": "E07000220",
+   "category": "bad",
+   "value": 3887,
+   "areaName": "Rugby"
+ },
+ {
+   "code": "E07000220",
+   "category": "vBad",
+   "value": 1004,
+   "areaName": "Rugby"
+ },
+ {
+   "code": "E07000221",
+   "category": "vGood",
+   "value": 66877,
+   "areaName": "Stratford-on-Avon"
+ },
+ {
+   "code": "E07000221",
+   "category": "good",
+   "value": 46177,
+   "areaName": "Stratford-on-Avon"
+ },
+ {
+   "code": "E07000221",
+   "category": "fair",
+   "value": 16193,
+   "areaName": "Stratford-on-Avon"
+ },
+ {
+   "code": "E07000221",
+   "category": "bad",
+   "value": 4275,
+   "areaName": "Stratford-on-Avon"
+ },
+ {
+   "code": "E07000221",
+   "category": "vBad",
+   "value": 1203,
+   "areaName": "Stratford-on-Avon"
+ },
+ {
+   "code": "E07000222",
+   "category": "vGood",
+   "value": 77332,
+   "areaName": "Warwick"
+ },
+ {
+   "code": "E07000222",
+   "category": "good",
+   "value": 49195,
+   "areaName": "Warwick"
+ },
+ {
+   "code": "E07000222",
+   "category": "fair",
+   "value": 16306,
+   "areaName": "Warwick"
+ },
+ {
+   "code": "E07000222",
+   "category": "bad",
+   "value": 4393,
+   "areaName": "Warwick"
+ },
+ {
+   "code": "E07000222",
+   "category": "vBad",
+   "value": 1227,
+   "areaName": "Warwick"
+ },
+ {
+   "code": "E07000223",
+   "category": "vGood",
+   "value": 29272,
+   "areaName": "Adur"
+ },
+ {
+   "code": "E07000223",
+   "category": "good",
+   "value": 22573,
+   "areaName": "Adur"
+ },
+ {
+   "code": "E07000223",
+   "category": "fair",
+   "value": 9108,
+   "areaName": "Adur"
+ },
+ {
+   "code": "E07000223",
+   "category": "bad",
+   "value": 2800,
+   "areaName": "Adur"
+ },
+ {
+   "code": "E07000223",
+   "category": "vBad",
+   "value": 791,
+   "areaName": "Adur"
+ },
+ {
+   "code": "E07000224",
+   "category": "vGood",
+   "value": 71215,
+   "areaName": "Arun"
+ },
+ {
+   "code": "E07000224",
+   "category": "good",
+   "value": 60303,
+   "areaName": "Arun"
+ },
+ {
+   "code": "E07000224",
+   "category": "fair",
+   "value": 24419,
+   "areaName": "Arun"
+ },
+ {
+   "code": "E07000224",
+   "category": "bad",
+   "value": 7110,
+   "areaName": "Arun"
+ },
+ {
+   "code": "E07000224",
+   "category": "vBad",
+   "value": 1842,
+   "areaName": "Arun"
+ },
+ {
+   "code": "E07000225",
+   "category": "vGood",
+   "value": 60839,
+   "areaName": "Chichester"
+ },
+ {
+   "code": "E07000225",
+   "category": "good",
+   "value": 42522,
+   "areaName": "Chichester"
+ },
+ {
+   "code": "E07000225",
+   "category": "fair",
+   "value": 15366,
+   "areaName": "Chichester"
+ },
+ {
+   "code": "E07000225",
+   "category": "bad",
+   "value": 4178,
+   "areaName": "Chichester"
+ },
+ {
+   "code": "E07000225",
+   "category": "vBad",
+   "value": 1163,
+   "areaName": "Chichester"
+ },
+ {
+   "code": "E07000226",
+   "category": "vGood",
+   "value": 58152,
+   "areaName": "Crawley"
+ },
+ {
+   "code": "E07000226",
+   "category": "good",
+   "value": 41451,
+   "areaName": "Crawley"
+ },
+ {
+   "code": "E07000226",
+   "category": "fair",
+   "value": 13754,
+   "areaName": "Crawley"
+ },
+ {
+   "code": "E07000226",
+   "category": "bad",
+   "value": 3975,
+   "areaName": "Crawley"
+ },
+ {
+   "code": "E07000226",
+   "category": "vBad",
+   "value": 1161,
+   "areaName": "Crawley"
+ },
+ {
+   "code": "E07000227",
+   "category": "vGood",
+   "value": 75551,
+   "areaName": "Horsham"
+ },
+ {
+   "code": "E07000227",
+   "category": "good",
+   "value": 49827,
+   "areaName": "Horsham"
+ },
+ {
+   "code": "E07000227",
+   "category": "fair",
+   "value": 16218,
+   "areaName": "Horsham"
+ },
+ {
+   "code": "E07000227",
+   "category": "bad",
+   "value": 4067,
+   "areaName": "Horsham"
+ },
+ {
+   "code": "E07000227",
+   "category": "vBad",
+   "value": 1115,
+   "areaName": "Horsham"
+ },
+ {
+   "code": "E07000228",
+   "category": "vGood",
+   "value": 80741,
+   "areaName": "Mid Sussex"
+ },
+ {
+   "code": "E07000228",
+   "category": "good",
+   "value": 50460,
+   "areaName": "Mid Sussex"
+ },
+ {
+   "code": "E07000228",
+   "category": "fair",
+   "value": 16029,
+   "areaName": "Mid Sussex"
+ },
+ {
+   "code": "E07000228",
+   "category": "bad",
+   "value": 4180,
+   "areaName": "Mid Sussex"
+ },
+ {
+   "code": "E07000228",
+   "category": "vBad",
+   "value": 1156,
+   "areaName": "Mid Sussex"
+ },
+ {
+   "code": "E07000229",
+   "category": "vGood",
+   "value": 50406,
+   "areaName": "Worthing"
+ },
+ {
+   "code": "E07000229",
+   "category": "good",
+   "value": 39682,
+   "areaName": "Worthing"
+ },
+ {
+   "code": "E07000229",
+   "category": "fair",
+   "value": 15418,
+   "areaName": "Worthing"
+ },
+ {
+   "code": "E07000229",
+   "category": "bad",
+   "value": 4526,
+   "areaName": "Worthing"
+ },
+ {
+   "code": "E07000229",
+   "category": "vBad",
+   "value": 1308,
+   "areaName": "Worthing"
+ },
+ {
+   "code": "E07000234",
+   "category": "vGood",
+   "value": 50253,
+   "areaName": "Bromsgrove"
+ },
+ {
+   "code": "E07000234",
+   "category": "good",
+   "value": 32850,
+   "areaName": "Bromsgrove"
+ },
+ {
+   "code": "E07000234",
+   "category": "fair",
+   "value": 11705,
+   "areaName": "Bromsgrove"
+ },
+ {
+   "code": "E07000234",
+   "category": "bad",
+   "value": 3329,
+   "areaName": "Bromsgrove"
+ },
+ {
+   "code": "E07000234",
+   "category": "vBad",
+   "value": 1046,
+   "areaName": "Bromsgrove"
+ },
+ {
+   "code": "E07000235",
+   "category": "vGood",
+   "value": 36926,
+   "areaName": "Malvern Hills"
+ },
+ {
+   "code": "E07000235",
+   "category": "good",
+   "value": 27733,
+   "areaName": "Malvern Hills"
+ },
+ {
+   "code": "E07000235",
+   "category": "fair",
+   "value": 10843,
+   "areaName": "Malvern Hills"
+ },
+ {
+   "code": "E07000235",
+   "category": "bad",
+   "value": 3096,
+   "areaName": "Malvern Hills"
+ },
+ {
+   "code": "E07000235",
+   "category": "vBad",
+   "value": 888,
+   "areaName": "Malvern Hills"
+ },
+ {
+   "code": "E07000236",
+   "category": "vGood",
+   "value": 40480,
+   "areaName": "Redditch"
+ },
+ {
+   "code": "E07000236",
+   "category": "good",
+   "value": 30616,
+   "areaName": "Redditch"
+ },
+ {
+   "code": "E07000236",
+   "category": "fair",
+   "value": 11431,
+   "areaName": "Redditch"
+ },
+ {
+   "code": "E07000236",
+   "category": "bad",
+   "value": 3547,
+   "areaName": "Redditch"
+ },
+ {
+   "code": "E07000236",
+   "category": "vBad",
+   "value": 964,
+   "areaName": "Redditch"
+ },
+ {
+   "code": "E07000237",
+   "category": "vGood",
+   "value": 49220,
+   "areaName": "Worcester"
+ },
+ {
+   "code": "E07000237",
+   "category": "good",
+   "value": 36463,
+   "areaName": "Worcester"
+ },
+ {
+   "code": "E07000237",
+   "category": "fair",
+   "value": 13209,
+   "areaName": "Worcester"
+ },
+ {
+   "code": "E07000237",
+   "category": "bad",
+   "value": 3882,
+   "areaName": "Worcester"
+ },
+ {
+   "code": "E07000237",
+   "category": "vBad",
+   "value": 1098,
+   "areaName": "Worcester"
+ },
+ {
+   "code": "E07000238",
+   "category": "vGood",
+   "value": 62836,
+   "areaName": "Wychavon"
+ },
+ {
+   "code": "E07000238",
+   "category": "good",
+   "value": 46380,
+   "areaName": "Wychavon"
+ },
+ {
+   "code": "E07000238",
+   "category": "fair",
+   "value": 17163,
+   "areaName": "Wychavon"
+ },
+ {
+   "code": "E07000238",
+   "category": "bad",
+   "value": 4829,
+   "areaName": "Wychavon"
+ },
+ {
+   "code": "E07000238",
+   "category": "vBad",
+   "value": 1284,
+   "areaName": "Wychavon"
+ },
+ {
+   "code": "E07000239",
+   "category": "vGood",
+   "value": 44004,
+   "areaName": "Wyre Forest"
+ },
+ {
+   "code": "E07000239",
+   "category": "good",
+   "value": 36337,
+   "areaName": "Wyre Forest"
+ },
+ {
+   "code": "E07000239",
+   "category": "fair",
+   "value": 15024,
+   "areaName": "Wyre Forest"
+ },
+ {
+   "code": "E07000239",
+   "category": "bad",
+   "value": 4818,
+   "areaName": "Wyre Forest"
+ },
+ {
+   "code": "E07000239",
+   "category": "vBad",
+   "value": 1424,
+   "areaName": "Wyre Forest"
+ },
+ {
+   "code": "E07000240",
+   "category": "vGood",
+   "value": 85242,
+   "areaName": "St Albans"
+ },
+ {
+   "code": "E07000240",
+   "category": "good",
+   "value": 44893,
+   "areaName": "St Albans"
+ },
+ {
+   "code": "E07000240",
+   "category": "fair",
+   "value": 13557,
+   "areaName": "St Albans"
+ },
+ {
+   "code": "E07000240",
+   "category": "bad",
+   "value": 3520,
+   "areaName": "St Albans"
+ },
+ {
+   "code": "E07000240",
+   "category": "vBad",
+   "value": 955,
+   "areaName": "St Albans"
+ },
+ {
+   "code": "E07000241",
+   "category": "vGood",
+   "value": 61896,
+   "areaName": "Welwyn Hatfield"
+ },
+ {
+   "code": "E07000241",
+   "category": "good",
+   "value": 40200,
+   "areaName": "Welwyn Hatfield"
+ },
+ {
+   "code": "E07000241",
+   "category": "fair",
+   "value": 13130,
+   "areaName": "Welwyn Hatfield"
+ },
+ {
+   "code": "E07000241",
+   "category": "bad",
+   "value": 3664,
+   "areaName": "Welwyn Hatfield"
+ },
+ {
+   "code": "E07000241",
+   "category": "vBad",
+   "value": 946,
+   "areaName": "Welwyn Hatfield"
+ },
+ {
+   "code": "E07000242",
+   "category": "vGood",
+   "value": 81057,
+   "areaName": "East Hertfordshire"
+ },
+ {
+   "code": "E07000242",
+   "category": "good",
+   "value": 48853,
+   "areaName": "East Hertfordshire"
+ },
+ {
+   "code": "E07000242",
+   "category": "fair",
+   "value": 15274,
+   "areaName": "East Hertfordshire"
+ },
+ {
+   "code": "E07000242",
+   "category": "bad",
+   "value": 3916,
+   "areaName": "East Hertfordshire"
+ },
+ {
+   "code": "E07000242",
+   "category": "vBad",
+   "value": 1055,
+   "areaName": "East Hertfordshire"
+ },
+ {
+   "code": "E07000243",
+   "category": "vGood",
+   "value": 42673,
+   "areaName": "Stevenage"
+ },
+ {
+   "code": "E07000243",
+   "category": "good",
+   "value": 31339,
+   "areaName": "Stevenage"
+ },
+ {
+   "code": "E07000243",
+   "category": "fair",
+   "value": 11298,
+   "areaName": "Stevenage"
+ },
+ {
+   "code": "E07000243",
+   "category": "bad",
+   "value": 3298,
+   "areaName": "Stevenage"
+ },
+ {
+   "code": "E07000243",
+   "category": "vBad",
+   "value": 887,
+   "areaName": "Stevenage"
+ },
+ {
+   "code": "E07000244",
+   "category": "vGood",
+   "value": 106604,
+   "areaName": "East Suffolk"
+ },
+ {
+   "code": "E07000244",
+   "category": "good",
+   "value": 88502,
+   "areaName": "East Suffolk"
+ },
+ {
+   "code": "E07000244",
+   "category": "fair",
+   "value": 36851,
+   "areaName": "East Suffolk"
+ },
+ {
+   "code": "E07000244",
+   "category": "bad",
+   "value": 11148,
+   "areaName": "East Suffolk"
+ },
+ {
+   "code": "E07000244",
+   "category": "vBad",
+   "value": 2951,
+   "areaName": "East Suffolk"
+ },
+ {
+   "code": "E07000245",
+   "category": "vGood",
+   "value": 85843,
+   "areaName": "West Suffolk"
+ },
+ {
+   "code": "E07000245",
+   "category": "good",
+   "value": 63799,
+   "areaName": "West Suffolk"
+ },
+ {
+   "code": "E07000245",
+   "category": "fair",
+   "value": 22468,
+   "areaName": "West Suffolk"
+ },
+ {
+   "code": "E07000245",
+   "category": "bad",
+   "value": 6150,
+   "areaName": "West Suffolk"
+ },
+ {
+   "code": "E07000245",
+   "category": "vBad",
+   "value": 1688,
+   "areaName": "West Suffolk"
+ },
+ {
+   "code": "E07000246",
+   "category": "vGood",
+   "value": 72178,
+   "areaName": "Somerset West and Taunton"
+ },
+ {
+   "code": "E07000246",
+   "category": "good",
+   "value": 55069,
+   "areaName": "Somerset West and Taunton"
+ },
+ {
+   "code": "E07000246",
+   "category": "fair",
+   "value": 22010,
+   "areaName": "Somerset West and Taunton"
+ },
+ {
+   "code": "E07000246",
+   "category": "bad",
+   "value": 6513,
+   "areaName": "Somerset West and Taunton"
+ },
+ {
+   "code": "E07000246",
+   "category": "vBad",
+   "value": 1675,
+   "areaName": "Somerset West and Taunton"
+ },
+ {
+   "code": "E08000002",
+   "category": "vGood",
+   "value": 93456,
+   "areaName": "Bury"
+ },
+ {
+   "code": "E08000002",
+   "category": "good",
+   "value": 63919,
+   "areaName": "Bury"
+ },
+ {
+   "code": "E08000002",
+   "category": "fair",
+   "value": 25700,
+   "areaName": "Bury"
+ },
+ {
+   "code": "E08000002",
+   "category": "bad",
+   "value": 8416,
+   "areaName": "Bury"
+ },
+ {
+   "code": "E08000002",
+   "category": "vBad",
+   "value": 2359,
+   "areaName": "Bury"
+ },
+ {
+   "code": "E08000003",
+   "category": "vGood",
+   "value": 280547,
+   "areaName": "Manchester"
+ },
+ {
+   "code": "E08000003",
+   "category": "good",
+   "value": 173458,
+   "areaName": "Manchester"
+ },
+ {
+   "code": "E08000003",
+   "category": "fair",
+   "value": 64955,
+   "areaName": "Manchester"
+ },
+ {
+   "code": "E08000003",
+   "category": "bad",
+   "value": 24915,
+   "areaName": "Manchester"
+ },
+ {
+   "code": "E08000003",
+   "category": "vBad",
+   "value": 8063,
+   "areaName": "Manchester"
+ },
+ {
+   "code": "E08000004",
+   "category": "vGood",
+   "value": 113590,
+   "areaName": "Oldham"
+ },
+ {
+   "code": "E08000004",
+   "category": "good",
+   "value": 79548,
+   "areaName": "Oldham"
+ },
+ {
+   "code": "E08000004",
+   "category": "fair",
+   "value": 33754,
+   "areaName": "Oldham"
+ },
+ {
+   "code": "E08000004",
+   "category": "bad",
+   "value": 11724,
+   "areaName": "Oldham"
+ },
+ {
+   "code": "E08000004",
+   "category": "vBad",
+   "value": 3472,
+   "areaName": "Oldham"
+ },
+ {
+   "code": "E08000005",
+   "category": "vGood",
+   "value": 104957,
+   "areaName": "Rochdale"
+ },
+ {
+   "code": "E08000005",
+   "category": "good",
+   "value": 73713,
+   "areaName": "Rochdale"
+ },
+ {
+   "code": "E08000005",
+   "category": "fair",
+   "value": 30753,
+   "areaName": "Rochdale"
+ },
+ {
+   "code": "E08000005",
+   "category": "bad",
+   "value": 11214,
+   "areaName": "Rochdale"
+ },
+ {
+   "code": "E08000005",
+   "category": "vBad",
+   "value": 3136,
+   "areaName": "Rochdale"
+ },
+ {
+   "code": "E08000006",
+   "category": "vGood",
+   "value": 134447,
+   "areaName": "Salford"
+ },
+ {
+   "code": "E08000006",
+   "category": "good",
+   "value": 86140,
+   "areaName": "Salford"
+ },
+ {
+   "code": "E08000006",
+   "category": "fair",
+   "value": 33249,
+   "areaName": "Salford"
+ },
+ {
+   "code": "E08000006",
+   "category": "bad",
+   "value": 12406,
+   "areaName": "Salford"
+ },
+ {
+   "code": "E08000006",
+   "category": "vBad",
+   "value": 3681,
+   "areaName": "Salford"
+ },
+ {
+   "code": "E08000007",
+   "category": "vGood",
+   "value": 145602,
+   "areaName": "Stockport"
+ },
+ {
+   "code": "E08000007",
+   "category": "good",
+   "value": 96317,
+   "areaName": "Stockport"
+ },
+ {
+   "code": "E08000007",
+   "category": "fair",
+   "value": 37255,
+   "areaName": "Stockport"
+ },
+ {
+   "code": "E08000007",
+   "category": "bad",
+   "value": 12017,
+   "areaName": "Stockport"
+ },
+ {
+   "code": "E08000007",
+   "category": "vBad",
+   "value": 3582,
+   "areaName": "Stockport"
+ },
+ {
+   "code": "E08000008",
+   "category": "vGood",
+   "value": 104704,
+   "areaName": "Tameside"
+ },
+ {
+   "code": "E08000008",
+   "category": "good",
+   "value": 77895,
+   "areaName": "Tameside"
+ },
+ {
+   "code": "E08000008",
+   "category": "fair",
+   "value": 33204,
+   "areaName": "Tameside"
+ },
+ {
+   "code": "E08000008",
+   "category": "bad",
+   "value": 11821,
+   "areaName": "Tameside"
+ },
+ {
+   "code": "E08000008",
+   "category": "vBad",
+   "value": 3447,
+   "areaName": "Tameside"
+ },
+ {
+   "code": "E08000009",
+   "category": "vGood",
+   "value": 124806,
+   "areaName": "Trafford"
+ },
+ {
+   "code": "E08000009",
+   "category": "good",
+   "value": 72803,
+   "areaName": "Trafford"
+ },
+ {
+   "code": "E08000009",
+   "category": "fair",
+   "value": 26515,
+   "areaName": "Trafford"
+ },
+ {
+   "code": "E08000009",
+   "category": "bad",
+   "value": 8406,
+   "areaName": "Trafford"
+ },
+ {
+   "code": "E08000009",
+   "category": "vBad",
+   "value": 2522,
+   "areaName": "Trafford"
+ },
+ {
+   "code": "E08000010",
+   "category": "vGood",
+   "value": 152373,
+   "areaName": "Wigan"
+ },
+ {
+   "code": "E08000010",
+   "category": "good",
+   "value": 110193,
+   "areaName": "Wigan"
+ },
+ {
+   "code": "E08000010",
+   "category": "fair",
+   "value": 46214,
+   "areaName": "Wigan"
+ },
+ {
+   "code": "E08000010",
+   "category": "bad",
+   "value": 16085,
+   "areaName": "Wigan"
+ },
+ {
+   "code": "E08000010",
+   "category": "vBad",
+   "value": 4466,
+   "areaName": "Wigan"
+ },
+ {
+   "code": "E08000011",
+   "category": "vGood",
+   "value": 73079,
+   "areaName": "Knowsley"
+ },
+ {
+   "code": "E08000011",
+   "category": "good",
+   "value": 46569,
+   "areaName": "Knowsley"
+ },
+ {
+   "code": "E08000011",
+   "category": "fair",
+   "value": 21561,
+   "areaName": "Knowsley"
+ },
+ {
+   "code": "E08000011",
+   "category": "bad",
+   "value": 10037,
+   "areaName": "Knowsley"
+ },
+ {
+   "code": "E08000011",
+   "category": "vBad",
+   "value": 3273,
+   "areaName": "Knowsley"
+ },
+ {
+   "code": "E08000012",
+   "category": "vGood",
+   "value": 231830,
+   "areaName": "Liverpool"
+ },
+ {
+   "code": "E08000012",
+   "category": "good",
+   "value": 150332,
+   "areaName": "Liverpool"
+ },
+ {
+   "code": "E08000012",
+   "category": "fair",
+   "value": 65142,
+   "areaName": "Liverpool"
+ },
+ {
+   "code": "E08000012",
+   "category": "bad",
+   "value": 29077,
+   "areaName": "Liverpool"
+ },
+ {
+   "code": "E08000012",
+   "category": "vBad",
+   "value": 9707,
+   "areaName": "Liverpool"
+ },
+ {
+   "code": "E08000013",
+   "category": "vGood",
+   "value": 82747,
+   "areaName": "St. Helens"
+ },
+ {
+   "code": "E08000013",
+   "category": "good",
+   "value": 59974,
+   "areaName": "St. Helens"
+ },
+ {
+   "code": "E08000013",
+   "category": "fair",
+   "value": 26762,
+   "areaName": "St. Helens"
+ },
+ {
+   "code": "E08000013",
+   "category": "bad",
+   "value": 10591,
+   "areaName": "St. Helens"
+ },
+ {
+   "code": "E08000013",
+   "category": "vBad",
+   "value": 3171,
+   "areaName": "St. Helens"
+ },
+ {
+   "code": "E08000014",
+   "category": "vGood",
+   "value": 129449,
+   "areaName": "Sefton"
+ },
+ {
+   "code": "E08000014",
+   "category": "good",
+   "value": 90164,
+   "areaName": "Sefton"
+ },
+ {
+   "code": "E08000014",
+   "category": "fair",
+   "value": 40057,
+   "areaName": "Sefton"
+ },
+ {
+   "code": "E08000014",
+   "category": "bad",
+   "value": 14953,
+   "areaName": "Sefton"
+ },
+ {
+   "code": "E08000014",
+   "category": "vBad",
+   "value": 4610,
+   "areaName": "Sefton"
+ },
+ {
+   "code": "E08000015",
+   "category": "vGood",
+   "value": 148845,
+   "areaName": "Wirral"
+ },
+ {
+   "code": "E08000015",
+   "category": "good",
+   "value": 102703,
+   "areaName": "Wirral"
+ },
+ {
+   "code": "E08000015",
+   "category": "fair",
+   "value": 45385,
+   "areaName": "Wirral"
+ },
+ {
+   "code": "E08000015",
+   "category": "bad",
+   "value": 17840,
+   "areaName": "Wirral"
+ },
+ {
+   "code": "E08000015",
+   "category": "vBad",
+   "value": 5426,
+   "areaName": "Wirral"
+ },
+ {
+   "code": "E08000016",
+   "category": "vGood",
+   "value": 106010,
+   "areaName": "Barnsley"
+ },
+ {
+   "code": "E08000016",
+   "category": "good",
+   "value": 82192,
+   "areaName": "Barnsley"
+ },
+ {
+   "code": "E08000016",
+   "category": "fair",
+   "value": 38001,
+   "areaName": "Barnsley"
+ },
+ {
+   "code": "E08000016",
+   "category": "bad",
+   "value": 14252,
+   "areaName": "Barnsley"
+ },
+ {
+   "code": "E08000016",
+   "category": "vBad",
+   "value": 4117,
+   "areaName": "Barnsley"
+ },
+ {
+   "code": "E08000017",
+   "category": "vGood",
+   "value": 136540,
+   "areaName": "Doncaster"
+ },
+ {
+   "code": "E08000017",
+   "category": "good",
+   "value": 105090,
+   "areaName": "Doncaster"
+ },
+ {
+   "code": "E08000017",
+   "category": "fair",
+   "value": 45337,
+   "areaName": "Doncaster"
+ },
+ {
+   "code": "E08000017",
+   "category": "bad",
+   "value": 16192,
+   "areaName": "Doncaster"
+ },
+ {
+   "code": "E08000017",
+   "category": "vBad",
+   "value": 4945,
+   "areaName": "Doncaster"
+ },
+ {
+   "code": "E08000018",
+   "category": "vGood",
+   "value": 117359,
+   "areaName": "Rotherham"
+ },
+ {
+   "code": "E08000018",
+   "category": "good",
+   "value": 90450,
+   "areaName": "Rotherham"
+ },
+ {
+   "code": "E08000018",
+   "category": "fair",
+   "value": 39277,
+   "areaName": "Rotherham"
+ },
+ {
+   "code": "E08000018",
+   "category": "bad",
+   "value": 14400,
+   "areaName": "Rotherham"
+ },
+ {
+   "code": "E08000018",
+   "category": "vBad",
+   "value": 4321,
+   "areaName": "Rotherham"
+ },
+ {
+   "code": "E08000021",
+   "category": "vGood",
+   "value": 145219,
+   "areaName": "Newcastle upon Tyne"
+ },
+ {
+   "code": "E08000021",
+   "category": "good",
+   "value": 96614,
+   "areaName": "Newcastle upon Tyne"
+ },
+ {
+   "code": "E08000021",
+   "category": "fair",
+   "value": 39307,
+   "areaName": "Newcastle upon Tyne"
+ },
+ {
+   "code": "E08000021",
+   "category": "bad",
+   "value": 14525,
+   "areaName": "Newcastle upon Tyne"
+ },
+ {
+   "code": "E08000021",
+   "category": "vBad",
+   "value": 4461,
+   "areaName": "Newcastle upon Tyne"
+ },
+ {
+   "code": "E08000022",
+   "category": "vGood",
+   "value": 96170,
+   "areaName": "North Tyneside"
+ },
+ {
+   "code": "E08000022",
+   "category": "good",
+   "value": 69597,
+   "areaName": "North Tyneside"
+ },
+ {
+   "code": "E08000022",
+   "category": "fair",
+   "value": 30204,
+   "areaName": "North Tyneside"
+ },
+ {
+   "code": "E08000022",
+   "category": "bad",
+   "value": 10188,
+   "areaName": "North Tyneside"
+ },
+ {
+   "code": "E08000022",
+   "category": "vBad",
+   "value": 2806,
+   "areaName": "North Tyneside"
+ },
+ {
+   "code": "E08000023",
+   "category": "vGood",
+   "value": 64656,
+   "areaName": "South Tyneside"
+ },
+ {
+   "code": "E08000023",
+   "category": "good",
+   "value": 48869,
+   "areaName": "South Tyneside"
+ },
+ {
+   "code": "E08000023",
+   "category": "fair",
+   "value": 22930,
+   "areaName": "South Tyneside"
+ },
+ {
+   "code": "E08000023",
+   "category": "bad",
+   "value": 8709,
+   "areaName": "South Tyneside"
+ },
+ {
+   "code": "E08000023",
+   "category": "vBad",
+   "value": 2614,
+   "areaName": "South Tyneside"
+ },
+ {
+   "code": "E08000024",
+   "category": "vGood",
+   "value": 118258,
+   "areaName": "Sunderland"
+ },
+ {
+   "code": "E08000024",
+   "category": "good",
+   "value": 90486,
+   "areaName": "Sunderland"
+ },
+ {
+   "code": "E08000024",
+   "category": "fair",
+   "value": 43507,
+   "areaName": "Sunderland"
+ },
+ {
+   "code": "E08000024",
+   "category": "bad",
+   "value": 16834,
+   "areaName": "Sunderland"
+ },
+ {
+   "code": "E08000024",
+   "category": "vBad",
+   "value": 5086,
+   "areaName": "Sunderland"
+ },
+ {
+   "code": "E08000025",
+   "category": "vGood",
+   "value": 544500,
+   "areaName": "Birmingham"
+ },
+ {
+   "code": "E08000025",
+   "category": "good",
+   "value": 380993,
+   "areaName": "Birmingham"
+ },
+ {
+   "code": "E08000025",
+   "category": "fair",
+   "value": 150801,
+   "areaName": "Birmingham"
+ },
+ {
+   "code": "E08000025",
+   "category": "bad",
+   "value": 51755,
+   "areaName": "Birmingham"
+ },
+ {
+   "code": "E08000025",
+   "category": "vBad",
+   "value": 16870,
+   "areaName": "Birmingham"
+ },
+ {
+   "code": "E08000026",
+   "category": "vGood",
+   "value": 167651,
+   "areaName": "Coventry"
+ },
+ {
+   "code": "E08000026",
+   "category": "good",
+   "value": 116149,
+   "areaName": "Coventry"
+ },
+ {
+   "code": "E08000026",
+   "category": "fair",
+   "value": 43030,
+   "areaName": "Coventry"
+ },
+ {
+   "code": "E08000026",
+   "category": "bad",
+   "value": 14126,
+   "areaName": "Coventry"
+ },
+ {
+   "code": "E08000026",
+   "category": "vBad",
+   "value": 4369,
+   "areaName": "Coventry"
+ },
+ {
+   "code": "E08000027",
+   "category": "vGood",
+   "value": 141846,
+   "areaName": "Dudley"
+ },
+ {
+   "code": "E08000027",
+   "category": "good",
+   "value": 114604,
+   "areaName": "Dudley"
+ },
+ {
+   "code": "E08000027",
+   "category": "fair",
+   "value": 47402,
+   "areaName": "Dudley"
+ },
+ {
+   "code": "E08000027",
+   "category": "bad",
+   "value": 15299,
+   "areaName": "Dudley"
+ },
+ {
+   "code": "E08000027",
+   "category": "vBad",
+   "value": 4337,
+   "areaName": "Dudley"
+ },
+ {
+   "code": "E08000028",
+   "category": "vGood",
+   "value": 153337,
+   "areaName": "Sandwell"
+ },
+ {
+   "code": "E08000028",
+   "category": "good",
+   "value": 116762,
+   "areaName": "Sandwell"
+ },
+ {
+   "code": "E08000028",
+   "category": "fair",
+   "value": 49048,
+   "areaName": "Sandwell"
+ },
+ {
+   "code": "E08000028",
+   "category": "bad",
+   "value": 17472,
+   "areaName": "Sandwell"
+ },
+ {
+   "code": "E08000028",
+   "category": "vBad",
+   "value": 5214,
+   "areaName": "Sandwell"
+ },
+ {
+   "code": "E08000029",
+   "category": "vGood",
+   "value": 106508,
+   "areaName": "Solihull"
+ },
+ {
+   "code": "E08000029",
+   "category": "good",
+   "value": 72191,
+   "areaName": "Solihull"
+ },
+ {
+   "code": "E08000029",
+   "category": "fair",
+   "value": 26816,
+   "areaName": "Solihull"
+ },
+ {
+   "code": "E08000029",
+   "category": "bad",
+   "value": 8293,
+   "areaName": "Solihull"
+ },
+ {
+   "code": "E08000029",
+   "category": "vBad",
+   "value": 2432,
+   "areaName": "Solihull"
+ },
+ {
+   "code": "E08000030",
+   "category": "vGood",
+   "value": 126170,
+   "areaName": "Walsall"
+ },
+ {
+   "code": "E08000030",
+   "category": "good",
+   "value": 97681,
+   "areaName": "Walsall"
+ },
+ {
+   "code": "E08000030",
+   "category": "fair",
+   "value": 41567,
+   "areaName": "Walsall"
+ },
+ {
+   "code": "E08000030",
+   "category": "bad",
+   "value": 14222,
+   "areaName": "Walsall"
+ },
+ {
+   "code": "E08000030",
+   "category": "vBad",
+   "value": 4484,
+   "areaName": "Walsall"
+ },
+ {
+   "code": "E08000031",
+   "category": "vGood",
+   "value": 118244,
+   "areaName": "Wolverhampton"
+ },
+ {
+   "code": "E08000031",
+   "category": "good",
+   "value": 90690,
+   "areaName": "Wolverhampton"
+ },
+ {
+   "code": "E08000031",
+   "category": "fair",
+   "value": 38056,
+   "areaName": "Wolverhampton"
+ },
+ {
+   "code": "E08000031",
+   "category": "bad",
+   "value": 12953,
+   "areaName": "Wolverhampton"
+ },
+ {
+   "code": "E08000031",
+   "category": "vBad",
+   "value": 3784,
+   "areaName": "Wolverhampton"
+ },
+ {
+   "code": "E08000032",
+   "category": "vGood",
+   "value": 252136,
+   "areaName": "Bradford"
+ },
+ {
+   "code": "E08000032",
+   "category": "good",
+   "value": 188664,
+   "areaName": "Bradford"
+ },
+ {
+   "code": "E08000032",
+   "category": "fair",
+   "value": 73124,
+   "areaName": "Bradford"
+ },
+ {
+   "code": "E08000032",
+   "category": "bad",
+   "value": 24904,
+   "areaName": "Bradford"
+ },
+ {
+   "code": "E08000032",
+   "category": "vBad",
+   "value": 7580,
+   "areaName": "Bradford"
+ },
+ {
+   "code": "E08000033",
+   "category": "vGood",
+   "value": 96309,
+   "areaName": "Calderdale"
+ },
+ {
+   "code": "E08000033",
+   "category": "good",
+   "value": 70657,
+   "areaName": "Calderdale"
+ },
+ {
+   "code": "E08000033",
+   "category": "fair",
+   "value": 27913,
+   "areaName": "Calderdale"
+ },
+ {
+   "code": "E08000033",
+   "category": "bad",
+   "value": 9057,
+   "areaName": "Calderdale"
+ },
+ {
+   "code": "E08000033",
+   "category": "vBad",
+   "value": 2695,
+   "areaName": "Calderdale"
+ },
+ {
+   "code": "E08000034",
+   "category": "vGood",
+   "value": 201705,
+   "areaName": "Kirklees"
+ },
+ {
+   "code": "E08000034",
+   "category": "good",
+   "value": 149441,
+   "areaName": "Kirklees"
+ },
+ {
+   "code": "E08000034",
+   "category": "fair",
+   "value": 58024,
+   "areaName": "Kirklees"
+ },
+ {
+   "code": "E08000034",
+   "category": "bad",
+   "value": 18669,
+   "areaName": "Kirklees"
+ },
+ {
+   "code": "E08000034",
+   "category": "vBad",
+   "value": 5378,
+   "areaName": "Kirklees"
+ },
+ {
+   "code": "E08000035",
+   "category": "vGood",
+   "value": 402056,
+   "areaName": "Leeds"
+ },
+ {
+   "code": "E08000035",
+   "category": "good",
+   "value": 270304,
+   "areaName": "Leeds"
+ },
+ {
+   "code": "E08000035",
+   "category": "fair",
+   "value": 98856,
+   "areaName": "Leeds"
+ },
+ {
+   "code": "E08000035",
+   "category": "bad",
+   "value": 31621,
+   "areaName": "Leeds"
+ },
+ {
+   "code": "E08000035",
+   "category": "vBad",
+   "value": 9116,
+   "areaName": "Leeds"
+ },
+ {
+   "code": "E08000036",
+   "category": "vGood",
+   "value": 157984,
+   "areaName": "Wakefield"
+ },
+ {
+   "code": "E08000036",
+   "category": "good",
+   "value": 121164,
+   "areaName": "Wakefield"
+ },
+ {
+   "code": "E08000036",
+   "category": "fair",
+   "value": 51084,
+   "areaName": "Wakefield"
+ },
+ {
+   "code": "E08000036",
+   "category": "bad",
+   "value": 17900,
+   "areaName": "Wakefield"
+ },
+ {
+   "code": "E08000036",
+   "category": "vBad",
+   "value": 5238,
+   "areaName": "Wakefield"
+ },
+ {
+   "code": "E08000037",
+   "category": "vGood",
+   "value": 85811,
+   "areaName": "Gateshead"
+ },
+ {
+   "code": "E08000037",
+   "category": "good",
+   "value": 65777,
+   "areaName": "Gateshead"
+ },
+ {
+   "code": "E08000037",
+   "category": "fair",
+   "value": 30117,
+   "areaName": "Gateshead"
+ },
+ {
+   "code": "E08000037",
+   "category": "bad",
+   "value": 11120,
+   "areaName": "Gateshead"
+ },
+ {
+   "code": "E08000037",
+   "category": "vBad",
+   "value": 3326,
+   "areaName": "Gateshead"
+ },
+ {
+   "code": "E09000001",
+   "category": "vGood",
+   "value": 4937,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "good",
+   "value": 2726,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "fair",
+   "value": 687,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "bad",
+   "value": 186,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "vBad",
+   "value": 47,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000002",
+   "category": "vGood",
+   "value": 111929,
+   "areaName": "Barking and Dagenham"
+ },
+ {
+   "code": "E09000002",
+   "category": "good",
+   "value": 71978,
+   "areaName": "Barking and Dagenham"
+ },
+ {
+   "code": "E09000002",
+   "category": "fair",
+   "value": 24295,
+   "areaName": "Barking and Dagenham"
+ },
+ {
+   "code": "E09000002",
+   "category": "bad",
+   "value": 8169,
+   "areaName": "Barking and Dagenham"
+ },
+ {
+   "code": "E09000002",
+   "category": "vBad",
+   "value": 2498,
+   "areaName": "Barking and Dagenham"
+ },
+ {
+   "code": "E09000003",
+   "category": "vGood",
+   "value": 213576,
+   "areaName": "Barnet"
+ },
+ {
+   "code": "E09000003",
+   "category": "good",
+   "value": 120802,
+   "areaName": "Barnet"
+ },
+ {
+   "code": "E09000003",
+   "category": "fair",
+   "value": 39317,
+   "areaName": "Barnet"
+ },
+ {
+   "code": "E09000003",
+   "category": "bad",
+   "value": 11724,
+   "areaName": "Barnet"
+ },
+ {
+   "code": "E09000003",
+   "category": "vBad",
+   "value": 3925,
+   "areaName": "Barnet"
+ },
+ {
+   "code": "E09000004",
+   "category": "vGood",
+   "value": 125181,
+   "areaName": "Bexley"
+ },
+ {
+   "code": "E09000004",
+   "category": "good",
+   "value": 82371,
+   "areaName": "Bexley"
+ },
+ {
+   "code": "E09000004",
+   "category": "fair",
+   "value": 28260,
+   "areaName": "Bexley"
+ },
+ {
+   "code": "E09000004",
+   "category": "bad",
+   "value": 8128,
+   "areaName": "Bexley"
+ },
+ {
+   "code": "E09000004",
+   "category": "vBad",
+   "value": 2533,
+   "areaName": "Bexley"
+ },
+ {
+   "code": "E09000005",
+   "category": "vGood",
+   "value": 176793,
+   "areaName": "Brent"
+ },
+ {
+   "code": "E09000005",
+   "category": "good",
+   "value": 111300,
+   "areaName": "Brent"
+ },
+ {
+   "code": "E09000005",
+   "category": "fair",
+   "value": 36871,
+   "areaName": "Brent"
+ },
+ {
+   "code": "E09000005",
+   "category": "bad",
+   "value": 11158,
+   "areaName": "Brent"
+ },
+ {
+   "code": "E09000005",
+   "category": "vBad",
+   "value": 3692,
+   "areaName": "Brent"
+ },
+ {
+   "code": "E09000006",
+   "category": "vGood",
+   "value": 176211,
+   "areaName": "Bromley"
+ },
+ {
+   "code": "E09000006",
+   "category": "good",
+   "value": 106977,
+   "areaName": "Bromley"
+ },
+ {
+   "code": "E09000006",
+   "category": "fair",
+   "value": 34265,
+   "areaName": "Bromley"
+ },
+ {
+   "code": "E09000006",
+   "category": "bad",
+   "value": 9694,
+   "areaName": "Bromley"
+ },
+ {
+   "code": "E09000006",
+   "category": "vBad",
+   "value": 2844,
+   "areaName": "Bromley"
+ },
+ {
+   "code": "E09000007",
+   "category": "vGood",
+   "value": 116692,
+   "areaName": "Camden"
+ },
+ {
+   "code": "E09000007",
+   "category": "good",
+   "value": 61665,
+   "areaName": "Camden"
+ },
+ {
+   "code": "E09000007",
+   "category": "fair",
+   "value": 21109,
+   "areaName": "Camden"
+ },
+ {
+   "code": "E09000007",
+   "category": "bad",
+   "value": 8013,
+   "areaName": "Camden"
+ },
+ {
+   "code": "E09000007",
+   "category": "vBad",
+   "value": 2657,
+   "areaName": "Camden"
+ },
+ {
+   "code": "E09000008",
+   "category": "vGood",
+   "value": 200050,
+   "areaName": "Croydon"
+ },
+ {
+   "code": "E09000008",
+   "category": "good",
+   "value": 130711,
+   "areaName": "Croydon"
+ },
+ {
+   "code": "E09000008",
+   "category": "fair",
+   "value": 43327,
+   "areaName": "Croydon"
+ },
+ {
+   "code": "E09000008",
+   "category": "bad",
+   "value": 12733,
+   "areaName": "Croydon"
+ },
+ {
+   "code": "E09000008",
+   "category": "vBad",
+   "value": 3898,
+   "areaName": "Croydon"
+ },
+ {
+   "code": "E09000009",
+   "category": "vGood",
+   "value": 192559,
+   "areaName": "Ealing"
+ },
+ {
+   "code": "E09000009",
+   "category": "good",
+   "value": 120388,
+   "areaName": "Ealing"
+ },
+ {
+   "code": "E09000009",
+   "category": "fair",
+   "value": 38868,
+   "areaName": "Ealing"
+ },
+ {
+   "code": "E09000009",
+   "category": "bad",
+   "value": 11619,
+   "areaName": "Ealing"
+ },
+ {
+   "code": "E09000009",
+   "category": "vBad",
+   "value": 3681,
+   "areaName": "Ealing"
+ },
+ {
+   "code": "E09000010",
+   "category": "vGood",
+   "value": 167119,
+   "areaName": "Enfield"
+ },
+ {
+   "code": "E09000010",
+   "category": "good",
+   "value": 108918,
+   "areaName": "Enfield"
+ },
+ {
+   "code": "E09000010",
+   "category": "fair",
+   "value": 37822,
+   "areaName": "Enfield"
+ },
+ {
+   "code": "E09000010",
+   "category": "bad",
+   "value": 12150,
+   "areaName": "Enfield"
+ },
+ {
+   "code": "E09000010",
+   "category": "vBad",
+   "value": 3975,
+   "areaName": "Enfield"
+ },
+ {
+   "code": "E09000011",
+   "category": "vGood",
+   "value": 152415,
+   "areaName": "Greenwich"
+ },
+ {
+   "code": "E09000011",
+   "category": "good",
+   "value": 92418,
+   "areaName": "Greenwich"
+ },
+ {
+   "code": "E09000011",
+   "category": "fair",
+   "value": 30949,
+   "areaName": "Greenwich"
+ },
+ {
+   "code": "E09000011",
+   "category": "bad",
+   "value": 10134,
+   "areaName": "Greenwich"
+ },
+ {
+   "code": "E09000011",
+   "category": "vBad",
+   "value": 3152,
+   "areaName": "Greenwich"
+ },
+ {
+   "code": "E09000013",
+   "category": "vGood",
+   "value": 108069,
+   "areaName": "Hammersmith and Fulham"
+ },
+ {
+   "code": "E09000013",
+   "category": "good",
+   "value": 51238,
+   "areaName": "Hammersmith and Fulham"
+ },
+ {
+   "code": "E09000013",
+   "category": "fair",
+   "value": 16301,
+   "areaName": "Hammersmith and Fulham"
+ },
+ {
+   "code": "E09000013",
+   "category": "bad",
+   "value": 5603,
+   "areaName": "Hammersmith and Fulham"
+ },
+ {
+   "code": "E09000013",
+   "category": "vBad",
+   "value": 1946,
+   "areaName": "Hammersmith and Fulham"
+ },
+ {
+   "code": "E09000014",
+   "category": "vGood",
+   "value": 140184,
+   "areaName": "Haringey"
+ },
+ {
+   "code": "E09000014",
+   "category": "good",
+   "value": 83809,
+   "areaName": "Haringey"
+ },
+ {
+   "code": "E09000014",
+   "category": "fair",
+   "value": 27408,
+   "areaName": "Haringey"
+ },
+ {
+   "code": "E09000014",
+   "category": "bad",
+   "value": 9562,
+   "areaName": "Haringey"
+ },
+ {
+   "code": "E09000014",
+   "category": "vBad",
+   "value": 3275,
+   "areaName": "Haringey"
+ },
+ {
+   "code": "E09000015",
+   "category": "vGood",
+   "value": 134553,
+   "areaName": "Harrow"
+ },
+ {
+   "code": "E09000015",
+   "category": "good",
+   "value": 88594,
+   "areaName": "Harrow"
+ },
+ {
+   "code": "E09000015",
+   "category": "fair",
+   "value": 27907,
+   "areaName": "Harrow"
+ },
+ {
+   "code": "E09000015",
+   "category": "bad",
+   "value": 7715,
+   "areaName": "Harrow"
+ },
+ {
+   "code": "E09000015",
+   "category": "vBad",
+   "value": 2434,
+   "areaName": "Harrow"
+ },
+ {
+   "code": "E09000016",
+   "category": "vGood",
+   "value": 130764,
+   "areaName": "Havering"
+ },
+ {
+   "code": "E09000016",
+   "category": "good",
+   "value": 89013,
+   "areaName": "Havering"
+ },
+ {
+   "code": "E09000016",
+   "category": "fair",
+   "value": 30642,
+   "areaName": "Havering"
+ },
+ {
+   "code": "E09000016",
+   "category": "bad",
+   "value": 8941,
+   "areaName": "Havering"
+ },
+ {
+   "code": "E09000016",
+   "category": "vBad",
+   "value": 2692,
+   "areaName": "Havering"
+ },
+ {
+   "code": "E09000017",
+   "category": "vGood",
+   "value": 156976,
+   "areaName": "Hillingdon"
+ },
+ {
+   "code": "E09000017",
+   "category": "good",
+   "value": 103725,
+   "areaName": "Hillingdon"
+ },
+ {
+   "code": "E09000017",
+   "category": "fair",
+   "value": 33088,
+   "areaName": "Hillingdon"
+ },
+ {
+   "code": "E09000017",
+   "category": "bad",
+   "value": 9244,
+   "areaName": "Hillingdon"
+ },
+ {
+   "code": "E09000017",
+   "category": "vBad",
+   "value": 2876,
+   "areaName": "Hillingdon"
+ },
+ {
+   "code": "E09000018",
+   "category": "vGood",
+   "value": 149624,
+   "areaName": "Hounslow"
+ },
+ {
+   "code": "E09000018",
+   "category": "good",
+   "value": 96314,
+   "areaName": "Hounslow"
+ },
+ {
+   "code": "E09000018",
+   "category": "fair",
+   "value": 30323,
+   "areaName": "Hounslow"
+ },
+ {
+   "code": "E09000018",
+   "category": "bad",
+   "value": 9017,
+   "areaName": "Hounslow"
+ },
+ {
+   "code": "E09000018",
+   "category": "vBad",
+   "value": 2903,
+   "areaName": "Hounslow"
+ },
+ {
+   "code": "E09000019",
+   "category": "vGood",
+   "value": 118690,
+   "areaName": "Islington"
+ },
+ {
+   "code": "E09000019",
+   "category": "good",
+   "value": 63421,
+   "areaName": "Islington"
+ },
+ {
+   "code": "E09000019",
+   "category": "fair",
+   "value": 22469,
+   "areaName": "Islington"
+ },
+ {
+   "code": "E09000019",
+   "category": "bad",
+   "value": 8901,
+   "areaName": "Islington"
+ },
+ {
+   "code": "E09000019",
+   "category": "vBad",
+   "value": 3108,
+   "areaName": "Islington"
+ },
+ {
+   "code": "E09000020",
+   "category": "vGood",
+   "value": 85462,
+   "areaName": "Kensington and Chelsea"
+ },
+ {
+   "code": "E09000020",
+   "category": "good",
+   "value": 38302,
+   "areaName": "Kensington and Chelsea"
+ },
+ {
+   "code": "E09000020",
+   "category": "fair",
+   "value": 13191,
+   "areaName": "Kensington and Chelsea"
+ },
+ {
+   "code": "E09000020",
+   "category": "bad",
+   "value": 4806,
+   "areaName": "Kensington and Chelsea"
+ },
+ {
+   "code": "E09000020",
+   "category": "vBad",
+   "value": 1614,
+   "areaName": "Kensington and Chelsea"
+ },
+ {
+   "code": "E09000021",
+   "category": "vGood",
+   "value": 90958,
+   "areaName": "Kingston upon Thames"
+ },
+ {
+   "code": "E09000021",
+   "category": "good",
+   "value": 54724,
+   "areaName": "Kingston upon Thames"
+ },
+ {
+   "code": "E09000021",
+   "category": "fair",
+   "value": 16710,
+   "areaName": "Kingston upon Thames"
+ },
+ {
+   "code": "E09000021",
+   "category": "bad",
+   "value": 4367,
+   "areaName": "Kingston upon Thames"
+ },
+ {
+   "code": "E09000021",
+   "category": "vBad",
+   "value": 1304,
+   "areaName": "Kingston upon Thames"
+ },
+ {
+   "code": "E09000022",
+   "category": "vGood",
+   "value": 178535,
+   "areaName": "Lambeth"
+ },
+ {
+   "code": "E09000022",
+   "category": "good",
+   "value": 96211,
+   "areaName": "Lambeth"
+ },
+ {
+   "code": "E09000022",
+   "category": "fair",
+   "value": 30240,
+   "areaName": "Lambeth"
+ },
+ {
+   "code": "E09000022",
+   "category": "bad",
+   "value": 9582,
+   "areaName": "Lambeth"
+ },
+ {
+   "code": "E09000022",
+   "category": "vBad",
+   "value": 3086,
+   "areaName": "Lambeth"
+ },
+ {
+   "code": "E09000023",
+   "category": "vGood",
+   "value": 159645,
+   "areaName": "Lewisham"
+ },
+ {
+   "code": "E09000023",
+   "category": "good",
+   "value": 96291,
+   "areaName": "Lewisham"
+ },
+ {
+   "code": "E09000023",
+   "category": "fair",
+   "value": 31609,
+   "areaName": "Lewisham"
+ },
+ {
+   "code": "E09000023",
+   "category": "bad",
+   "value": 9891,
+   "areaName": "Lewisham"
+ },
+ {
+   "code": "E09000023",
+   "category": "vBad",
+   "value": 3114,
+   "areaName": "Lewisham"
+ },
+ {
+   "code": "E09000024",
+   "category": "vGood",
+   "value": 118140,
+   "areaName": "Merton"
+ },
+ {
+   "code": "E09000024",
+   "category": "good",
+   "value": 68979,
+   "areaName": "Merton"
+ },
+ {
+   "code": "E09000024",
+   "category": "fair",
+   "value": 20760,
+   "areaName": "Merton"
+ },
+ {
+   "code": "E09000024",
+   "category": "bad",
+   "value": 5599,
+   "areaName": "Merton"
+ },
+ {
+   "code": "E09000024",
+   "category": "vBad",
+   "value": 1704,
+   "areaName": "Merton"
+ },
+ {
+   "code": "E09000025",
+   "category": "vGood",
+   "value": 180480,
+   "areaName": "Newham"
+ },
+ {
+   "code": "E09000025",
+   "category": "good",
+   "value": 116872,
+   "areaName": "Newham"
+ },
+ {
+   "code": "E09000025",
+   "category": "fair",
+   "value": 37801,
+   "areaName": "Newham"
+ },
+ {
+   "code": "E09000025",
+   "category": "bad",
+   "value": 11823,
+   "areaName": "Newham"
+ },
+ {
+   "code": "E09000025",
+   "category": "vBad",
+   "value": 4060,
+   "areaName": "Newham"
+ },
+ {
+   "code": "E09000026",
+   "category": "vGood",
+   "value": 159202,
+   "areaName": "Redbridge"
+ },
+ {
+   "code": "E09000026",
+   "category": "good",
+   "value": 105549,
+   "areaName": "Redbridge"
+ },
+ {
+   "code": "E09000026",
+   "category": "fair",
+   "value": 33011,
+   "areaName": "Redbridge"
+ },
+ {
+   "code": "E09000026",
+   "category": "bad",
+   "value": 9467,
+   "areaName": "Redbridge"
+ },
+ {
+   "code": "E09000026",
+   "category": "vBad",
+   "value": 3029,
+   "areaName": "Redbridge"
+ },
+ {
+   "code": "E09000027",
+   "category": "vGood",
+   "value": 115959,
+   "areaName": "Richmond upon Thames"
+ },
+ {
+   "code": "E09000027",
+   "category": "good",
+   "value": 57054,
+   "areaName": "Richmond upon Thames"
+ },
+ {
+   "code": "E09000027",
+   "category": "fair",
+   "value": 16331,
+   "areaName": "Richmond upon Thames"
+ },
+ {
+   "code": "E09000027",
+   "category": "bad",
+   "value": 4574,
+   "areaName": "Richmond upon Thames"
+ },
+ {
+   "code": "E09000027",
+   "category": "vBad",
+   "value": 1360,
+   "areaName": "Richmond upon Thames"
+ },
+ {
+   "code": "E09000028",
+   "category": "vGood",
+   "value": 171620,
+   "areaName": "Southwark"
+ },
+ {
+   "code": "E09000028",
+   "category": "good",
+   "value": 93329,
+   "areaName": "Southwark"
+ },
+ {
+   "code": "E09000028",
+   "category": "fair",
+   "value": 30002,
+   "areaName": "Southwark"
+ },
+ {
+   "code": "E09000028",
+   "category": "bad",
+   "value": 9552,
+   "areaName": "Southwark"
+ },
+ {
+   "code": "E09000028",
+   "category": "vBad",
+   "value": 3134,
+   "areaName": "Southwark"
+ },
+ {
+   "code": "E09000029",
+   "category": "vGood",
+   "value": 107792,
+   "areaName": "Sutton"
+ },
+ {
+   "code": "E09000029",
+   "category": "good",
+   "value": 71329,
+   "areaName": "Sutton"
+ },
+ {
+   "code": "E09000029",
+   "category": "fair",
+   "value": 22304,
+   "areaName": "Sutton"
+ },
+ {
+   "code": "E09000029",
+   "category": "bad",
+   "value": 6322,
+   "areaName": "Sutton"
+ },
+ {
+   "code": "E09000029",
+   "category": "vBad",
+   "value": 1892,
+   "areaName": "Sutton"
+ },
+ {
+   "code": "E09000030",
+   "category": "vGood",
+   "value": 164359,
+   "areaName": "Tower Hamlets"
+ },
+ {
+   "code": "E09000030",
+   "category": "good",
+   "value": 99697,
+   "areaName": "Tower Hamlets"
+ },
+ {
+   "code": "E09000030",
+   "category": "fair",
+   "value": 31182,
+   "areaName": "Tower Hamlets"
+ },
+ {
+   "code": "E09000030",
+   "category": "bad",
+   "value": 11172,
+   "areaName": "Tower Hamlets"
+ },
+ {
+   "code": "E09000030",
+   "category": "vBad",
+   "value": 3896,
+   "areaName": "Tower Hamlets"
+ },
+ {
+   "code": "E09000031",
+   "category": "vGood",
+   "value": 143437,
+   "areaName": "Waltham Forest"
+ },
+ {
+   "code": "E09000031",
+   "category": "good",
+   "value": 93169,
+   "areaName": "Waltham Forest"
+ },
+ {
+   "code": "E09000031",
+   "category": "fair",
+   "value": 29590,
+   "areaName": "Waltham Forest"
+ },
+ {
+   "code": "E09000031",
+   "category": "bad",
+   "value": 9277,
+   "areaName": "Waltham Forest"
+ },
+ {
+   "code": "E09000031",
+   "category": "vBad",
+   "value": 2953,
+   "areaName": "Waltham Forest"
+ },
+ {
+   "code": "E09000032",
+   "category": "vGood",
+   "value": 198576,
+   "areaName": "Wandsworth"
+ },
+ {
+   "code": "E09000032",
+   "category": "good",
+   "value": 91919,
+   "areaName": "Wandsworth"
+ },
+ {
+   "code": "E09000032",
+   "category": "fair",
+   "value": 26746,
+   "areaName": "Wandsworth"
+ },
+ {
+   "code": "E09000032",
+   "category": "bad",
+   "value": 7868,
+   "areaName": "Wandsworth"
+ },
+ {
+   "code": "E09000032",
+   "category": "vBad",
+   "value": 2397,
+   "areaName": "Wandsworth"
+ },
+ {
+   "code": "E09000033",
+   "category": "vGood",
+   "value": 115033,
+   "areaName": "Westminster"
+ },
+ {
+   "code": "E09000033",
+   "category": "good",
+   "value": 58977,
+   "areaName": "Westminster"
+ },
+ {
+   "code": "E09000033",
+   "category": "fair",
+   "value": 19840,
+   "areaName": "Westminster"
+ },
+ {
+   "code": "E09000033",
+   "category": "bad",
+   "value": 7404,
+   "areaName": "Westminster"
+ },
+ {
+   "code": "E09000033",
+   "category": "vBad",
+   "value": 2982,
+   "areaName": "Westminster"
+ },
+ {
+   "code": "W06000001",
+   "category": "vGood",
+   "value": 32788,
+   "areaName": "Isle of Anglesey"
+ },
+ {
+   "code": "W06000001",
+   "category": "good",
+   "value": 21937,
+   "areaName": "Isle of Anglesey"
+ },
+ {
+   "code": "W06000001",
+   "category": "fair",
+   "value": 10216,
+   "areaName": "Isle of Anglesey"
+ },
+ {
+   "code": "W06000001",
+   "category": "bad",
+   "value": 3059,
+   "areaName": "Isle of Anglesey"
+ },
+ {
+   "code": "W06000001",
+   "category": "vBad",
+   "value": 878,
+   "areaName": "Isle of Anglesey"
+ },
+ {
+   "code": "W06000002",
+   "category": "vGood",
+   "value": 58620,
+   "areaName": "Gwynedd"
+ },
+ {
+   "code": "W06000002",
+   "category": "good",
+   "value": 37038,
+   "areaName": "Gwynedd"
+ },
+ {
+   "code": "W06000002",
+   "category": "fair",
+   "value": 15668,
+   "areaName": "Gwynedd"
+ },
+ {
+   "code": "W06000002",
+   "category": "bad",
+   "value": 4741,
+   "areaName": "Gwynedd"
+ },
+ {
+   "code": "W06000002",
+   "category": "vBad",
+   "value": 1324,
+   "areaName": "Gwynedd"
+ },
+ {
+   "code": "W06000003",
+   "category": "vGood",
+   "value": 51092,
+   "areaName": "Conwy"
+ },
+ {
+   "code": "W06000003",
+   "category": "good",
+   "value": 38345,
+   "areaName": "Conwy"
+ },
+ {
+   "code": "W06000003",
+   "category": "fair",
+   "value": 17780,
+   "areaName": "Conwy"
+ },
+ {
+   "code": "W06000003",
+   "category": "bad",
+   "value": 5819,
+   "areaName": "Conwy"
+ },
+ {
+   "code": "W06000003",
+   "category": "vBad",
+   "value": 1706,
+   "areaName": "Conwy"
+ },
+ {
+   "code": "W06000004",
+   "category": "vGood",
+   "value": 43115,
+   "areaName": "Denbighshire"
+ },
+ {
+   "code": "W06000004",
+   "category": "good",
+   "value": 31254,
+   "areaName": "Denbighshire"
+ },
+ {
+   "code": "W06000004",
+   "category": "fair",
+   "value": 14621,
+   "areaName": "Denbighshire"
+ },
+ {
+   "code": "W06000004",
+   "category": "bad",
+   "value": 5179,
+   "areaName": "Denbighshire"
+ },
+ {
+   "code": "W06000004",
+   "category": "vBad",
+   "value": 1648,
+   "areaName": "Denbighshire"
+ },
+ {
+   "code": "W06000005",
+   "category": "vGood",
+   "value": 73431,
+   "areaName": "Flintshire"
+ },
+ {
+   "code": "W06000005",
+   "category": "good",
+   "value": 51838,
+   "areaName": "Flintshire"
+ },
+ {
+   "code": "W06000005",
+   "category": "fair",
+   "value": 20920,
+   "areaName": "Flintshire"
+ },
+ {
+   "code": "W06000005",
+   "category": "bad",
+   "value": 6716,
+   "areaName": "Flintshire"
+ },
+ {
+   "code": "W06000005",
+   "category": "vBad",
+   "value": 2057,
+   "areaName": "Flintshire"
+ },
+ {
+   "code": "W06000006",
+   "category": "vGood",
+   "value": 61404,
+   "areaName": "Wrexham"
+ },
+ {
+   "code": "W06000006",
+   "category": "good",
+   "value": 45998,
+   "areaName": "Wrexham"
+ },
+ {
+   "code": "W06000006",
+   "category": "fair",
+   "value": 19316,
+   "areaName": "Wrexham"
+ },
+ {
+   "code": "W06000006",
+   "category": "bad",
+   "value": 6588,
+   "areaName": "Wrexham"
+ },
+ {
+   "code": "W06000006",
+   "category": "vBad",
+   "value": 1811,
+   "areaName": "Wrexham"
+ },
+ {
+   "code": "W06000008",
+   "category": "vGood",
+   "value": 32195,
+   "areaName": "Ceredigion"
+ },
+ {
+   "code": "W06000008",
+   "category": "good",
+   "value": 24054,
+   "areaName": "Ceredigion"
+ },
+ {
+   "code": "W06000008",
+   "category": "fair",
+   "value": 10881,
+   "areaName": "Ceredigion"
+ },
+ {
+   "code": "W06000008",
+   "category": "bad",
+   "value": 3328,
+   "areaName": "Ceredigion"
+ },
+ {
+   "code": "W06000008",
+   "category": "vBad",
+   "value": 1017,
+   "areaName": "Ceredigion"
+ },
+ {
+   "code": "W06000009",
+   "category": "vGood",
+   "value": 55187,
+   "areaName": "Pembrokeshire"
+ },
+ {
+   "code": "W06000009",
+   "category": "good",
+   "value": 41206,
+   "areaName": "Pembrokeshire"
+ },
+ {
+   "code": "W06000009",
+   "category": "fair",
+   "value": 18605,
+   "areaName": "Pembrokeshire"
+ },
+ {
+   "code": "W06000009",
+   "category": "bad",
+   "value": 6375,
+   "areaName": "Pembrokeshire"
+ },
+ {
+   "code": "W06000009",
+   "category": "vBad",
+   "value": 1987,
+   "areaName": "Pembrokeshire"
+ },
+ {
+   "code": "W06000010",
+   "category": "vGood",
+   "value": 84785,
+   "areaName": "Carmarthenshire"
+ },
+ {
+   "code": "W06000010",
+   "category": "good",
+   "value": 59550,
+   "areaName": "Carmarthenshire"
+ },
+ {
+   "code": "W06000010",
+   "category": "fair",
+   "value": 29491,
+   "areaName": "Carmarthenshire"
+ },
+ {
+   "code": "W06000010",
+   "category": "bad",
+   "value": 10554,
+   "areaName": "Carmarthenshire"
+ },
+ {
+   "code": "W06000010",
+   "category": "vBad",
+   "value": 3517,
+   "areaName": "Carmarthenshire"
+ },
+ {
+   "code": "W06000011",
+   "category": "vGood",
+   "value": 113823,
+   "areaName": "Swansea"
+ },
+ {
+   "code": "W06000011",
+   "category": "good",
+   "value": 73789,
+   "areaName": "Swansea"
+ },
+ {
+   "code": "W06000011",
+   "category": "fair",
+   "value": 33363,
+   "areaName": "Swansea"
+ },
+ {
+   "code": "W06000011",
+   "category": "bad",
+   "value": 13061,
+   "areaName": "Swansea"
+ },
+ {
+   "code": "W06000011",
+   "category": "vBad",
+   "value": 4454,
+   "areaName": "Swansea"
+ },
+ {
+   "code": "W06000012",
+   "category": "vGood",
+   "value": 64583,
+   "areaName": "Neath Port Talbot"
+ },
+ {
+   "code": "W06000012",
+   "category": "good",
+   "value": 43219,
+   "areaName": "Neath Port Talbot"
+ },
+ {
+   "code": "W06000012",
+   "category": "fair",
+   "value": 21961,
+   "areaName": "Neath Port Talbot"
+ },
+ {
+   "code": "W06000012",
+   "category": "bad",
+   "value": 9388,
+   "areaName": "Neath Port Talbot"
+ },
+ {
+   "code": "W06000012",
+   "category": "vBad",
+   "value": 3138,
+   "areaName": "Neath Port Talbot"
+ },
+ {
+   "code": "W06000013",
+   "category": "vGood",
+   "value": 66751,
+   "areaName": "Bridgend"
+ },
+ {
+   "code": "W06000013",
+   "category": "good",
+   "value": 46142,
+   "areaName": "Bridgend"
+ },
+ {
+   "code": "W06000013",
+   "category": "fair",
+   "value": 21589,
+   "areaName": "Bridgend"
+ },
+ {
+   "code": "W06000013",
+   "category": "bad",
+   "value": 8254,
+   "areaName": "Bridgend"
+ },
+ {
+   "code": "W06000013",
+   "category": "vBad",
+   "value": 2752,
+   "areaName": "Bridgend"
+ },
+ {
+   "code": "W06000014",
+   "category": "vGood",
+   "value": 63999,
+   "areaName": "Vale of Glamorgan"
+ },
+ {
+   "code": "W06000014",
+   "category": "good",
+   "value": 42548,
+   "areaName": "Vale of Glamorgan"
+ },
+ {
+   "code": "W06000014",
+   "category": "fair",
+   "value": 17533,
+   "areaName": "Vale of Glamorgan"
+ },
+ {
+   "code": "W06000014",
+   "category": "bad",
+   "value": 5906,
+   "areaName": "Vale of Glamorgan"
+ },
+ {
+   "code": "W06000014",
+   "category": "vBad",
+   "value": 1953,
+   "areaName": "Vale of Glamorgan"
+ },
+ {
+   "code": "W06000015",
+   "category": "vGood",
+   "value": 181604,
+   "areaName": "Cardiff"
+ },
+ {
+   "code": "W06000015",
+   "category": "good",
+   "value": 115195,
+   "areaName": "Cardiff"
+ },
+ {
+   "code": "W06000015",
+   "category": "fair",
+   "value": 44144,
+   "areaName": "Cardiff"
+ },
+ {
+   "code": "W06000015",
+   "category": "bad",
+   "value": 16193,
+   "areaName": "Cardiff"
+ },
+ {
+   "code": "W06000015",
+   "category": "vBad",
+   "value": 5172,
+   "areaName": "Cardiff"
+ },
+ {
+   "code": "W06000016",
+   "category": "vGood",
+   "value": 105823,
+   "areaName": "Rhondda Cynon Taf"
+ },
+ {
+   "code": "W06000016",
+   "category": "good",
+   "value": 75427,
+   "areaName": "Rhondda Cynon Taf"
+ },
+ {
+   "code": "W06000016",
+   "category": "fair",
+   "value": 36863,
+   "areaName": "Rhondda Cynon Taf"
+ },
+ {
+   "code": "W06000016",
+   "category": "bad",
+   "value": 14925,
+   "areaName": "Rhondda Cynon Taf"
+ },
+ {
+   "code": "W06000016",
+   "category": "vBad",
+   "value": 4613,
+   "areaName": "Rhondda Cynon Taf"
+ },
+ {
+   "code": "W06000018",
+   "category": "vGood",
+   "value": 76930,
+   "areaName": "Caerphilly"
+ },
+ {
+   "code": "W06000018",
+   "category": "good",
+   "value": 56471,
+   "areaName": "Caerphilly"
+ },
+ {
+   "code": "W06000018",
+   "category": "fair",
+   "value": 27645,
+   "areaName": "Caerphilly"
+ },
+ {
+   "code": "W06000018",
+   "category": "bad",
+   "value": 11275,
+   "areaName": "Caerphilly"
+ },
+ {
+   "code": "W06000018",
+   "category": "vBad",
+   "value": 3631,
+   "areaName": "Caerphilly"
+ },
+ {
+   "code": "W06000019",
+   "category": "vGood",
+   "value": 27465,
+   "areaName": "Blaenau Gwent"
+ },
+ {
+   "code": "W06000019",
+   "category": "good",
+   "value": 21865,
+   "areaName": "Blaenau Gwent"
+ },
+ {
+   "code": "W06000019",
+   "category": "fair",
+   "value": 11210,
+   "areaName": "Blaenau Gwent"
+ },
+ {
+   "code": "W06000019",
+   "category": "bad",
+   "value": 4785,
+   "areaName": "Blaenau Gwent"
+ },
+ {
+   "code": "W06000019",
+   "category": "vBad",
+   "value": 1579,
+   "areaName": "Blaenau Gwent"
+ },
+ {
+   "code": "W06000020",
+   "category": "vGood",
+   "value": 39335,
+   "areaName": "Torfaen"
+ },
+ {
+   "code": "W06000020",
+   "category": "good",
+   "value": 31301,
+   "areaName": "Torfaen"
+ },
+ {
+   "code": "W06000020",
+   "category": "fair",
+   "value": 14340,
+   "areaName": "Torfaen"
+ },
+ {
+   "code": "W06000020",
+   "category": "bad",
+   "value": 5584,
+   "areaName": "Torfaen"
+ },
+ {
+   "code": "W06000020",
+   "category": "vBad",
+   "value": 1716,
+   "areaName": "Torfaen"
+ },
+ {
+   "code": "W06000021",
+   "category": "vGood",
+   "value": 43165,
+   "areaName": "Monmouthshire"
+ },
+ {
+   "code": "W06000021",
+   "category": "good",
+   "value": 31887,
+   "areaName": "Monmouthshire"
+ },
+ {
+   "code": "W06000021",
+   "category": "fair",
+   "value": 12655,
+   "areaName": "Monmouthshire"
+ },
+ {
+   "code": "W06000021",
+   "category": "bad",
+   "value": 4060,
+   "areaName": "Monmouthshire"
+ },
+ {
+   "code": "W06000021",
+   "category": "vBad",
+   "value": 1188,
+   "areaName": "Monmouthshire"
+ },
+ {
+   "code": "W06000022",
+   "category": "vGood",
+   "value": 74351,
+   "areaName": "Newport"
+ },
+ {
+   "code": "W06000022",
+   "category": "good",
+   "value": 52689,
+   "areaName": "Newport"
+ },
+ {
+   "code": "W06000022",
+   "category": "fair",
+   "value": 21937,
+   "areaName": "Newport"
+ },
+ {
+   "code": "W06000022",
+   "category": "bad",
+   "value": 8159,
+   "areaName": "Newport"
+ },
+ {
+   "code": "W06000022",
+   "category": "vBad",
+   "value": 2456,
+   "areaName": "Newport"
+ },
+ {
+   "code": "W06000023",
+   "category": "vGood",
+   "value": 59313,
+   "areaName": "Powys"
+ },
+ {
+   "code": "E06000007",
+   "category": "vGood",
+   "value": 105613,
+   "areaName": "Warrington"
+ },
+ {
+   "code": "E06000007",
+   "category": "good",
+   "value": 69138,
+   "areaName": "Warrington"
+ },
+ {
+   "code": "E06000007",
+   "category": "fair",
+   "value": 25599,
+   "areaName": "Warrington"
+ },
+ {
+   "code": "E06000007",
+   "category": "bad",
+   "value": 8265,
+   "areaName": "Warrington"
+ },
+ {
+   "code": "E06000007",
+   "category": "vBad",
+   "value": 2359,
+   "areaName": "Warrington"
+ },
+ {
+   "code": "E06000008",
+   "category": "vGood",
+   "value": 73950,
+   "areaName": "Blackburn with Darwen"
+ },
+ {
+   "code": "E06000008",
+   "category": "good",
+   "value": 50010,
+   "areaName": "Blackburn with Darwen"
+ },
+ {
+   "code": "E06000008",
+   "category": "fair",
+   "value": 20507,
+   "areaName": "Blackburn with Darwen"
+ },
+ {
+   "code": "E06000008",
+   "category": "bad",
+   "value": 7826,
+   "areaName": "Blackburn with Darwen"
+ },
+ {
+   "code": "E06000008",
+   "category": "vBad",
+   "value": 2445,
+   "areaName": "Blackburn with Darwen"
+ },
+ {
+   "code": "E06000009",
+   "category": "vGood",
+   "value": 56933,
+   "areaName": "Blackpool"
+ },
+ {
+   "code": "E06000009",
+   "category": "good",
+   "value": 47255,
+   "areaName": "Blackpool"
+ },
+ {
+   "code": "E06000009",
+   "category": "fair",
+   "value": 23963,
+   "areaName": "Blackpool"
+ },
+ {
+   "code": "E06000009",
+   "category": "bad",
+   "value": 9777,
+   "areaName": "Blackpool"
+ },
+ {
+   "code": "E06000009",
+   "category": "vBad",
+   "value": 3108,
+   "areaName": "Blackpool"
+ },
+ {
+   "code": "E06000010",
+   "category": "vGood",
+   "value": 115776,
+   "areaName": "Kingston upon Hull"
+ },
+ {
+   "code": "E06000010",
+   "category": "good",
+   "value": 93150,
+   "areaName": "Kingston upon Hull"
+ },
+ {
+   "code": "E06000010",
+   "category": "fair",
+   "value": 39851,
+   "areaName": "Kingston upon Hull"
+ },
+ {
+   "code": "E06000010",
+   "category": "bad",
+   "value": 13999,
+   "areaName": "Kingston upon Hull"
+ },
+ {
+   "code": "E06000010",
+   "category": "vBad",
+   "value": 4238,
+   "areaName": "Kingston upon Hull"
+ },
+ {
+   "code": "E06000013",
+   "category": "vGood",
+   "value": 72786,
+   "areaName": "North Lincolnshire"
+ },
+ {
+   "code": "E06000013",
+   "category": "good",
+   "value": 60954,
+   "areaName": "North Lincolnshire"
+ },
+ {
+   "code": "E06000013",
+   "category": "fair",
+   "value": 25702,
+   "areaName": "North Lincolnshire"
+ },
+ {
+   "code": "E06000013",
+   "category": "bad",
+   "value": 8003,
+   "areaName": "North Lincolnshire"
+ },
+ {
+   "code": "E06000013",
+   "category": "vBad",
+   "value": 2235,
+   "areaName": "North Lincolnshire"
+ },
+ {
+   "code": "E06000016",
+   "category": "vGood",
+   "value": 179719,
+   "areaName": "Leicester"
+ },
+ {
+   "code": "E06000016",
+   "category": "good",
+   "value": 123425,
+   "areaName": "Leicester"
+ },
+ {
+   "code": "E06000016",
+   "category": "fair",
+   "value": 46156,
+   "areaName": "Leicester"
+ },
+ {
+   "code": "E06000016",
+   "category": "bad",
+   "value": 14749,
+   "areaName": "Leicester"
+ },
+ {
+   "code": "E06000016",
+   "category": "vBad",
+   "value": 4522,
+   "areaName": "Leicester"
+ },
+ {
+   "code": "E06000022",
+   "category": "vGood",
+   "value": 100186,
+   "areaName": "Bath and North East Somerset"
+ },
+ {
+   "code": "E06000022",
+   "category": "good",
+   "value": 63514,
+   "areaName": "Bath and North East Somerset"
+ },
+ {
+   "code": "E06000022",
+   "category": "fair",
+   "value": 21853,
+   "areaName": "Bath and North East Somerset"
+ },
+ {
+   "code": "E06000022",
+   "category": "bad",
+   "value": 6121,
+   "areaName": "Bath and North East Somerset"
+ },
+ {
+   "code": "E06000022",
+   "category": "vBad",
+   "value": 1735,
+   "areaName": "Bath and North East Somerset"
+ },
+ {
+   "code": "E06000025",
+   "category": "vGood",
+   "value": 144395,
+   "areaName": "South Gloucestershire"
+ },
+ {
+   "code": "E06000025",
+   "category": "good",
+   "value": 99207,
+   "areaName": "South Gloucestershire"
+ },
+ {
+   "code": "E06000025",
+   "category": "fair",
+   "value": 34595,
+   "areaName": "South Gloucestershire"
+ },
+ {
+   "code": "E06000025",
+   "category": "bad",
+   "value": 9529,
+   "areaName": "South Gloucestershire"
+ },
+ {
+   "code": "E06000025",
+   "category": "vBad",
+   "value": 2698,
+   "areaName": "South Gloucestershire"
+ },
+ {
+   "code": "E06000030",
+   "category": "vGood",
+   "value": 112213,
+   "areaName": "Swindon"
+ },
+ {
+   "code": "E06000030",
+   "category": "good",
+   "value": 82155,
+   "areaName": "Swindon"
+ },
+ {
+   "code": "E06000030",
+   "category": "fair",
+   "value": 28667,
+   "areaName": "Swindon"
+ },
+ {
+   "code": "E06000030",
+   "category": "bad",
+   "value": 8185,
+   "areaName": "Swindon"
+ },
+ {
+   "code": "E06000030",
+   "category": "vBad",
+   "value": 2190,
+   "areaName": "Swindon"
+ },
+ {
+   "code": "E06000033",
+   "category": "vGood",
+   "value": 84380,
+   "areaName": "Southend-on-Sea"
+ },
+ {
+   "code": "E06000033",
+   "category": "good",
+   "value": 62139,
+   "areaName": "Southend-on-Sea"
+ },
+ {
+   "code": "E06000033",
+   "category": "fair",
+   "value": 24096,
+   "areaName": "Southend-on-Sea"
+ },
+ {
+   "code": "E06000033",
+   "category": "bad",
+   "value": 7793,
+   "areaName": "Southend-on-Sea"
+ },
+ {
+   "code": "E06000033",
+   "category": "vBad",
+   "value": 2278,
+   "areaName": "Southend-on-Sea"
+ },
+ {
+   "code": "E06000034",
+   "category": "vGood",
+   "value": 89350,
+   "areaName": "Thurrock"
+ },
+ {
+   "code": "E06000034",
+   "category": "good",
+   "value": 58689,
+   "areaName": "Thurrock"
+ },
+ {
+   "code": "E06000034",
+   "category": "fair",
+   "value": 20323,
+   "areaName": "Thurrock"
+ },
+ {
+   "code": "E06000034",
+   "category": "bad",
+   "value": 5904,
+   "areaName": "Thurrock"
+ },
+ {
+   "code": "E06000034",
+   "category": "vBad",
+   "value": 1735,
+   "areaName": "Thurrock"
+ },
+ {
+   "code": "E06000046",
+   "category": "vGood",
+   "value": 56014,
+   "areaName": "Isle of Wight"
+ },
+ {
+   "code": "E06000046",
+   "category": "good",
+   "value": 51903,
+   "areaName": "Isle of Wight"
+ },
+ {
+   "code": "E06000046",
+   "category": "fair",
+   "value": 23077,
+   "areaName": "Isle of Wight"
+ },
+ {
+   "code": "E06000046",
+   "category": "bad",
+   "value": 7386,
+   "areaName": "Isle of Wight"
+ },
+ {
+   "code": "E06000046",
+   "category": "vBad",
+   "value": 2079,
+   "areaName": "Isle of Wight"
+ },
+ {
+   "code": "E06000049",
+   "category": "vGood",
+   "value": 198755,
+   "areaName": "Cheshire East"
+ },
+ {
+   "code": "E06000049",
+   "category": "good",
+   "value": 132827,
+   "areaName": "Cheshire East"
+ },
+ {
+   "code": "E06000049",
+   "category": "fair",
+   "value": 48431,
+   "areaName": "Cheshire East"
+ },
+ {
+   "code": "E06000049",
+   "category": "bad",
+   "value": 14513,
+   "areaName": "Cheshire East"
+ },
+ {
+   "code": "E06000049",
+   "category": "vBad",
+   "value": 4243,
+   "areaName": "Cheshire East"
+ },
+ {
+   "code": "E06000052",
+   "category": "vGood",
+   "value": 260855,
+   "areaName": "Cornwall"
+ },
+ {
+   "code": "E06000052",
+   "category": "good",
+   "value": 191185,
+   "areaName": "Cornwall"
+ },
+ {
+   "code": "E06000052",
+   "category": "fair",
+   "value": 82985,
+   "areaName": "Cornwall"
+ },
+ {
+   "code": "E06000052",
+   "category": "bad",
+   "value": 26972,
+   "areaName": "Cornwall"
+ },
+ {
+   "code": "E06000052",
+   "category": "vBad",
+   "value": 8308,
+   "areaName": "Cornwall"
+ },
+ {
+   "code": "E07000011",
+   "category": "vGood",
+   "value": 86577,
+   "areaName": "Huntingdonshire"
+ },
+ {
+   "code": "E07000011",
+   "category": "good",
+   "value": 64569,
+   "areaName": "Huntingdonshire"
+ },
+ {
+   "code": "E07000011",
+   "category": "fair",
+   "value": 22026,
+   "areaName": "Huntingdonshire"
+ },
+ {
+   "code": "E07000011",
+   "category": "bad",
+   "value": 6085,
+   "areaName": "Huntingdonshire"
+ },
+ {
+   "code": "E07000011",
+   "category": "vBad",
+   "value": 1576,
+   "areaName": "Huntingdonshire"
+ },
+ {
+   "code": "E07000039",
+   "category": "vGood",
+   "value": 51669,
+   "areaName": "South Derbyshire"
+ },
+ {
+   "code": "E07000039",
+   "category": "good",
+   "value": 36956,
+   "areaName": "South Derbyshire"
+ },
+ {
+   "code": "E07000039",
+   "category": "fair",
+   "value": 13642,
+   "areaName": "South Derbyshire"
+ },
+ {
+   "code": "E07000039",
+   "category": "bad",
+   "value": 3853,
+   "areaName": "South Derbyshire"
+ },
+ {
+   "code": "E07000039",
+   "category": "vBad",
+   "value": 1088,
+   "areaName": "South Derbyshire"
+ },
+ {
+   "code": "E07000040",
+   "category": "vGood",
+   "value": 69973,
+   "areaName": "East Devon"
+ },
+ {
+   "code": "E07000040",
+   "category": "good",
+   "value": 52881,
+   "areaName": "East Devon"
+ },
+ {
+   "code": "E07000040",
+   "category": "fair",
+   "value": 20650,
+   "areaName": "East Devon"
+ },
+ {
+   "code": "E07000040",
+   "category": "bad",
+   "value": 5798,
+   "areaName": "East Devon"
+ },
+ {
+   "code": "E07000040",
+   "category": "vBad",
+   "value": 1525,
+   "areaName": "East Devon"
+ },
+ {
+   "code": "E07000044",
+   "category": "vGood",
+   "value": 43499,
+   "areaName": "South Hams"
+ },
+ {
+   "code": "E07000044",
+   "category": "good",
+   "value": 29405,
+   "areaName": "South Hams"
+ },
+ {
+   "code": "E07000044",
+   "category": "fair",
+   "value": 11292,
+   "areaName": "South Hams"
+ },
+ {
+   "code": "E07000044",
+   "category": "bad",
+   "value": 3413,
+   "areaName": "South Hams"
+ },
+ {
+   "code": "E07000044",
+   "category": "vBad",
+   "value": 1018,
+   "areaName": "South Hams"
+ },
+ {
+   "code": "E07000064",
+   "category": "vGood",
+   "value": 39362,
+   "areaName": "Rother"
+ },
+ {
+   "code": "E07000064",
+   "category": "good",
+   "value": 33607,
+   "areaName": "Rother"
+ },
+ {
+   "code": "E07000064",
+   "category": "fair",
+   "value": 14561,
+   "areaName": "Rother"
+ },
+ {
+   "code": "E07000064",
+   "category": "bad",
+   "value": 4365,
+   "areaName": "Rother"
+ },
+ {
+   "code": "E07000064",
+   "category": "vBad",
+   "value": 1215,
+   "areaName": "Rother"
+ },
+ {
+   "code": "E07000065",
+   "category": "vGood",
+   "value": 77218,
+   "areaName": "Wealden"
+ },
+ {
+   "code": "E07000065",
+   "category": "good",
+   "value": 55635,
+   "areaName": "Wealden"
+ },
+ {
+   "code": "E07000065",
+   "category": "fair",
+   "value": 20209,
+   "areaName": "Wealden"
+ },
+ {
+   "code": "E07000065",
+   "category": "bad",
+   "value": 5627,
+   "areaName": "Wealden"
+ },
+ {
+   "code": "E07000065",
+   "category": "vBad",
+   "value": 1461,
+   "areaName": "Wealden"
+ },
+ {
+   "code": "E07000066",
+   "category": "vGood",
+   "value": 90914,
+   "areaName": "Basildon"
+ },
+ {
+   "code": "E07000066",
+   "category": "good",
+   "value": 64185,
+   "areaName": "Basildon"
+ },
+ {
+   "code": "E07000066",
+   "category": "fair",
+   "value": 23022,
+   "areaName": "Basildon"
+ },
+ {
+   "code": "E07000066",
+   "category": "bad",
+   "value": 7229,
+   "areaName": "Basildon"
+ },
+ {
+   "code": "E07000066",
+   "category": "vBad",
+   "value": 2221,
+   "areaName": "Basildon"
+ },
+ {
+   "code": "E07000073",
+   "category": "vGood",
+   "value": 44559,
+   "areaName": "Harlow"
+ },
+ {
+   "code": "E07000073",
+   "category": "good",
+   "value": 32106,
+   "areaName": "Harlow"
+ },
+ {
+   "code": "E07000073",
+   "category": "fair",
+   "value": 11913,
+   "areaName": "Harlow"
+ },
+ {
+   "code": "E07000073",
+   "category": "bad",
+   "value": 3659,
+   "areaName": "Harlow"
+ },
+ {
+   "code": "E07000073",
+   "category": "vBad",
+   "value": 1091,
+   "areaName": "Harlow"
+ },
+ {
+   "code": "E07000078",
+   "category": "vGood",
+   "value": 60237,
+   "areaName": "Cheltenham"
+ },
+ {
+   "code": "E07000078",
+   "category": "good",
+   "value": 39932,
+   "areaName": "Cheltenham"
+ },
+ {
+   "code": "E07000078",
+   "category": "fair",
+   "value": 13876,
+   "areaName": "Cheltenham"
+ },
+ {
+   "code": "E07000078",
+   "category": "bad",
+   "value": 3695,
+   "areaName": "Cheltenham"
+ },
+ {
+   "code": "E07000078",
+   "category": "vBad",
+   "value": 1097,
+   "areaName": "Cheltenham"
+ },
+ {
+   "code": "E07000081",
+   "category": "vGood",
+   "value": 61882,
+   "areaName": "Gloucester"
+ },
+ {
+   "code": "E07000081",
+   "category": "good",
+   "value": 46736,
+   "areaName": "Gloucester"
+ },
+ {
+   "code": "E07000081",
+   "category": "fair",
+   "value": 17259,
+   "areaName": "Gloucester"
+ },
+ {
+   "code": "E07000081",
+   "category": "bad",
+   "value": 5172,
+   "areaName": "Gloucester"
+ },
+ {
+   "code": "E07000081",
+   "category": "vBad",
+   "value": 1367,
+   "areaName": "Gloucester"
+ },
+ {
+   "code": "E07000083",
+   "category": "vGood",
+   "value": 47236,
+   "areaName": "Tewkesbury"
+ },
+ {
+   "code": "E07000083",
+   "category": "good",
+   "value": 32541,
+   "areaName": "Tewkesbury"
+ },
+ {
+   "code": "E07000083",
+   "category": "fair",
+   "value": 11385,
+   "areaName": "Tewkesbury"
+ },
+ {
+   "code": "E07000083",
+   "category": "bad",
+   "value": 2956,
+   "areaName": "Tewkesbury"
+ },
+ {
+   "code": "E07000083",
+   "category": "vBad",
+   "value": 766,
+   "areaName": "Tewkesbury"
+ },
+ {
+   "code": "E07000090",
+   "category": "vGood",
+   "value": 55028,
+   "areaName": "Havant"
+ },
+ {
+   "code": "E07000090",
+   "category": "good",
+   "value": 44185,
+   "areaName": "Havant"
+ },
+ {
+   "code": "E07000090",
+   "category": "fair",
+   "value": 18023,
+   "areaName": "Havant"
+ },
+ {
+   "code": "E07000090",
+   "category": "bad",
+   "value": 5437,
+   "areaName": "Havant"
+ },
+ {
+   "code": "E07000090",
+   "category": "vBad",
+   "value": 1535,
+   "areaName": "Havant"
+ },
+ {
+   "code": "E07000103",
+   "category": "vGood",
+   "value": 53559,
+   "areaName": "Watford"
+ },
+ {
+   "code": "E07000103",
+   "category": "good",
+   "value": 34277,
+   "areaName": "Watford"
+ },
+ {
+   "code": "E07000103",
+   "category": "fair",
+   "value": 10601,
+   "areaName": "Watford"
+ },
+ {
+   "code": "E07000103",
+   "category": "bad",
+   "value": 2955,
+   "areaName": "Watford"
+ },
+ {
+   "code": "E07000103",
+   "category": "vBad",
+   "value": 854,
+   "areaName": "Watford"
+ },
+ {
+   "code": "E07000112",
+   "category": "vGood",
+   "value": 47404,
+   "areaName": "Folkestone and Hythe"
+ },
+ {
+   "code": "E07000112",
+   "category": "good",
+   "value": 38432,
+   "areaName": "Folkestone and Hythe"
+ },
+ {
+   "code": "E07000112",
+   "category": "fair",
+   "value": 16801,
+   "areaName": "Folkestone and Hythe"
+ },
+ {
+   "code": "E07000112",
+   "category": "bad",
+   "value": 5519,
+   "areaName": "Folkestone and Hythe"
+ },
+ {
+   "code": "E07000112",
+   "category": "vBad",
+   "value": 1603,
+   "areaName": "Folkestone and Hythe"
+ },
+ {
+   "code": "E07000119",
+   "category": "vGood",
+   "value": 37427,
+   "areaName": "Fylde"
+ },
+ {
+   "code": "E07000119",
+   "category": "good",
+   "value": 27421,
+   "areaName": "Fylde"
+ },
+ {
+   "code": "E07000119",
+   "category": "fair",
+   "value": 11815,
+   "areaName": "Fylde"
+ },
+ {
+   "code": "E07000119",
+   "category": "bad",
+   "value": 3641,
+   "areaName": "Fylde"
+ },
+ {
+   "code": "E07000119",
+   "category": "vBad",
+   "value": 1070,
+   "areaName": "Fylde"
+ },
+ {
+   "code": "E07000120",
+   "category": "vGood",
+   "value": 36121,
+   "areaName": "Hyndburn"
+ },
+ {
+   "code": "E07000120",
+   "category": "good",
+   "value": 28210,
+   "areaName": "Hyndburn"
+ },
+ {
+   "code": "E07000120",
+   "category": "fair",
+   "value": 12149,
+   "areaName": "Hyndburn"
+ },
+ {
+   "code": "E07000120",
+   "category": "bad",
+   "value": 4387,
+   "areaName": "Hyndburn"
+ },
+ {
+   "code": "E07000120",
+   "category": "vBad",
+   "value": 1367,
+   "areaName": "Hyndburn"
+ },
+ {
+   "code": "E07000124",
+   "category": "vGood",
+   "value": 32360,
+   "areaName": "Ribble Valley"
+ },
+ {
+   "code": "E07000124",
+   "category": "good",
+   "value": 19764,
+   "areaName": "Ribble Valley"
+ },
+ {
+   "code": "E07000124",
+   "category": "fair",
+   "value": 7117,
+   "areaName": "Ribble Valley"
+ },
+ {
+   "code": "E07000124",
+   "category": "bad",
+   "value": 1855,
+   "areaName": "Ribble Valley"
+ },
+ {
+   "code": "E07000124",
+   "category": "vBad",
+   "value": 465,
+   "areaName": "Ribble Valley"
+ },
+ {
+   "code": "E07000136",
+   "category": "vGood",
+   "value": 29747,
+   "areaName": "Boston"
+ },
+ {
+   "code": "E07000136",
+   "category": "good",
+   "value": 26118,
+   "areaName": "Boston"
+ },
+ {
+   "code": "E07000136",
+   "category": "fair",
+   "value": 10548,
+   "areaName": "Boston"
+ },
+ {
+   "code": "E07000136",
+   "category": "bad",
+   "value": 3193,
+   "areaName": "Boston"
+ },
+ {
+   "code": "E07000136",
+   "category": "vBad",
+   "value": 896,
+   "areaName": "Boston"
+ },
+ {
+   "code": "E07000142",
+   "category": "vGood",
+   "value": 41693,
+   "areaName": "West Lindsey"
+ },
+ {
+   "code": "E07000142",
+   "category": "good",
+   "value": 34181,
+   "areaName": "West Lindsey"
+ },
+ {
+   "code": "E07000142",
+   "category": "fair",
+   "value": 13948,
+   "areaName": "West Lindsey"
+ },
+ {
+   "code": "E07000142",
+   "category": "bad",
+   "value": 4227,
+   "areaName": "West Lindsey"
+ },
+ {
+   "code": "E07000142",
+   "category": "vBad",
+   "value": 1104,
+   "areaName": "West Lindsey"
+ },
+ {
+   "code": "E07000147",
+   "category": "vGood",
+   "value": 40520,
+   "areaName": "North Norfolk"
+ },
+ {
+   "code": "E07000147",
+   "category": "good",
+   "value": 38727,
+   "areaName": "North Norfolk"
+ },
+ {
+   "code": "E07000147",
+   "category": "fair",
+   "value": 17522,
+   "areaName": "North Norfolk"
+ },
+ {
+   "code": "E07000147",
+   "category": "bad",
+   "value": 4821,
+   "areaName": "North Norfolk"
+ },
+ {
+   "code": "E07000147",
+   "category": "vBad",
+   "value": 1391,
+   "areaName": "North Norfolk"
+ },
+ {
+   "code": "E07000168",
+   "category": "vGood",
+   "value": 44934,
+   "areaName": "Scarborough"
+ },
+ {
+   "code": "E07000168",
+   "category": "good",
+   "value": 39080,
+   "areaName": "Scarborough"
+ },
+ {
+   "code": "E07000168",
+   "category": "fair",
+   "value": 17296,
+   "areaName": "Scarborough"
+ },
+ {
+   "code": "E07000168",
+   "category": "bad",
+   "value": 5775,
+   "areaName": "Scarborough"
+ },
+ {
+   "code": "E07000168",
+   "category": "vBad",
+   "value": 1652,
+   "areaName": "Scarborough"
+ },
+ {
+   "code": "E07000174",
+   "category": "vGood",
+   "value": 47123,
+   "areaName": "Mansfield"
+ },
+ {
+   "code": "E07000174",
+   "category": "good",
+   "value": 38004,
+   "areaName": "Mansfield"
+ },
+ {
+   "code": "E07000174",
+   "category": "fair",
+   "value": 17302,
+   "areaName": "Mansfield"
+ },
+ {
+   "code": "E07000174",
+   "category": "bad",
+   "value": 6249,
+   "areaName": "Mansfield"
+ },
+ {
+   "code": "E07000174",
+   "category": "vBad",
+   "value": 1804,
+   "areaName": "Mansfield"
+ },
+ {
+   "code": "E07000198",
+   "category": "vGood",
+   "value": 42805,
+   "areaName": "Staffordshire Moorlands"
+ },
+ {
+   "code": "E07000198",
+   "category": "good",
+   "value": 33976,
+   "areaName": "Staffordshire Moorlands"
+ },
+ {
+   "code": "E07000198",
+   "category": "fair",
+   "value": 13660,
+   "areaName": "Staffordshire Moorlands"
+ },
+ {
+   "code": "E07000198",
+   "category": "bad",
+   "value": 4144,
+   "areaName": "Staffordshire Moorlands"
+ },
+ {
+   "code": "E07000198",
+   "category": "vBad",
+   "value": 1262,
+   "areaName": "Staffordshire Moorlands"
+ },
+ {
+   "code": "E07000202",
+   "category": "vGood",
+   "value": 63728,
+   "areaName": "Ipswich"
+ },
+ {
+   "code": "E07000202",
+   "category": "good",
+   "value": 49957,
+   "areaName": "Ipswich"
+ },
+ {
+   "code": "E07000202",
+   "category": "fair",
+   "value": 18905,
+   "areaName": "Ipswich"
+ },
+ {
+   "code": "E07000202",
+   "category": "bad",
+   "value": 5562,
+   "areaName": "Ipswich"
+ },
+ {
+   "code": "E07000202",
+   "category": "vBad",
+   "value": 1490,
+   "areaName": "Ipswich"
+ },
+ {
+   "code": "E07000214",
+   "category": "vGood",
+   "value": 48670,
+   "areaName": "Surrey Heath"
+ },
+ {
+   "code": "E07000214",
+   "category": "good",
+   "value": 29656,
+   "areaName": "Surrey Heath"
+ },
+ {
+   "code": "E07000214",
+   "category": "fair",
+   "value": 9208,
+   "areaName": "Surrey Heath"
+ },
+ {
+   "code": "E07000214",
+   "category": "bad",
+   "value": 2249,
+   "areaName": "Surrey Heath"
+ },
+ {
+   "code": "E07000214",
+   "category": "vBad",
+   "value": 670,
+   "areaName": "Surrey Heath"
+ },
+ {
+   "code": "E08000001",
+   "category": "vGood",
+   "value": 142076,
+   "areaName": "Bolton"
+ },
+ {
+   "code": "E08000001",
+   "category": "good",
+   "value": 96785,
+   "areaName": "Bolton"
+ },
+ {
+   "code": "E08000001",
+   "category": "fair",
+   "value": 38905,
+   "areaName": "Bolton"
+ },
+ {
+   "code": "E08000001",
+   "category": "bad",
+   "value": 13968,
+   "areaName": "Bolton"
+ },
+ {
+   "code": "E08000001",
+   "category": "vBad",
+   "value": 4229,
+   "areaName": "Bolton"
+ },
+ {
+   "code": "E08000019",
+   "category": "vGood",
+   "value": 259654,
+   "areaName": "Sheffield"
+ },
+ {
+   "code": "E08000019",
+   "category": "good",
+   "value": 187759,
+   "areaName": "Sheffield"
+ },
+ {
+   "code": "E08000019",
+   "category": "fair",
+   "value": 75541,
+   "areaName": "Sheffield"
+ },
+ {
+   "code": "E08000019",
+   "category": "bad",
+   "value": 25998,
+   "areaName": "Sheffield"
+ },
+ {
+   "code": "E08000019",
+   "category": "vBad",
+   "value": 7570,
+   "areaName": "Sheffield"
+ },
+ {
+   "code": "E09000012",
+   "category": "vGood",
+   "value": 146836,
+   "areaName": "Hackney"
+ },
+ {
+   "code": "E09000012",
+   "category": "good",
+   "value": 73626,
+   "areaName": "Hackney"
+ },
+ {
+   "code": "E09000012",
+   "category": "fair",
+   "value": 25710,
+   "areaName": "Hackney"
+ },
+ {
+   "code": "E09000012",
+   "category": "bad",
+   "value": 9467,
+   "areaName": "Hackney"
+ },
+ {
+   "code": "E09000012",
+   "category": "vBad",
+   "value": 3507,
+   "areaName": "Hackney"
+ },
+ {
+   "code": "E07000075",
+   "category": "vGood",
+   "value": 41866,
+   "areaName": "Rochford"
+ },
+ {
+   "code": "E07000075",
+   "category": "good",
+   "value": 29571,
+   "areaName": "Rochford"
+ },
+ {
+   "code": "E07000075",
+   "category": "fair",
+   "value": 10588,
+   "areaName": "Rochford"
+ },
+ {
+   "code": "E07000075",
+   "category": "bad",
+   "value": 2837,
+   "areaName": "Rochford"
+ },
+ {
+   "code": "E07000075",
+   "category": "vBad",
+   "value": 799,
+   "areaName": "Rochford"
+ },
+ {
+   "code": "E07000077",
+   "category": "vGood",
+   "value": 49323,
+   "areaName": "Uttlesford"
+ },
+ {
+   "code": "E07000077",
+   "category": "good",
+   "value": 29898,
+   "areaName": "Uttlesford"
+ },
+ {
+   "code": "E07000077",
+   "category": "fair",
+   "value": 9180,
+   "areaName": "Uttlesford"
+ },
+ {
+   "code": "E07000077",
+   "category": "bad",
+   "value": 2301,
+   "areaName": "Uttlesford"
+ },
+ {
+   "code": "E07000077",
+   "category": "vBad",
+   "value": 639,
+   "areaName": "Uttlesford"
+ },
+ {
+   "code": "E07000105",
+   "category": "vGood",
+   "value": 64334,
+   "areaName": "Ashford"
+ },
+ {
+   "code": "E07000105",
+   "category": "good",
+   "value": 45779,
+   "areaName": "Ashford"
+ },
+ {
+   "code": "E07000105",
+   "category": "fair",
+   "value": 16551,
+   "areaName": "Ashford"
+ },
+ {
+   "code": "E07000105",
+   "category": "bad",
+   "value": 4748,
+   "areaName": "Ashford"
+ },
+ {
+   "code": "E07000105",
+   "category": "vBad",
+   "value": 1335,
+   "areaName": "Ashford"
+ },
+ {
+   "code": "W06000023",
+   "category": "good",
+   "value": 45946,
+   "areaName": "Powys"
+ },
+ {
+   "code": "W06000023",
+   "category": "fair",
+   "value": 20078,
+   "areaName": "Powys"
+ },
+ {
+   "code": "W06000023",
+   "category": "bad",
+   "value": 6040,
+   "areaName": "Powys"
+ },
+ {
+   "code": "W06000023",
+   "category": "vBad",
+   "value": 1792,
+   "areaName": "Powys"
+ },
+ {
+   "code": "W06000024",
+   "category": "vGood",
+   "value": 26718,
+   "areaName": "Merthyr Tydfil"
+ },
+ {
+   "code": "W06000024",
+   "category": "good",
+   "value": 17786,
+   "areaName": "Merthyr Tydfil"
+ },
+ {
+   "code": "W06000024",
+   "category": "fair",
+   "value": 8837,
+   "areaName": "Merthyr Tydfil"
+ },
+ {
+   "code": "W06000024",
+   "category": "bad",
+   "value": 4112,
+   "areaName": "Merthyr Tydfil"
+ },
+ {
+   "code": "W06000024",
+   "category": "vBad",
+   "value": 1386,
+   "areaName": "Merthyr Tydfil"
+ },
+ {
+   "code": "E06000053",
+   "category": "vGood",
+   "value": 1054,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "good",
+   "value": 677,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "fair",
+   "value": 240,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "bad",
+   "value": 66,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E06000053",
+   "category": "vBad",
+   "value": 17,
+   "areaName": "Isles of Scilly"
+ },
+ {
+   "code": "E09000001",
+   "category": "vGood",
+   "value": 4937,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "good",
+   "value": 2726,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "fair",
+   "value": 687,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "bad",
+   "value": 186,
+   "areaName": "City of London"
+ },
+ {
+   "code": "E09000001",
+   "category": "vBad",
+   "value": 47,
+   "areaName": "City of London"
+ }
+]
