@@ -1,0 +1,3312 @@
+[
+ {
+   "Lower tier local authorities": "Leicester",
+   "Main language": [
+      "Gujarati",
+      "Gujarati"
+   ],
+   "Observation": 44887,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tower Hamlets",
+   "Main language": [
+      "Bengali (with Sylheti and Chatgaya)",
+      "Bengali (with Sylheti and Chatgaya)"
+   ],
+   "Observation": 32772,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Birmingham",
+   "Main language": [
+      "Urdu",
+      "Urdu"
+   ],
+   "Observation": 25131,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Brent",
+   "Main language": [
+      "Gujarati",
+      "Panjabi"
+   ],
+   "Observation": 21513,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Newham",
+   "Main language": [
+      "Bengali (with Sylheti and Chatgaya)",
+      "Romanian"
+   ],
+   "Observation": 21407,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sandwell",
+   "Main language": [
+      "Panjabi",
+      "Turkish"
+   ],
+   "Observation": 20984,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Harrow",
+   "Main language": [
+      "Romanian",
+      "Spanish"
+   ],
+   "Observation": 18987,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Enfield",
+   "Main language": [
+      "Turkish",
+      "Polish"
+   ],
+   "Observation": 18765,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Manchester",
+   "Main language": [
+      "Urdu",
+      "Nepalese"
+   ],
+   "Observation": 17572,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ealing",
+   "Main language": [
+      "Panjabi",
+      "Arabic"
+   ],
+   "Observation": 17286,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wolverhampton",
+   "Main language": [
+      "Panjabi",
+      "French"
+   ],
+   "Observation": 16538,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bradford",
+   "Main language": [
+      "Urdu",
+      "Tamil"
+   ],
+   "Observation": 15270,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Northamptonshire",
+   "Main language": [
+      "Romanian",
+      "Lithuanian"
+   ],
+   "Observation": 15250,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hillingdon",
+   "Main language": [
+      "Panjabi",
+      "Portuguese"
+   ],
+   "Observation": 13677,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hounslow",
+   "Main language": [
+      "Panjabi",
+      "Chinese (All other)"
+   ],
+   "Observation": 13059,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Southwark",
+   "Main language": [
+      "Spanish",
+      "Hungarian"
+   ],
+   "Observation": 12998,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Redbridge",
+   "Main language": [
+      "Romanian",
+      "Bulgarian"
+   ],
+   "Observation": 12828,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lambeth",
+   "Main language": [
+      "Spanish",
+      "Yiddish"
+   ],
+   "Observation": 12319,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Barnet",
+   "Main language": [
+      "Romanian",
+      "Tagalog or Filipino"
+   ],
+   "Observation": 11164,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Waltham Forest",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 10573,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Southampton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 10436,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Barking and Dagenham",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 9988,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Haringey",
+   "Main language": [
+      "Turkish",
+      ""
+   ],
+   "Observation": 9581,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Slough",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 9527,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Northamptonshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 9297,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Luton",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 8714,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rushmoor",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 8571,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Kingston upon Hull",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 8564,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Leeds",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 8271,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hackney",
+   "Main language": [
+      "Turkish",
+      ""
+   ],
+   "Observation": 8008,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wakefield",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 7900,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Nottingham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 7826,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Coventry",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 7719,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Peterborough",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 7507,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Westminster",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 7446,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Walsall",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 7437,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bolton",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 7144,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bristol",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 7017,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Kirklees",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 6857,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lewisham",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 6818,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bournemouth, Christchurch and Poole",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 6563,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Doncaster",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 6495,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Croydon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 6262,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sheffield",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 6055,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wandsworth",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 6002,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Oldham",
+   "Main language": [
+      "Bengali (with Sylheti and Chatgaya)",
+      ""
+   ],
+   "Observation": 5955,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Greenwich",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 5854,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Merton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 5761,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Liverpool",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 5743,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Havering",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 5742,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Derby",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 5528,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Buckinghamshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 5434,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Milton Keynes",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 5269,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rochdale",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 5218,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cheshire East",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 5102,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cardiff",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 4945,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Thurrock",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 4893,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bedford",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 4877,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Salford",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 4813,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Kensington and Chelsea",
+   "Main language": [
+      "French",
+      ""
+   ],
+   "Observation": 4711,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Islington",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 4645,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Camden",
+   "Main language": [
+      "French",
+      ""
+   ],
+   "Observation": 4538,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hammersmith and Fulham",
+   "Main language": [
+      "French",
+      ""
+   ],
+   "Observation": 4462,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sutton",
+   "Main language": [
+      "Tamil",
+      ""
+   ],
+   "Observation": 4383,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Blackburn with Darwen",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 4266,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Reading",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 4154,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wiltshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 4062,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Boston",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3886,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gravesham",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 3846,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Holland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3737,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Pendle",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 3549,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Arun",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3492,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Swindon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3427,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stoke-on-Trent",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 3417,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Newcastle upon Tyne",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 3399,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rugby",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3381,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Watford",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 3361,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ipswich",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 3347,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mansfield",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3325,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Lincolnshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3319,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cherwell",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3301,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Preston",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3292,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wrexham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3266,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Barnsley",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 3200,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ashford",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 3187,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Telford and Wrekin",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3089,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Fenland",
+   "Main language": [
+      "Lithuanian",
+      ""
+   ],
+   "Observation": 3084,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Warrington",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3015,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Herefordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 3005,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Redditch",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2984,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Charnwood",
+   "Main language": [
+      "Gujarati",
+      ""
+   ],
+   "Observation": 2949,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Central Bedfordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2896,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Staffordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2878,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cheshire West and Chester",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2843,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hertsmere",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2759,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Oxford",
+   "Main language": [
+      "Portuguese",
+      ""
+   ],
+   "Observation": 2707,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Plymouth",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2700,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bury",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 2697,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Gloucestershire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2669,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "King's Lynn and West Norfolk",
+   "Main language": [
+      "Lithuanian",
+      ""
+   ],
+   "Observation": 2655,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Breckland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2640,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Brighton and Hove",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 2620,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bassetlaw",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2595,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Kingston upon Thames",
+   "Main language": [
+      "Tamil",
+      ""
+   ],
+   "Observation": 2593,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gloucester",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2569,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Huntingdonshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2538,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cambridge",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 2517,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Portsmouth",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2515,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Somerset",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2472,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Suffolk",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2458,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Dudley",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 2420,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lincoln",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2385,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wychavon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2376,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Crawley",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2368,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sefton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2353,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Welwyn Hatfield",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2346,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Basingstoke and Deane",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2314,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Somerset",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2314,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Nuneaton and Bedworth",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2309,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bexley",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2258,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Basildon",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2221,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tameside",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 2179,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Carmarthenshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2145,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Dacorum",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2137,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Flintshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2136,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Calderdale",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 2130,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Medway",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2064,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wigan",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2059,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Trafford",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 2055,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cheltenham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2052,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Colchester",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 2033,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Warwick",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 2009,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lancaster",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 2006,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Maidstone",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 1969,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Blackpool",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1955,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Folkestone and Hythe",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 1938,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Harlow",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1912,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bromley",
+   "Main language": [
+      "Portuguese",
+      ""
+   ],
+   "Observation": 1880,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Swansea",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1863,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cornwall",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1853,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Kesteven",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1817,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Richmond upon Thames",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 1791,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "County Durham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1787,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Great Yarmouth",
+   "Main language": [
+      "Portuguese",
+      ""
+   ],
+   "Observation": 1782,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Somerset West and Taunton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1700,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Oadby and Wigston",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 1679,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Riding of Yorkshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1672,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Worcester",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1661,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Exeter",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1652,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Norwich",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1652,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Broxbourne",
+   "Main language": [
+      "Turkish",
+      ""
+   ],
+   "Observation": 1649,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bolsover",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1644,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Newark and Sherwood",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1617,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Spelthorne",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1592,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Windsor and Maidenhead",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1582,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North East Lincolnshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1566,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stockport",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 1565,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Burnley",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 1560,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "York",
+   "Main language": [
+      "Chinese (All other)",
+      ""
+   ],
+   "Observation": 1538,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sedgemoor",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1520,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Newport",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1503,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Dorset",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1497,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Carlisle",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1466,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bath and North East Somerset",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1400,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tamworth",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1394,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Shropshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1385,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Oxfordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1385,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Three Rivers",
+   "Main language": [
+      "Gujarati",
+      ""
+   ],
+   "Observation": 1378,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Chelmsford",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1368,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Southend-on-Sea",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1368,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Darlington",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1341,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stratford-on-Avon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1322,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rotherham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1320,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Selby",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1310,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hyndburn",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 1284,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bracknell Forest",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 1256,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Harrogate",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1254,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Berkshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1253,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Epping Forest",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1250,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stevenage",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1238,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ashfield",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1218,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Dartford",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1205,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Braintree",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1194,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Woking",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1192,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Test Valley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1174,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North West Leicestershire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1173,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Solihull",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 1163,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gateshead",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1150,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Cambridgeshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1149,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Cambridgeshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1142,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Torbay",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1141,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Eastbourne",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1133,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Merthyr Tydfil",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1092,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Middlesbrough",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 1090,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Blaby",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 1089,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "St. Helens",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1077,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Swale",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1065,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Canterbury",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 1062,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Richmondshire",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 1060,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Scarborough",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1048,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wokingham",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 1038,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Surrey Heath",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 1022,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Elmbridge",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1014,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Knowsley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1011,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Thanet",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 1003,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wirral",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 974,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Epsom and Ewell",
+   "Main language": [
+      "Portuguese",
+      ""
+   ],
+   "Observation": 934,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Guildford",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 930,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mendip",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 922,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Chichester",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 915,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Eastleigh",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 908,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Oxfordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 885,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sunderland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 864,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "St Albans",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 852,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tewkesbury",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 849,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tunbridge Wells",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 845,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Hertfordshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 844,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stafford",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 837,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hinckley and Bosworth",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 826,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Hertfordshire",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 810,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Chorley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 804,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Vale of White Horse",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 800,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gedling",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 786,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mid Devon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 782,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Derbyshire",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 763,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Melton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 761,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Reigate and Banstead",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 749,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Powys",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 748,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ceredigion",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 741,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Lakeland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 714,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Hampshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 694,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Tyneside",
+   "Main language": [
+      "Bengali (with Sylheti and Chatgaya)",
+      ""
+   ],
+   "Observation": 693,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Erewash",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 690,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bridgend",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 686,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Runnymede",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 679,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Lancashire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 674,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hastings",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 669,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Halton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 663,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Newcastle-under-Lyme",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 662,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rhondda Cynon Taf",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 662,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stockton-on-Tees",
+   "Main language": [
+      "Urdu",
+      ""
+   ],
+   "Observation": 654,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Suffolk",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 652,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Worthing",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 652,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Amber Valley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 636,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "New Forest",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 630,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mid Sussex",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 627,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Ribble",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 626,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wyre Forest",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 626,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Norfolk",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 599,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hart",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 576,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Lindsey",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 571,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Dover",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 568,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Stroud",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 564,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Winchester",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 563,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Kesteven",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 553,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Blaenau Gwent",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 552,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Horsham",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 531,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Sevenoaks",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 522,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Northumberland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 509,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "East Devon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 491,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Havant",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 486,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Isle of Wight",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 486,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Caerphilly",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 484,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Tyneside",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 471,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Broxtowe",
+   "Main language": [
+      "Hungarian",
+      ""
+   ],
+   "Observation": 467,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lichfield",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 466,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Conwy",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 450,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Uttlesford",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 449,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Warwickshire",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 438,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hambleton",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 437,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Hartlepool",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 433,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mole Valley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 431,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tendring",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 415,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Chesterfield",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 407,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rossendale",
+   "Main language": [
+      "Bengali (with Sylheti and Chatgaya)",
+      ""
+   ],
+   "Observation": 405,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tonbridge and Malling",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 402,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Waverley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 398,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Eden",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 395,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Forest of Dean",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 382,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gosport",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 382,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Brentwood",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 377,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cannock Chase",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 366,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Staffordshire",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 365,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Harborough",
+   "Main language": [
+      "Gujarati",
+      ""
+   ],
+   "Observation": 363,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Lewes",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 355,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Gwynedd",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 344,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ryedale",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 339,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wealden",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 337,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "High Peak",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 336,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Teignbridge",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 332,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Malvern Hills",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 321,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Babergh",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 317,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Lindsey",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 317,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Norfolk",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 315,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Pembrokeshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 311,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Broadland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 309,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Cotswold",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 302,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Denbighshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 294,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Neath Port Talbot",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 294,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Redcar and Cleveland",
+   "Main language": [
+      "Arabic",
+      ""
+   ],
+   "Observation": 290,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Wyre",
+   "Main language": [
+      "Bulgarian",
+      ""
+   ],
+   "Observation": 273,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rushcliffe",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 272,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Fylde",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 265,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Tandridge",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 264,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Adur",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 262,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North Devon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 257,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Torfaen",
+   "Main language": [
+      "Nepalese",
+      ""
+   ],
+   "Observation": 250,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Ribble Valley",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 245,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "City of London",
+   "Main language": [
+      "Spanish",
+      ""
+   ],
+   "Observation": 243,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Mid Suffolk",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 243,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Monmouthshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 243,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "North East Derbyshire",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 235,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Fareham",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 231,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Bromsgrove",
+   "Main language": [
+      "Panjabi",
+      ""
+   ],
+   "Observation": 215,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Allerdale",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 211,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Vale of Glamorgan",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 196,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Staffordshire Moorlands",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 176,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Derbyshire Dales",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 173,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rother",
+   "Main language": [
+      "Romanian",
+      ""
+   ],
+   "Observation": 171,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Craven",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 167,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "West Devon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 166,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "South Hams",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 152,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Castle Point",
+   "Main language": [
+      "Yiddish",
+      ""
+   ],
+   "Observation": 148,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rutland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 137,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Torridge",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 126,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Maldon",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 119,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Barrow-in-Furness",
+   "Main language": [
+      "Tagalog or Filipino",
+      ""
+   ],
+   "Observation": 116,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Copeland",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 102,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Isle of Anglesey",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 91,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Rochford",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 86,
+   "FIELD4": "",
+   "FIELD5": ""
+},
+ {
+   "Lower tier local authorities": "Isles of Scilly",
+   "Main language": [
+      "Polish",
+      ""
+   ],
+   "Observation": 16,
+   "FIELD4": "",
+   "FIELD5": ""
+}
+]
