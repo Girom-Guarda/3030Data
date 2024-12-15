@@ -1,0 +1,372 @@
+[
+ {
+   "city": "York",
+   "lat": 53.958332,
+   "long": -1.080278
+ },
+ {
+   "city": "Worcester",
+   "lat": 52.192001,
+   "long": -2.22
+ },
+ {
+   "city": "Winchester",
+   "lat": 51.063202,
+   "long": -1.308
+ },
+ {
+   "city": "Wells",
+   "lat": 51.209,
+   "long": -2.647
+ },
+ {
+   "city": "Wakefield",
+   "lat": 53.68,
+   "long": -1.49
+ },
+ {
+   "city": "Truro",
+   "lat": 50.259998,
+   "long": -5.051
+ },
+ {
+   "city": "Sunderland",
+   "lat": 54.906101,
+   "long": -1.38113
+ },
+ {
+   "city": "Sheffield",
+   "lat": 53.383331,
+   "long": -1.466667
+ },
+ {
+   "city": "Salford",
+   "lat": 53.483002,
+   "long": -2.2931
+ },
+ {
+   "city": "St. Davids",
+   "lat": 51.882,
+   "long": -5.269
+ },
+ {
+   "city": "St.Albans",
+   "lat": 51.755001,
+   "long": -0.336
+ },
+ {
+   "city": "Ripon",
+   "lat": 54.138,
+   "long": -1.524
+ },
+ {
+   "city": "Portsmouth",
+   "lat": 50.805832,
+   "long": -1.087222
+ },
+ {
+   "city": "Perth",
+   "lat": 56.396999,
+   "long": -3.437
+ },
+ {
+   "city": "Nottingham",
+   "lat": 52.950001,
+   "long": -1.15
+ },
+ {
+   "city": "Newry",
+   "lat": 54.175999,
+   "long": -6.349
+ },
+ {
+   "city": "Newcastle Upon Tyne",
+   "lat": 54.966667,
+   "long": -1.6
+ },
+ {
+   "city": "Liverpool",
+   "lat": 53.400002,
+   "long": -2.983333
+ },
+ {
+   "city": "Lincoln",
+   "lat": 53.234444,
+   "long": -0.538611
+ },
+ {
+   "city": "Lichfield",
+   "lat": 52.683498,
+   "long": -1.82653
+ },
+ {
+   "city": "Leicester",
+   "lat": 52.633331,
+   "long": -1.133333
+ },
+ {
+   "city": "Lancaster",
+   "lat": 54.047001,
+   "long": -2.801
+ },
+ {
+   "city": "Hereford",
+   "lat": 52.056499,
+   "long": -2.716
+ },
+ {
+   "city": "Gloucester",
+   "lat": 51.864445,
+   "long": -2.244444
+ },
+ {
+   "city": "Glasgow",
+   "lat": 55.860916,
+   "long": -4.251433
+ },
+ {
+   "city": "Exeter",
+   "lat": 50.716667,
+   "long": -3.533333
+ },
+ {
+   "city": "Ely",
+   "lat": 52.398056,
+   "long": 0.262222
+ },
+ {
+   "city": "Durham",
+   "lat": 54.7761,
+   "long": -1.5733
+ },
+ {
+   "city": "Dundee",
+   "lat": 56.462002,
+   "long": -2.9707
+ },
+ {
+   "city": "Derry",
+   "lat": 54.9958,
+   "long": -7.3074
+ },
+ {
+   "city": "Derby",
+   "lat": 52.916668,
+   "long": -1.466667
+ },
+ {
+   "city": "Coventry",
+   "lat": 52.408054,
+   "long": -1.510556
+ },
+ {
+   "city": "Chichester",
+   "lat": 50.836498,
+   "long": -0.7792
+ },
+ {
+   "city": "Chester",
+   "lat": 53.189999,
+   "long": -2.89
+ },
+ {
+   "city": "Chelmsford",
+   "lat": 51.736099,
+   "long": 0.4798
+ },
+ {
+   "city": "Carlisle",
+   "lat": 54.890999,
+   "long": -2.944
+ },
+ {
+   "city": "Canterbury",
+   "lat": 51.279999,
+   "long": 1.08
+ },
+ {
+   "city": "Cambridge",
+   "lat": 52.205276,
+   "long": 0.119167
+ },
+ {
+   "city": "Brighton & Hove",
+   "lat": 50.827778,
+   "long": -0.152778
+ },
+ {
+   "city": "Bradford",
+   "lat": 53.799999,
+   "long": -1.75
+ },
+ {
+   "city": "Bath",
+   "lat": 51.380001,
+   "long": -2.36
+ },
+ {
+   "city": "Peterborough",
+   "lat": 52.573921,
+   "long": -0.25083
+ },
+ {
+   "city": "Elgin",
+   "lat": 57.653484,
+   "long": -3.335724
+ },
+ {
+   "city": "Stoke-on-Trent",
+   "lat": 53.002666,
+   "long": -2.179404
+ },
+ {
+   "city": "Solihull",
+   "lat": 52.412811,
+   "long": -1.778197
+ },
+ {
+   "city": "Cardiff",
+   "lat": 51.481583,
+   "long": -3.17909
+ },
+ {
+   "city": "Eastbourne",
+   "lat": 50.768036,
+   "long": 0.290472
+ },
+ {
+   "city": "Oxford",
+   "lat": 51.752022,
+   "long": -1.257677
+ },
+ {
+   "city": "London",
+   "lat": 51.509865,
+   "long": -0.118092
+ },
+ {
+   "city": "Swindon",
+   "lat": 51.568535,
+   "long": -1.772232
+ },
+ {
+   "city": "Gravesend",
+   "lat": 51.441883,
+   "long": 0.370759
+ },
+ {
+   "city": "Northampton",
+   "lat": 52.240479,
+   "long": -0.902656
+ },
+ {
+   "city": "Rugby",
+   "lat": 52.370876,
+   "long": -1.265032
+ },
+ {
+   "city": "Sutton Coldfield",
+   "lat": 52.570385,
+   "long": -1.824042
+ },
+ {
+   "city": "Harlow",
+   "lat": 51.772938,
+   "long": 0.10231
+ },
+ {
+   "city": "Aberdeen",
+   "lat": 57.149651,
+   "long": -2.099075
+ },
+ {
+   "city": "Swansea",
+   "lat": 51.621441,
+   "long": -3.943646
+ },
+ {
+   "city": "Chesterfield",
+   "lat": 53.235046,
+   "long": -1.421629
+ },
+ {
+   "city": "Lisburn",
+   "lat": 54.50972,
+   "long": -6.0374
+ },
+ {
+   "city": "Londonderry",
+   "lat": 55.006763,
+   "long": -7.318268
+ },
+ {
+   "city": "Salisbury",
+   "lat": 51.068787,
+   "long": -1.794472
+ },
+ {
+   "city": "Manchester",
+   "lat": 53.483959,
+   "long": -2.244644
+ },
+ {
+   "city": "Bristol",
+   "lat": 51.454514,
+   "long": -2.58791
+ },
+ {
+   "city": "Wolverhampton",
+   "lat": 52.59137,
+   "long": -2.110748
+ },
+ {
+   "city": "Preston",
+   "lat": 53.765762,
+   "long": -2.692337
+ },
+ {
+   "city": "Hastings",
+   "lat": 50.854259,
+   "long": 0.573453
+ },
+ {
+   "city": "Birmingham",
+   "lat": 52.489471,
+   "long": -1.898575
+ },
+ {
+   "city": "Edinburgh",
+   "lat": 55.953251,
+   "long": -3.188267
+ },
+ {
+   "city": "Southampton",
+   "lat": 50.909698,
+   "long": -1.404351
+ },
+ {
+   "city": "Belfast",
+   "lat": 54.607868,
+   "long": -5.926437
+ },
+ {
+   "city": "Leeds",
+   "lat": 53.801277,
+   "long": -1.548567
+ },
+ {
+   "city": "Hull",
+   "lat": 53.76775,
+   "long": -0.335827
+ },
+ {
+   "city": "Plymouth",
+   "lat": 50.376289,
+   "long": -4.143841
+ },
+ {
+   "city": "Inverness",
+   "lat": 57.477772,
+   "long": -4.224721
+ }
+]
